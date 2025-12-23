@@ -1,0 +1,83 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Thickened edge detail",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Thickened Edge Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Sill Plate",
+        "Anchor Bolts",
+        "15M Rebar",
+        "6x6x6 WWM",
+        "Fibre Mesh",
+        "Poly Vapour Barrier",
+        "Compacted Granular 'A'",
+        "Extruded Polystyrene"
+      ],
+      "text_verbatim": "SECTION\nTHICKENED EDGE\n2\nS1\n1/2\"=1'-0\"\nSLOPE GRADE AWAY 2%, & INSULATION (IF PRESENT)\nSILL PLATE\nc/w 1/2\"Ø ANCHOR BOLTS @ 48\" o.c. (LEAVE OPENINGS IN SILL PLATE @ DOOR LOCATIONS)\n(4) 15M REBAR (SEE NOTES FOR COVER)\n6x6x6 WWM OR 16\" x 16\" 10M GRID OR FIBRE MESH\n6mil POLY VAPOUR BARRIER (OPTIONAL)\nCOMPACTED GRANULAR 'A'\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi\n6'-0\"\n2\"\n1'-0\"",
+      "summary": "This section view details a thickened edge foundation with a slope grade away of 2% and optional insulation. The sill plate is secured with 1/2\" diameter anchor bolts spaced at 48 inches on center, with openings left at door locations. The foundation includes four 15M rebar bars, with cover specifications noted elsewhere. The slab reinforcement options include 6x6x6 welded wire mesh (WWM), a 16\" x 16\" 10M grid, or fiber mesh. A 6 mil poly vapor barrier is optional, and the base consists of compacted granular 'A'. The section also specifies a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi. Dimensions include a 6-foot width, a 2-inch thickened edge, and a 1-foot depth.",
+      "project_id": "25-01-014",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Intermediate thickened strip footing",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "3/S1"
+      ],
+      "element_type": "Intermediate Thickened Strip Footing",
+      "element_callouts": [],
+      "key_components": [
+        "15M Rebar",
+        "Compacted Granular 'A'",
+        "Extruded Polystyrene",
+        "Poly"
+      ],
+      "text_verbatim": "SECTION\nINTERMEDIATE THICKENED STRIP FOOTING\n3\nS1\n1/2\"=1'-0\"\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi c/w 6 mil POLY.\n(2) 15M REBAR CONT.\nCOMPACTED GRANULAR 'A'\n1'-0\"",
+      "summary": "This section illustrates an intermediate thickened strip footing with continuous reinforcement using two 15M rebar bars. The footing is supported by compacted granular 'A' and includes a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi, accompanied by a 6 mil poly layer. The section is 1 foot deep, providing structural support for the floating slab.",
+      "project_id": "25-01-014",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Plan",
+      "location": "Foundation – Floating slab layout",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "1/S1",
+        "2/S1",
+        "3/S1"
+      ],
+      "element_type": "Floating Slab Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Floating Slab",
+        "Anchor Bolts"
+      ],
+      "text_verbatim": "PLAN\nFLOATING SLAB\n1\nS1\n1/8\"=1'-0\"\nPLATE\n1/2\"Ø ANCHOR BOLTS @ 48\" o.c.\n60'-0\"\n52'-0\"",
+      "summary": "This plan view shows the layout of a floating slab foundation, measuring 60 feet by 52 feet. The slab is reinforced with 1/2\" diameter anchor bolts spaced at 48 inches on center. Section callouts 1/S1, 2/S1, and 3/S1 indicate where detailed sections of the slab are provided. The plan provides a top-down view of the slab's dimensions and reinforcement layout, essential for ensuring proper construction and load distribution.",
+      "project_id": "25-01-014",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    }
+  ]
+}

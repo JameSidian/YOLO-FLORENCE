@@ -1,0 +1,18 @@
+{
+  "image_id": "Clare Brubacher goat barn (25-01-005)_page_002.png",
+  "model": "florence-2-base-ft",
+  "tasks_run": [
+    "ocr",
+    "caption",
+    "dense_caption"
+  ],
+  "extraction": {
+    "caption": "with lots of information.",
+    "dense_caption": "whiteboard",
+    "ocr_text": "MCC.MEC.MCCP.M.C.MNC-M.MCH.MCD.MTC.MFC.MPC.MMC.MRC.Mcc.MOC.MBC.MLC.MVC.MDC.MAC.MCT.MACH.MICH.MECH.MATCH.MACK.MARCH.MOCK.MICK.MECK.MARK.MOM.MAY.MEM.MID.MEG.MAD.MATH.MOO.MOV.MOT.MEX.MEND.MAND.MATT.MADE.MILL.MASS.MEW.MAM.MOU.MUN.MANT.MOND.MART.MOST.MOUN.MTD.MIGHT.MOW.MIL.MUS.MULT.MUM.MAST.MES.MUST.MALL.MOS.MOL.MEST. M.N.M.M.S.M M.MRS.MM. M M.S. M.T.M, M.D.M"
+  },
+  "metadata": {
+    "source": "screenshot",
+    "ingestion_version": "v1"
+  }
+}

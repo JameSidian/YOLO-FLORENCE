@@ -1,0 +1,75 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Unknown",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "3/S1"
+      ],
+      "element_type": "Long 'D' Ring - Dolly Top View",
+      "element_callouts": [],
+      "key_components": [
+        "Structural Steel",
+        "Dolly"
+      ],
+      "text_verbatim": "24 1/2\"\n2\"\n3\nS1\nLONG \"D\" RING - DOLLY - TOP VIEW\nSCALE: 1:8",
+      "summary": "This detail shows the top view of a Long 'D' Ring - Dolly. The dimension '24 1/2\"' indicates the length of the dolly, while '2\"' specifies its width. The section callout '3/S1' refers to this specific view on sheet S1. The drawing is scaled at 1:8, providing a detailed representation of the component's dimensions and layout. The dolly is part of a structural steel assembly, designed for lifting applications.",
+      "project_id": "25-01-020",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Unknown",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Long 'D' Ring - Dolly Front View",
+      "element_callouts": [],
+      "key_components": [
+        "AISI 4142 Steel Plate",
+        "Structural Steel",
+        "Dolly"
+      ],
+      "text_verbatim": "MAX. CAPACITY TO BE CLEARLY LABELED\n49.5°\n40.5°\n4\"\n6\"\n3 1/2\"\n30\"\n17\"\n3 1/2\"\n3\"\n6\"\n24 1/2\"\n2\" THICK AISI 4142 STEEL PLATE\nLIFTING BEAM NOT SHOWN FOR CLARITY\nPLATE CUT-OUT TO BE SALVAGED FOR ALTERNATE USE\n2\nS1\nLONG \"D\" RING - DOLLY - FRONT VIEW\nSCALE: 1:8",
+      "summary": "This detail presents the front view of a Long 'D' Ring - Dolly. The dimensions '49.5°' and '40.5°' indicate the angles of the top corners, while '4\"', '6\"', '3 1/2\"', '30\"', '17\"', '3\"', and '24 1/2\"' specify various lengths and widths of the component. The material is a 2\" thick AISI 4142 steel plate. The section callout '2/S1' identifies this view on sheet S1. The drawing emphasizes the need for clear labeling of the maximum capacity and notes that the lifting beam is not shown for clarity. The plate cut-out is to be salvaged for alternate use.",
+      "project_id": "25-01-020",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Unknown",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Long 'D' Ring - Dolly Front View with Parameters",
+      "element_callouts": [],
+      "key_components": [
+        "AISI 4142 Steel Plate",
+        "Structural Steel",
+        "Dolly"
+      ],
+      "text_verbatim": "PARAMETERS\nMAXIMUM LIFTING CAPACITY (MAXIMUM LOAD): 17 TONS PER LINK. SEE TABLE FOR REDUCED CAPACITIES.\nLIFTING CAPACITY MUST BE CLEARLY LABELED ON THE LIFTING DEVICE.\nA PERMANENT RECORD MUST BE KEPT OF THIS DRAWING.\nDEVICE MUST BE OPERATED AND MAINTAINED AS PER SECTION 51 OF O.REG. 851 (INDUSTRIAL ESTABLISHMENTS) UNDER THE OHSA.\nLIFTING LUGS ARE DESIGNED FOR VERTICAL LIFTS ONLY.\nSPECIAL PROVISIONS SHALL BE MADE TO ENSURE LIFTING LUGS ARE CENTERED ON THE SHACKLE PIN.\nSTRUCTURAL STEEL\nSTRUCTURAL STEEL SHALL CONFORM TO THE LATEST EDITION OF S16-09\nPLATES TO BE AISI 4142 (Fy = 100 ksi) MATERIAL (MINIMUM).\nALL STRUCTURAL STEEL SHALL BE NEW MATERIAL.\nALL PLATES PAINTED AS SPECIFIED BY THE OWNER.\nREDUCED CAPACITY - SHACKLE PIN DIA.\n3\" DIA.\nMAX CAPACITY (TONS)\n17\nLIFTING BEAM NOT SHOWN FOR CLARITY\nPLATE CUT-OUT TO BE SALVAGED FOR ALTERNATE USE\n2\" THICK AISI 4142 STEEL PLATE\n2\nS1\nLONG \"D\" RING - DOLLY - FRONT VIEW\nSCALE: 1:8",
+      "summary": "This detail provides the front view of a Long 'D' Ring - Dolly, along with its design parameters and specifications. The maximum lifting capacity is 17 tons per link, with a 3\" diameter shackle pin. The drawing emphasizes the need for clear labeling of the lifting capacity and compliance with safety regulations under the OHSA. The structural steel used is AISI 4142 with a minimum yield strength of 100 ksi. The section callout '2/S1' identifies this view on sheet S1. The drawing notes that the lifting beam is not shown for clarity and that the plate cut-out should be salvaged for alternate use. The material is specified as a 2\" thick AISI 4142 steel plate.",
+      "project_id": "25-01-020",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – truss bracing detail",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Truss Bracing Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Pre-engineered trusses",
+        "Wood stud wall",
+        "2x4 diagonal bracing",
+        "2x6 ladder framing",
+        "2x4 strut",
+        "Ardox nails"
+      ],
+      "text_verbatim": "PRE-ENGINEERED TRUSSES @ SPACING PER PLAN (DESIGNED BY OTHERS) SUBMIT P. ENG. STAMPED SHOP DRAWINGS FOR REVIEW. (TYP. U.N.O.)\nALIGN TRUSSES w/ STUD BELOW (TYP. U.N.O.)\nWOOD STUD WALL. SEE PLAN.\nUPLIFT CLIPS TO BE PROVIDED PER TRUSS MANUFACTURER / ENGINEER DESIGN.\nTOE NAIL TRUSSES TO TOP PLATE w/ (4) 3\" NAILS PER TRUSS IN ADDITION TO UPLIFT CLIPS (TYP. U.N.O.)\nWHERE OVERHANG EXCEEDS 1'-4\" (FOR END TRUSS 5.5\") AND PROVIDE 2x6 OVERHANG FRAMING CANTILEVERED.\n2x6 LADDER FRAMING @ 16\" o.c.\nCLADDING, PER PLAN.\n2x4 STRAPPING ON FACE OF GABLE END TRUSS\nEXTERIOR WALL, PER PLAN. (TYP.)\nFASTEN GABLE END TRUSS TO TOP PLATE w/ 3-1/2\" NAILS @ 10\" o.c. OR FASTEN GABLE END TRUSS TO EACH STUD w/ (3) 3-1/2\" NAILS. **POST WALLS ONLY FASTEN GABLE END TRUSS TO POSTS w/ (6) 4\" NAILS.\nSPACING AS SPECIFIED BY BRACE DESIGNER\n48'-0\" MAXIMUM\n2x4 STRUT x 5'-0\" LONG @ TOP & BOTTOM WITH (2) 3-1/2\" NAILS @ EACH TRUSS WEB MEMBER\nANCHOR 2x4 DIAGONAL BRACE TO LATERAL WITH (4) 3-1/2\" NAILS @ INTERSECTION OF TRUSS WEB & TRUSS LATERAL\n2x4 DIAGONAL \"X\" BRACE ON OPPOSITE SIDE OF TRUSS AT ENDWALLS & WHERE SPECIFIED ELSEWHERE\nANCHOR 2x4 DIAGONAL \"X\" ON OPPOSITE SIDE OF WEB WITH (2) 3-1/2\" NAILS @ EACH TRUSS\nBUTT 2x4 LATERALS @ ALL SPLICE LOCATIONS. ENSURE BUTT JOINT IS TIGHT & CENTERED ON TRUSS WEB.\nLAP 2x4 DIAGONAL (MIN. 2 TRUSSES) TO ENSURE DIAGONAL BRACE EXTENDS COMPLETELY FROM TOP CHORD TO BOTTOM CHORD OF TRUSS. (AS REQUIRED)\nTRUSS TOP CHORD\nTRUSS WEB MEMBER\nTRUSS BOTTOM CHORD\nROOF TRUSS BRACING NOTES\n1. CONTRACTOR AND/OR OWNER TO NOTIFY MANUFACTURER OF ANY TRUSS DEFICIENCIES SUCH AS DAMAGED OR BROKEN TRUSSES, WARPING OF TRUSS MEMBERS, AND MISSING OR OFFSET TRUSS PLATES.\n2. DIAGONAL BRACING MUST BE PROVIDED ON ALL WEB MEMBERS THAT REQUIRE LATERAL BRACING. DIAGONAL BRACING SHALL BE SPACED AS NOTED ON THE ATTACHED DRAWINGS. X-BRACING SHALL BE PROVIDED AT ENDWALL AND AT INTERVALS NOTED ON THE ROOF PLAN.\n3. PERMANENT LATERAL BRACING TO BE INSTALLED ON WEB MEMBERS AS INDICATED ON THE ROOF PLAN AND MANUFACTURER'S DRAWINGS.\n4. PROVIDE DIAGONAL BRACING AT ALL DISCONTINUITIES IN LATERAL BRACING SUCH AS WHERE TRUSS TYPE CHANGES THE TRUSS SUPPLIER SHALL DESIGN THE TRUSSES FOR THE BRACING NOTED. BRACING DETAILS WILL NOT BE MODIFIED UNLESS SPECIFIED BY THE BUILDING DESIGNER.\n5. TRUSS SUPPLIER WILL DESIGN TRUSSES FOR BRACING NOTED. BRACING DETAILS WILL NOT BE MODIFIED UNLESS SPECIFIED BY THE BUILDING DESIGNER.",
+      "summary": "This detail shows the truss bracing system for the roof, including pre-engineered trusses aligned with wood stud walls. The trusses are secured with uplift clips and toe nails, as specified in the notes. The bracing includes 2x4 diagonal 'X' braces and 2x6 ladder framing, with specific nail sizes and spacing detailed. The roof truss bracing notes emphasize the need for diagonal bracing on all web members and permanent lateral bracing as per the roof plan. The text specifies the use of 2x4 struts and Ardox nails for securing the trusses, with a maximum spacing of 48'-0\". The detail ensures compliance with manufacturer and engineer designs, highlighting the importance of notifying the manufacturer of any truss deficiencies.",
+      "project_id": "25-01-006",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – typical foundation wall CW8",
+      "level": "Foundation",
+      "orientation": "Vertical section",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Foundation Wall Section",
+      "element_callouts": [],
+      "key_components": [
+        "Concrete foundation wall",
+        "P.T. sill plate",
+        "Metal flashing",
+        "Rigid insulation",
+        "Strip footing",
+        "15M rebar"
+      ],
+      "text_verbatim": "EXTERIOR WALL, PER PLAN. (TYP.)\nMETAL FLASHING, AS PER CLIENT\nP.T. SILL PLATE c/w SILL GASKET c/w 1/2\"dia. ANCHOR BOLTS @ 48\" o.c. (LEAVE OPENINGS IN SILL PLATE AT DOOR LOCATIONS) (TYP.)\n8\" CONCRETE FOUNDATION WALL (TYP. U.N.O.) c/w\n• 15M VERTICALS @ 48\" o.c.\n• (2) 15M HORIZ. @ TOP OF WALL\n• (1) 15M HORIZ. @ GRADE\nSLAB, PER PLAN (TYP.)\n2\" RIGID INSULATION (R-10, 24\" BELOW GRADE MIN.) AS REQ'D BY CODE (TYP.)\n15M DOWELS x24\" lg. w/ 6\" EMBED. (@ SPACING TO SUIT VERT'S)\n24\" x8\" CONT. CONCRETE STRIP FOOTING c/w (2) 15M CONT. BARS (TYP. U.N.O.)\nFOUNDATIONS ARE TO BEAR ON UNDISTURBED NATIVE SOIL OR COMPACTED FILL APPROVED BY GEOTECHNICAL ENGINEER. (TYP.)\nGRADE (SLOPE AWAY FROM BLDG)\nBACKFILL w/ PARENT MATERIAL\n4'-0\" (MIN.)",
+      "summary": "This section illustrates a typical foundation wall detail labeled CW8. The foundation wall is 8 inches thick and constructed of concrete, reinforced with 15M vertical rebar spaced at 48 inches on center, and horizontal rebar at the top and grade levels. A P.T. sill plate with a sill gasket is anchored with 1/2-inch diameter bolts at 48-inch intervals. The wall includes 2-inch rigid insulation (R-10) extending 24 inches below grade. The foundation rests on a continuous 24-inch by 8-inch strip footing, reinforced with two 15M continuous bars. The foundation is designed to bear on undisturbed native soil or compacted fill, as approved by a geotechnical engineer. Metal flashing is specified as per client requirements, and the grade slopes away from the building.",
+      "project_id": "25-01-006",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – wind column section",
+      "level": "Foundation",
+      "orientation": "Vertical section",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Wind Column Section",
+      "element_callouts": [],
+      "key_components": [
+        "Steel wind column",
+        "Concrete strip footing",
+        "Thickened wall",
+        "Slab-on-grade",
+        "15M rebar",
+        "Steel plate"
+      ],
+      "text_verbatim": "PRE-ENG. ROOF TRUSSES @ WIND COLUMN, SEE PLAN. (TYP.)\n6\"x14\"x1/2\" STEEL PLATE c/w (6) 3/8\" THRU BOLTS\nC6x8.2 CHANNEL\nDOUBLE TOP PLATES\nEDGE OF WALL (BEYOND)\nEMBEDDED STEEL WIND COLUMN AS PER PLAN, BOTH SIDES OF BUILDING. (TYP.)\n1/2\" CAP PLATE c/w (4) 1/2\"dia. A325 BOLTS.\n(2) 1/2\" dia. BOLTS THRU 1/2\" END PLATE AND DOUBLE PLATE EACH SIDE OF WEB\nTHICKEN WALL TO 14\" @ WIND COLUMN. (TYP.)\nSTRIP FOOTING (BEYOND) CONTINUE REINFORCING THROUGH COLUMN FOOTING. (TYP.)\n3'-0\" x 3'-0\" x 12\" THICK FOOTING UNDER WIND COLUMN. (TYP.)\nFOUNDATIONS ARE TO BEAR ON UNDISTURBED NATIVE SOIL OR COMPACTED FILL APPROVED BY GEOTECHNICAL ENGINEER. (TYP.)\nSLAB PER PLAN\nBACKFILL w/ PARENT MATERIAL\n(2) 15M x 8'-0\" THRU HOLE IN WEB OF BEAM\n(2) 15M HAIRPIN THRU SLOTTED HOLE IN STEEL COLUMN\n14\" x (COLUMN DEPTH + 1/2\") x 3/4\"TH. BASEPLATE c/w (2) 5/8\"dia. SLEEVE ANCHORS w/ 6\" EMBED. (TYP.)",
+      "summary": "This section details the wind column foundation, featuring an embedded steel wind column with a 6\"x14\"x1/2\" steel plate secured by 3/8\" thru bolts. The column is supported by a 3'-0\" x 3'-0\" x 12\" thick footing, reinforced with 15M rebar. The wall is thickened to 14 inches at the wind column, and the foundation is designed to bear on undisturbed native soil or compacted fill. The slab-on-grade is shown per plan, with backfill using parent material. The section includes a C6x8.2 channel and double top plates, with a 1/2\" cap plate secured by A325 bolts. The design ensures structural integrity against wind forces, with specific reinforcement details provided for the column and footing.",
+      "project_id": "25-01-006",
+      "page_number": 2,
+      "region_number": 2,
+      "relative_path": "page_002/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Schedule",
+      "location": "Foundation – footing schedule",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Footing Schedule",
+      "element_callouts": [
+        "CF1"
+      ],
+      "key_components": [
+        "Strip footings",
+        "15M rebar",
+        "Concrete"
+      ],
+      "text_verbatim": "FOOTING SCHEDULE\nMARK SIZE REINFORCING\nCF1 3'-0\"x3'-0\"x12\" (3) 15M B.E.W.\nNOTES:\n1. ALL STRIP FOOTINGS TO BE 24\" x 8\" c/w (2) 15M CONTINUOUS (U.N.O.).\n2. ALL FOOTINGS TO BE CENTERED ON COLUMNS / WALLS ABOVE (U.N.O.).\nFOUNDATION PLAN NOTES\n1. EXTERIOR DIMENSIONS TAKEN TO OUTSIDE FACE OF FOUNDATION / INSIDE FACE OF EXT'R CLADDING (U.N.O.)\nA. 2x6 STUD WALLS - OUTSIDE OF STRAPPING IN LINE WITH OUTSIDE FACE OF FOUNDATION WALL BELOW.\nB. 2x8 STUD WALLS - OUTSIDE OF STUDS IN LINE WITH OUTSIDE FACE OF FOUNDATION WALL BELOW.\nC. CONTRACTOR SHALL REVIEW & CONFIRM ABOVE AND ENSURE DIMENSIONS COORDINATED w/ TRUSS SUPPLIER.\n2. SOLID HATCH DENOTES DOOR LOCATIONS. COORDINATE w/ FLOOR PLANS. DROP TOP OF FOUNDATION WALL 6\" BELOW FINISHED FLOOR AND OVERPOUR SLAB, CONTINUE WALL REINFORCING BELOW DROP. (TYP. U.N.O.)\n3. S.F. DENOTES LOCATION OF STEP FOOTING. TOP OF FOOTING ELEVATIONS GIVEN ARE MINIMUM DEPTHS. CONTRACTOR TO ENSURE THAT FOOTINGS BEAR ON SOIL APPROVED BY QUALIFIED SOILS INSPECTOR.\n4. ALL STRIP FOOTINGS TO BE 24\" x 8\" c/w (2) 15M CONTINUOUS (U.N.O.).\n5. ALL FOOTINGS TO BE CENTERED ON COLUMNS / WALLS ABOVE (U.N.O.).",
+      "summary": "The footing schedule specifies the dimensions and reinforcement for the footings, with CF1 marked as a 3'-0\"x3'-0\"x12\" footing reinforced with three 15M bars. Notes indicate that all strip footings are to be 24\" x 8\" with two 15M continuous bars unless noted otherwise (U.N.O.). The schedule ensures that all footings are centered on columns or walls above. Foundation plan notes provide additional specifications, such as exterior dimensions taken to the outside face of the foundation and coordination with truss suppliers. The notes also detail the location of step footings and the requirement for footings to bear on approved soil.",
+      "project_id": "25-01-006",
+      "page_number": 2,
+      "region_number": 3,
+      "relative_path": "page_002/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Detail",
+      "location": "Foundation – wind column footing detail",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Foundation Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Thickened slab",
+        "Strip footing",
+        "15M hairpins",
+        "Concrete"
+      ],
+      "text_verbatim": "FOUNDATION DETAIL\n3'-0\" x 3'-0\" x 12\" THICK FOOTING UNDER WIND COLUMN. (TYP.)\nTHICKEN WALL TO 14\" @ WIND COLUMN. (TYP.)\nTYPICAL FOUNDATION WALL, SEE FOUNDATION PLAN FOR SIZE & REINFORCING. (TYP.)\nSTRIP FOOTING BELOW\nDOUBLE 15M HAIRPINS\nAPPROXIMATE EXTENT OF 8\" THICKENED SLAB\nOUTSIDE\nINSIDE",
+      "summary": "This foundation detail illustrates the footing under a wind column, which is 3'-0\" x 3'-0\" x 12\" thick. The wall is thickened to 14 inches at the wind column, and the detail includes a typical foundation wall with reference to the foundation plan for size and reinforcing. The strip footing is shown below, with double 15M hairpins providing additional reinforcement. The approximate extent of an 8-inch thickened slab is indicated, ensuring structural stability and load distribution. The detail emphasizes the integration of the foundation components to support wind loads effectively.",
+      "project_id": "25-01-006",
+      "page_number": 2,
+      "region_number": 4,
+      "relative_path": "page_002/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Plan",
+      "location": "Foundation – main barn area",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Foundation Plan",
+      "element_callouts": [
+        "F1",
+        "CWB",
+        "ST1"
+      ],
+      "key_components": [
+        "Slab-on-Grade",
+        "Foundation Walls"
+      ],
+      "text_verbatim": "FOUNDATION PLAN\nDROP WALL AT DOOR LOCATIONS TO BE FLUSH WITH FLOOR. (TYP. OF ALL OPENINGS)\nF1\nCWB\nST1\n18'-8\"\n15'-0 1/2\"\n3'-0\"\n2'-4 1/2\"\n107'-0\"\n256'-0\"\n8'-10 1/2\"\n98'-3\"\n52'-0\"\n8'-3\"\n75'-0\"\n54'-0\"\n3'-3\"\n29'-0\"\n5'-0\"\n",
+      "summary": "This foundation plan shows the layout for the main barn area, focusing on slab-on-grade and foundation walls. Key elements include footings labeled as 'F1', column wall bases 'CWB', and structural tags 'ST1'. The plan specifies a drop wall at door locations to be flush with the floor, applicable to all openings. Dimensions are provided, such as 18'-8\", 15'-0 1/2\", and an overall length of 256'-0\". The plan ensures proper alignment and spacing for structural components, with detailed measurements for construction.",
+      "project_id": "25-01-006",
+      "page_number": 2,
+      "region_number": 5,
+      "relative_path": "page_002/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Ground Floor – shearwall detail",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S2.0"
+      ],
+      "element_type": "Shearwall Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Plywood",
+        "Concrete Foundation Wall",
+        "Angle LLV",
+        "Stud Post"
+      ],
+      "text_verbatim": "SECTION\n2\nS2.0\nSHEARWALL DETAIL\nPLYWOOD PER WALL SCHEDULE. FASTENED w/ 2-3/8\" NAILGUN NAILS @ 4\" o.c. PANEL EDGES AND 12\" o.c. IN FIELD. PROVIDE SOLID BLOCKING @ 24\" o.c. AND AT ALL PANEL EDGES. (TOP OF WALL SECURED TO TRUSS AS PER ROOF PLAN)\n(3)-PLY STUD POST (AT EACH END OF SHEARWALL)\nL5x3x1/4\" ANGLE LLV c/w (1) 5/8\"dia. x6\"lg. + 3\" HOOKED ANCHOR INTO CONCRETE BELOW. (AT EACH END OF SHEARWALL)\nSECURE (3)-PLY POST TO ANGLE w/ (8) 5/16\"dia. x3\" lg. WOOD LAG SCREWS. (TYP.)\n1 1/2\"\n1 1/4\" (TYP.)\n3\"\nEQ.\nCONCRETE FDN. WALL\nELEVATION\nSECTION\n",
+      "summary": "This detail illustrates a shearwall section on the ground floor, focusing on the connection between the plywood sheathing and the concrete foundation wall. The plywood is fastened with 2-3/8\" nailgun nails at 4\" on center at panel edges and 12\" on center in the field, with solid blocking at 24\" on center. A 3-ply stud post is located at each end of the shearwall, secured to an L5x3x1/4\" angle LLV with a 5/8\" diameter, 6\" long hooked anchor into the concrete below. The 3-ply post is further secured to the angle with eight 5/16\" diameter, 3\" long wood lag screws. The detail provides essential reinforcement and fastening specifications for shearwall construction.",
+      "project_id": "25-01-006",
+      "page_number": 3,
+      "region_number": 1,
+      "relative_path": "page_003/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Section",
+      "location": "Ground Floor – overhead door lintel",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "1/S2.0"
+      ],
+      "element_type": "Overhead Door Lintel Section",
+      "element_callouts": [],
+      "key_components": [
+        "Steel Beam",
+        "Stud Framing",
+        "End Plate",
+        "Truss Uplift Clips"
+      ],
+      "text_verbatim": "SECTION\n1\nS2.0\nOVERHEAD DOOR LINTEL (w/ BUILT-UP POST)\n1/2\" = 1'-0\"\n(2) 2x6 (OR 2x8 TO MATCH BEAM FLANGE WIDTH) PLATES SCREWED TO BEAM w/ 1/2\"dia. BOLTS @ 24\" o.c. (STAGGER SIDES OF FLANGE)\nSTEEL BEAM, SEE PLAN FOR SIZE. (TYP.)\nPRE-ENG. ROOF TRUSSES, PER PLAN. (TYP.)\nTRUSS UPLIFT CLIPS AS PER TRUSS MANUF. DRAWINGS. (TYP.)\nDOUBLE TOP PLATE, CONT.\n3/8\" END PLATE c/w (x) 1/2\"dia. A325 THRU-BOLTS.\nBOLT REQUIREMENTS (X):\nW8-W10 (4 BOLTS)\nW12-14 (6 BOLTS)\nW16-W18 (8 BOLTS)\nW21 (10 BOLTS)\nW24 (12 BOLTS)\nTYPICAL STUD FRAMING, PER PLAN. (TYP.)\nSUB-FRAMING BELOW STEEL BEAM TO SUIT TYPICAL STUD SIZE & SPACING, c/w (2)-2x6 OR (2)-2x8 CONT. @ HEAD OF OPG. (TYP.)\nBEARING STUDS, PER PLAN. (TYP.)\nFULL HEIGHT STUDS, PER PLAN. (TYP.)\nPROVIDE 2x12 @ TOP OF OPG & 2x6 ALONG SIDES FOR DOOR HARDWARE FASTENING. (TYP., COORDINATE w/ DOOR MANUF. SPECIFICATIONS)\nSTUDS FASTENED TOGETHER AS PER CWC WOOD DESIGN MANUAL\nSTUD POST TO PLATE CONNECTION w/ (2) NAILS PER STUD FROM BOTTOM RUN OF STRAPPING. (TYP.)\nL5x3x1/4\" ANGLE LLV c/w (1) 5/8\"dia. x6\"lg. + 3\" HOOKED ANCHOR INTO CONCRETE BELOW\n1 1/2\"\n1 1/4\" (TYP.)\n1\" (TYP.)\nEQ.\nSECURE (3)-PLY POST TO ANGLE w/ (8) 5/16\"dia. x3\" lg. WOOD LAG SCREWS. (TYP.)\n",
+      "summary": "This section details the overhead door lintel with a built-up post on the ground floor. It includes specifications for a steel beam, with plates screwed to the beam using 1/2\" diameter bolts at 24\" on center. Pre-engineered roof trusses and truss uplift clips are noted, along with a double top plate. A 3/8\" end plate with 1/2\" diameter A325 thru-bolts is specified. Bolt requirements vary by beam size, ranging from four bolts for W8-W10 to twelve bolts for W24. The section also describes typical stud framing, sub-framing below the steel beam, and fastening details for door hardware. The L5x3x1/4\" angle LLV is anchored into concrete with a 5/8\" diameter, 6\" long hooked anchor.",
+      "project_id": "25-01-006",
+      "page_number": 3,
+      "region_number": 2,
+      "relative_path": "page_003/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Schedule",
+      "location": "Ground Floor – lintel and column specifications",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Lintel and Column Schedule",
+      "element_callouts": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "C1"
+      ],
+      "key_components": [
+        "Lintels",
+        "Columns"
+      ],
+      "text_verbatim": "LINTEL SCHEDULE\nMARK SIZE BEARING\nL1 (2)-2x6 (1) JACK + (1) KING\nL2 (2)-2x10 (1) JACK + (1) KING\nL3 (3)-2x10 (2) JACK + (1) KING\nL4 W10x26 + NAILER (2) JACK + (2) KING\nCOLUMN SCHEDULE\nMARK SIZE BASEPLATE / ANCHORS\nC1 W6X25 AS PER DETAIL\nP.T. RATING:\nCSA UC1 - INDOOR WOOD NOT IN CONTACT W/ GROUND OR FOUNDATIONS\nCSA UC2 - INDOOR WOOD NOT IN CONTACT W/ GROUND OR FOUNDATIONS BUT EXPOSED TO DAMPNESS\nCSA UC3.1 - OUTDOOR WOOD NOT IN CONTACT TO THE GROUND BUT PROTECTED AGAINST EFFECTS OF WEATHER\nCSA UC3.2 - OUTDOOR WOOD NOT IN CONTACT W/ GROUND OR FRESHWATER BUT EXPOSED TO THE EFFECTS OF WEATHER\nCSA UC4.1 - WOOD IN CONTACT WITH THE GROUND OR FRESHWATER, SUBJECT TO SIGNIFICANT SALT WATER SPLASH, OR USED IN ABOVE-GROUND CRITICAL SITUATIONS FAVOURABLE TO DETERIORATION\nNOTE: MEMBERS IN UNCONDITIONED SPACES THAT ARE NOT DIRECTLY EXPOSED TO THE ELEMENTS MAY BE LEFT UNTREATED, BUT WOOD CONDITION AND AESTHETIC MAY SUFFER OVER TIME.\n",
+      "summary": "This schedule provides specifications for lintels and columns on the ground floor. The lintel schedule lists four types: L1 (2)-2x6, L2 (2)-2x10, L3 (3)-2x10, and L4 W10x26 + nailer, with varying jack and king stud configurations. The column schedule specifies a W6X25 column marked as C1, with baseplate and anchors detailed elsewhere. The schedule includes a P.T. rating for wood treatment, outlining conditions for indoor and outdoor wood exposure according to CSA standards. Notes indicate that untreated wood in unconditioned spaces may suffer over time.",
+      "project_id": "25-01-006",
+      "page_number": 3,
+      "region_number": 3,
+      "relative_path": "page_003/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Schedule",
+      "location": "Ground Floor – assembly specifications",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Assembly Schedule",
+      "element_callouts": [
+        "R1",
+        "WE1",
+        "F1",
+        "P1"
+      ],
+      "key_components": [
+        "Roof Construction",
+        "Exterior Wall Construction",
+        "Slab on Grade",
+        "Interior Partition"
+      ],
+      "text_verbatim": "ASSEMBLY SCHEDULE\nR1 ROOF CONSTRUCTION:\n• 29 Ga. STEEL ROOFING\n• 2x4 STRAPPING @ 24\" o.c.\n• ROOF FRAMING AS PER PLANS w/ BLOW-IN-PLACE INSULATION R-40, COORD. w/ OWNER\n• 6 mil POLY VAPOUR BARRIER (IF INSUL.)\n• 1x4 STRAPPING @ 24\" o.c.\n• INTR'R LINER (PER OWNER)\nWE1 EXTERIOR WALL CONSTRUCTION:\n• 29 Ga. PREFIN. METAL CLADDING\n• 1\" FOAMBOARD (PER OWNER)\n• TYPAR AIR BARRIER, JOINTS TAPED\n• 1x4 STRAPPING @ 24\" o.c.\n• 2x6 WOOD STUDS @ 24\" o.c. w/ ROCKWOOL BATT INSULATION (R-22 MIN.)\n• 6 mil POLY VAPOUR BARRIER\n• 1/2\" PLYWOOD SHEATHING\n• INTR'R LINER (PER OWNER)\nF1 TYPICAL SLAB ON GRADE CONSTRUCTION:\n• FLOOR FINISH (BY OWNER)\n• 5\" CONCRETE FLOOR SLAB\n• 6 mil POLY VAPOUR BARRIER\n• 2\" EXTRUDED POLYSTYRENE INSULATION (R10 MIN.)\n• 6\" COMPACTED GRANULAR 'A' FILL\nP1 INTERIOR PARTITION:\n• 1/2\" PLYWOOD\n• 2x6 STUDS @ 16\" o.c.\n• 1/2\" PLYWOOD\nSHEARWALL (AS INDICATED):\n• 1/2\" PLYWOOD ON ONE SIDE FASTENED w/ 2-3/8\" NAIL-GUN NAILS @ 4\" o.c. PANEL EDGES & 12\" o.c. IN FIELD. PROVIDE BLOCKING AT 24\" o.c. AND ALL PANEL EDGES. PROVIDE (3)-PLY STUD POST EACH END OF SHEARWALL (TYP. U.N.O.) SEE TYPICAL DETAIL.\nDOUBLE SHEARWALL (AS INDICATED):\n• 1/2\" PLYWOOD ON BOTH SIDES FASTENED w/ 2-3/8\" NAIL-GUN NAILS @ 4\" o.c. PANEL EDGES & 12\" o.c. IN FIELD. PROVIDE BLOCKING AT 24\" o.c. AND ALL PANEL EDGES. PROVIDE (3)-PLY STUD POST EACH END OF SHEARWALL (TYP. U.N.O.) SEE TYPICAL DETAIL.\nNOTE: PROVIDE SOLID BLOCKING @ 48\" o.c. IN ALL WALLS TALLER THAN 9'-6\".\n",
+      "summary": "This assembly schedule outlines specifications for various construction elements on the ground floor. Roof construction (R1) includes 29 Ga. steel roofing, strapping, and insulation. Exterior wall construction (WE1) features metal cladding, foamboard, and Rockwool batt insulation. The typical slab on grade (F1) consists of a 5\" concrete floor slab, poly vapour barrier, and extruded polystyrene insulation. Interior partitions (P1) use plywood and 2x6 studs. Shearwall and double shearwall details specify plywood fastening and blocking requirements. A note emphasizes solid blocking for walls taller than 9'-6\".",
+      "project_id": "25-01-006",
+      "page_number": 3,
+      "region_number": 4,
+      "relative_path": "page_003/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Plan",
+      "location": "Ground Floor – main barn bay",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Ground Floor Plan",
+      "element_callouts": [
+        "F1",
+        "WE1",
+        "L1",
+        "L6"
+      ],
+      "key_components": [
+        "Lintels",
+        "Columns"
+      ],
+      "text_verbatim": "124'-0\" \n 137'-0\" \n 31'-0\" \n 79'-0\" \n 85'-0\" \n 31'-0\" \n 16'-0\" \n 7'-0\" \n PLAN \n 1\" = 10'-0\"",
+      "summary": "This ground floor plan shows the layout of the main barn bay, including structural components such as lintels and columns. The plan includes dimensions like 124'-0\" and 137'-0\", indicating the length and width of the barn. Element callouts such as 'F1', 'WE1', 'L1', and 'L6' label specific foundations and wall elevations. The plan provides a detailed view of the structural layout, essential for coordination with architectural drawings.",
+      "project_id": "25-01-006",
+      "page_number": 3,
+      "region_number": 5,
+      "relative_path": "page_003/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Roof – proposed barn",
+      "level": "Roof",
+      "orientation": "Transverse section looking East",
+      "grid_references": [],
+      "section_callouts": [
+        "1/S2.1"
+      ],
+      "element_type": "Building Section",
+      "element_callouts": [
+        "F1",
+        "WE1",
+        "R1"
+      ],
+      "key_components": [
+        "Trusses",
+        "P.T. Sill Plate",
+        "Concrete Foundations"
+      ],
+      "text_verbatim": "INSTALL X-BRACING ON ALL TRUSSES, LATERAL BRACING AS PER TRUSS MANUF. ENGINEER (TO BE SHOWN ON PRE-ENG. TRUSS SHOP DRAWINGS) \n PREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER). \n CONTINUOUS RIDGE VENTING PER OBC. INSTALL AS PER MANUF. SPECIFICATIONS. (TYP.) \n TRUSS (NOT AS SHOWN), SUBMIT P.ENG. STAMPED SHOP DRAWINGS FOR REVIEW. \n PROPOSED BARN \n P.T. SILL PLATE c/w SILL GASKET c/w 1/2\"dia. ANCHOR BOLTS @ 48\" o.c. (LEAVE OPENINGS IN SILL PLATE AT DOOR LOCATIONS) (TYP.) \n CONCRETE FOUNDATIONS. SEE FOUNDATION PLANS. (TYP.) \n FOUNDATIONS ARE TO BEAR ON UNDISTURBED NATIVE SOIL OR COMPACTED FILL APPROVED BY GEOTECHNICAL ENGINEER. (TYP.)",
+      "summary": "This section view of the proposed barn roof illustrates the structural components, including trusses and P.T. sill plates. The section callout '1/S2.1' references this view. Key components include trusses with X-bracing and lateral bracing, as specified by the truss manufacturer. The P.T. sill plate is anchored with 1/2\" diameter bolts at 48\" on center. Concrete foundations are detailed, with notes indicating they must bear on undisturbed soil or compacted fill. The section emphasizes compliance with manufacturer specifications and engineering standards.",
+      "project_id": "25-01-006",
+      "page_number": 4,
+      "region_number": 1,
+      "relative_path": "page_004/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – purlin splice",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S2.1"
+      ],
+      "element_type": "Purlin Splice Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Metal Track",
+        "Purlins"
+      ],
+      "text_verbatim": "METAL TRACK CENTERED OVER PURLIN SPLICE \n NOTE: MAKE 2 ADJACENT RIDGE (TOP) AND 2 ADJACENT EAVE (BOTTOM) PURLINS CONTINUOUS BY PROVIDING 4'-0\" LONG 26 ga. TRACK AT EACH SPLICE LOCATION c/w (16) - 1 1/2\" N10HDG (10d) NAILS EACH SIDE OF SPLICE (SEE DETAIL), TYPICAL EACH SIDE OF ROOF. AVOID ROOF VENTS. \n RIDGE AND EAVE PURLINS (SEE PLAN FOR NUMBER OF ROWS w/ METAL TRACK REQ'D) \n METAL TRACK & FASTENERS PER NOTE ABOVE \n ALL PURLIN SPLICE LOCATIONS ARE CENTER OF TRUSS",
+      "summary": "This detail shows the purlin splice with metal track centered over the splice. The note specifies that adjacent ridge and eave purlins are made continuous by providing a 4'-0\" long 26 gauge track at each splice location, secured with 16 nails on each side. This detail is typical for each side of the roof, with instructions to avoid roof vents. The section callout '2/S2.1' references this detail. The metal track and fasteners are critical components for ensuring structural continuity at the splice locations.",
+      "project_id": "25-01-006",
+      "page_number": 4,
+      "region_number": 2,
+      "relative_path": "page_004/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Section",
+      "location": "Roof – storage area",
+      "level": "Roof",
+      "orientation": "Transverse section looking East",
+      "grid_references": [],
+      "section_callouts": [
+        "3/S2.1"
+      ],
+      "element_type": "Building Section - Storage",
+      "element_callouts": [
+        "F1",
+        "WE1",
+        "P1"
+      ],
+      "key_components": [
+        "Trusses",
+        "P.T. Sill Plate",
+        "Concrete Foundations"
+      ],
+      "text_verbatim": "CONTINUOUS 2x6 X-BRACING FASTENED TO TOP SIDE OF BOTTOM CHORD. INSTALL X-BRACING ON ALL TRUSSES, LATERAL BRACING AS PER TRUSS MANUF. ENGINEER (TO BE SHOWN ON PRE-ENG. TRUSS SHOP DRAWINGS) \n PREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER). \n CONTINUOUS RIDGE VENTING PER OBC. INSTALL AS PER MANUF. SPECIFICATIONS. (TYP.) \n TRUSS (NOT AS SHOWN), SUBMIT P.ENG. STAMPED SHOP DRAWINGS FOR REVIEW. \n P.T. SILL PLATE c/w SILL GASKET c/w 1/2\"dia. ANCHOR BOLTS @ 48\" o.c. (LEAVE OPENINGS IN SILL PLATE AT DOOR LOCATIONS) (TYP.) \n CONCRETE FOUNDATIONS. SEE FOUNDATION PLANS. (TYP.) \n FOUNDATIONS ARE TO BEAR ON UNDISTURBED NATIVE SOIL OR COMPACTED FILL APPROVED BY GEOTECHNICAL ENGINEER. (TYP.)",
+      "summary": "This section view of the storage area roof shows structural elements such as trusses with continuous 2x6 X-bracing and lateral bracing. The section callout '3/S2.1' references this view. Prefinished metal fascia, eavestrough, and vented soffits are specified. The P.T. sill plate is anchored with 1/2\" diameter bolts at 48\" on center. Concrete foundations are detailed, with notes indicating they must bear on undisturbed soil or compacted fill. The section emphasizes compliance with manufacturer specifications and engineering standards.",
+      "project_id": "25-01-006",
+      "page_number": 4,
+      "region_number": 3,
+      "relative_path": "page_004/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Plan",
+      "location": "Roof – truss layout",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Roof Truss Framing Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Trusses",
+        "Purlins"
+      ],
+      "text_verbatim": "ROOF TRUSS FRAMING PLAN \n 1\" = 10'-0\" \n FASTEN GABLE END TRUSS TO TOP PLATE w/ 3-1/2\" NAILS @ 16\" o/c \n FASTEN GABLE END TRUSS TO EACH THROUGH STUD w/ (3) - 3-1/2\" NAILS (TYP. BOTH GABLE ENDS) \n PROVIDE ATTIC FIRE STOPS AS SHOWN. 1/2\" GWB SECURED TO TRUSS OR AIR FRAMING AS REQUIRED (AS PER OBC). ALL JOINTS SHALL HAVE 1\" CONTINUOUS SUPPORT, AND DIMENSION IN COMPARTMENT SHALL EXCEED R4 - FIRE STOP NOT TO INTERFERE WITH ROOF VENTILATION.",
+      "summary": "This roof truss framing plan illustrates the layout of trusses and purlins. The plan specifies fastening details for gable end trusses, including 3-1/2\" nails at 16\" on center. Attic fire stops are provided as shown, with 1/2\" GWB secured to truss or air framing as required by OBC. The plan emphasizes that fire stops should not interfere with roof ventilation. The detailed layout ensures proper structural support and compliance with building codes.",
+      "project_id": "25-01-006",
+      "page_number": 4,
+      "region_number": 4,
+      "relative_path": "page_004/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "East wall elevation",
+      "level": "Unknown",
+      "orientation": "East elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Prefinished Metal Fascia",
+        "Eavestrough",
+        "Vented Soffit",
+        "Prefinished Metal Roofing",
+        "Prefinished Metal Cladding",
+        "Concrete Foundation"
+      ],
+      "text_verbatim": "EAST ELEVATION\nPREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER).\nU/S TRUSS 10'-4 1/2\"\nT/O FDN. 2'-0\"\nT/O FLOOR 0'-0\"\n5'-3\" x 5'-3\" H\n2'-1\" x 2'-1\" H\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\n48\" x 36\" H\nCONCRETE FOUNDATION\n1\" = 10'-0\"",
+      "summary": "This image shows the east elevation of a building, highlighting various architectural and structural elements. The elevation includes prefinished metal fascia, eavestrough, and vented soffit, as specified by the owner. The upper surface of the truss is at 10'-4 1/2\", while the top of the foundation is at 2'-0\" and the top of the floor is at 0'-0\". Openings are shown with dimensions 5'-3\" x 5'-3\" H and 2'-1\" x 2'-1\" H. The building features prefinished metal roofing and cladding, with a concrete foundation. The scale is 1\" = 10'-0\".",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 1,
+      "relative_path": "page_005/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "West wall elevation",
+      "level": "Unknown",
+      "orientation": "West elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Prefinished Metal Fascia",
+        "Eavestrough",
+        "Vented Soffit",
+        "Prefinished Metal Roofing",
+        "Prefinished Metal Cladding",
+        "Concrete Foundation",
+        "Cool Vent Wall"
+      ],
+      "text_verbatim": "WEST ELEVATION\nPREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER).\nU/S TRUSS 10'-4 1/2\"\nT/O FDN. 2'-0\"\nT/O FLOOR 0'-0\"\n48\" x 36\" H\n3'-6\" x 8'-0\" H\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\nCONCRETE FOUNDATION\nCOOL VENT WALL (BY OTHERS)\n1\" = 10'-0\"",
+      "summary": "This image depicts the west elevation of the building, featuring prefinished metal fascia, eavestrough, and vented soffit as per the owner's specifications. The upper surface of the truss is at 10'-4 1/2\", with the top of the foundation at 2'-0\" and the top of the floor at 0'-0\". Openings are shown with dimensions 48\" x 36\" H and 3'-6\" x 8'-0\" H. The elevation includes prefinished metal roofing and cladding, a concrete foundation, and a cool vent wall provided by others. The scale is 1\" = 10'-0\".",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 2,
+      "relative_path": "page_005/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Elevation",
+      "location": "North wall elevation",
+      "level": "Unknown",
+      "orientation": "North elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Prefinished Metal Fascia",
+        "Eavestrough",
+        "Vented Soffit",
+        "Prefinished Metal Roofing",
+        "Prefinished Metal Cladding",
+        "Concrete Foundation"
+      ],
+      "text_verbatim": "NORTH ELEVATION\nPREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER).\nU/S TRUSS 10'-4 1/2\"\nT/O FDN. 2'-0\"\nT/O FLOOR 0'-0\"\nPROPOSED VENTILATION (AS PER BUILDING SECTION)\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\nCONCRETE FOUNDATION\n1\" = 10'-0\"",
+      "summary": "This image illustrates the north elevation of the building, showing prefinished metal fascia, eavestrough, and vented soffit as specified by the owner. The upper surface of the truss is at 10'-4 1/2\", with the top of the foundation at 2'-0\" and the top of the floor at 0'-0\". Proposed ventilation is indicated as per the building section. The elevation features prefinished metal roofing and cladding, along with a concrete foundation. The scale is 1\" = 10'-0\".",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 3,
+      "relative_path": "page_005/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Elevation",
+      "location": "South wall elevation",
+      "level": "Unknown",
+      "orientation": "South elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Prefinished Metal Fascia",
+        "Eavestrough",
+        "Vented Soffit",
+        "Prefinished Metal Roofing",
+        "Prefinished Metal Cladding",
+        "Concrete Foundation"
+      ],
+      "text_verbatim": "SOUTH ELEVATION\nPREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER).\nU/S TRUSS 10'-4 1/2\"\nT/O FDN. 2'-0\"\nT/O FLOOR 0'-0\"\n16'-0\" x 8'-0\" H\nPROPOSED VENTILATION (AS PER BUILDING SECTION)\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\nCONCRETE FOUNDATION\n1\" = 10'-0\"",
+      "summary": "This image presents the south elevation of the building, featuring prefinished metal fascia, eavestrough, and vented soffit as per the owner's specifications. The upper surface of the truss is at 10'-4 1/2\", with the top of the foundation at 2'-0\" and the top of the floor at 0'-0\". An opening is shown with dimensions 16'-0\" x 8'-0\" H. Proposed ventilation is indicated as per the building section. The elevation includes prefinished metal roofing and cladding, along with a concrete foundation. The scale is 1\" = 10'-0\".",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 4,
+      "relative_path": "page_005/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Elevation",
+      "location": "South wall elevation continuation",
+      "level": "Unknown",
+      "orientation": "South elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Prefinished Metal Fascia",
+        "Eavestrough",
+        "Vented Soffit",
+        "Prefinished Metal Roofing",
+        "Prefinished Metal Cladding",
+        "Concrete Foundation"
+      ],
+      "text_verbatim": "SOUTH ELEVATION\nPREFIN. METAL FASCIA, EAVESTROUGH & VENTED SOFFIT. (PER OWNER).\nU/S TRUSS 10'-4 1/2\"\nT/O FDN. 2'-0\"\nT/O FLOOR 0'-0\"\n16'-0\" x 8'-0\" H\nPROPOSED VENTILATION (AS PER BUILDING SECTION)\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\nCONCRETE FOUNDATION\n1\" = 10'-0\"",
+      "summary": "This image continues the south elevation of the building, showing prefinished metal fascia, eavestrough, and vented soffit as specified by the owner. The upper surface of the truss is at 10'-4 1/2\", with the top of the foundation at 2'-0\" and the top of the floor at 0'-0\". An opening is shown with dimensions 16'-0\" x 8'-0\" H. Proposed ventilation is indicated as per the building section. The elevation includes prefinished metal roofing and cladding, along with a concrete foundation. The scale is 1\" = 10'-0\".",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 5,
+      "relative_path": "page_005/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_06_red_box.png",
+      "classification": "Elevation",
+      "location": "Building Elevation – likely side view of poultry barn",
+      "level": "Unknown",
+      "orientation": "Unknown",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Pre-finished Metal Roofing",
+        "Pre-finished Metal Cladding",
+        "Concrete Foundation",
+        "Proposed Ventilation"
+      ],
+      "text_verbatim": "PROPOSED VENTILATION (AS PER BUILDING SECTION)\nPREFIN. METAL ROOFING (PER OWNER)\nPREFIN. METAL CLADDING (PER OWNER)\nCONCRETE FOUNDATION\n1\" = 10'-0\"",
+      "summary": "This image shows a building elevation of a poultry barn. The elevation highlights key components such as pre-finished metal roofing and cladding, which are specified to be per the owner's requirements. The concrete foundation is also noted, providing structural support for the building. Proposed ventilation is indicated, referencing a building section for further details. The scale of the drawing is 1 inch equals 10 feet, which helps in understanding the dimensions and proportions of the building. The elevation provides a side view, detailing the exterior finishes and architectural features, ensuring a comprehensive understanding of the building's external appearance.",
+      "project_id": "25-01-006",
+      "page_number": 5,
+      "region_number": 6,
+      "relative_path": "page_005/region_06_red_box.png"
+    }
+  ]
+}

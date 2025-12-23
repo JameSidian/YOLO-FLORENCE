@@ -1,0 +1,220 @@
+{
+  "pages": [
+    {
+      "page_number": 2,
+      "sheet_id": "2/13",
+      "drawing_title": "BASEMENT PLAN",
+      "overall_classification": "Plan",
+      "level": "Basement",
+      "primary_orientation": null,
+      "key_components": [
+        "Concrete Deck Piers",
+        "Cold Cellar",
+        "Bedroom",
+        "Wall Schedule",
+        "Footing Schedule",
+        "Column Schedule",
+        "Beam Schedule"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the basement plan for the structure, detailing the layout of rooms such as the cold cellar and bedroom. It includes concrete deck piers and various schedules for walls, footings, columns, and beams. The plan outlines the structural components necessary for the basement level."
+    },
+    {
+      "page_number": 1,
+      "sheet_id": "1/13",
+      "drawing_title": "COVER",
+      "overall_classification": "Notes",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "3D Renderings",
+        "Drawing Schedule"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nNEW SINGLE FAMILY RESIDENCE\nPROJECT NO. 25-01-017\nDATE: January 29, 2005",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The cover sheet features 3D renderings of the new single-family residence and includes a drawing schedule listing all the sheets in the set. This provides an overview of the project and serves as an introduction to the detailed plans and sections that follow."
+    },
+    {
+      "page_number": 3,
+      "sheet_id": "3/13",
+      "drawing_title": "MAIN FLOOR 2",
+      "overall_classification": "Plan",
+      "level": "Ground Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Garage",
+        "Laundry",
+        "Mud Room",
+        "Deck",
+        "Wall Schedule",
+        "Column Schedule",
+        "Beam Schedule"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the main floor plan, detailing the layout of the garage, laundry, mud room, and deck. It includes schedules for walls, columns, and beams, outlining the structural components necessary for the ground floor level."
+    },
+    {
+      "page_number": 4,
+      "sheet_id": "4/13",
+      "drawing_title": "SECOND FLOOR",
+      "overall_classification": "Plan",
+      "level": "Second Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Bedrooms",
+        "Deck",
+        "Wall Schedule",
+        "Column Schedule",
+        "Beam Schedule"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the second floor plan, detailing the layout of bedrooms and a deck. It includes schedules for walls, columns, and beams, outlining the structural components necessary for the second floor level."
+    },
+    {
+      "page_number": 6,
+      "sheet_id": "6/13",
+      "drawing_title": "SECOND FLOOR - CEILING",
+      "overall_classification": "Plan",
+      "level": "Second Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Ceiling Layout",
+        "Flat Ceilings",
+        "Sloped Ceilings"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 1/4\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the ceiling plan for the second floor, detailing the layout of flat and sloped ceilings. It outlines the insulation and drywall specifications for the ceiling construction."
+    },
+    {
+      "page_number": 7,
+      "sheet_id": "7/13",
+      "drawing_title": "MAIN FLOOR 2 - FLOOR SYSTEM",
+      "overall_classification": "Plan",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Floor Joist Layout",
+        "Main Floor",
+        "Second Floor"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 1/8\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the floor system layout for both the main and second floors, detailing the arrangement of floor joists. It outlines the structural components necessary for supporting the floors."
+    },
+    {
+      "page_number": 5,
+      "sheet_id": "5/13",
+      "drawing_title": "SECOND FLOOR - ROOF",
+      "overall_classification": "Plan",
+      "level": "Roof",
+      "primary_orientation": null,
+      "key_components": [
+        "Roof Framing",
+        "Dormers",
+        "Rafters",
+        "Roof Notes"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 1/4\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the roof plan for the second floor, detailing the layout of roof framing, dormers, and rafters. It includes notes on roofing materials and construction techniques."
+    },
+    {
+      "page_number": 9,
+      "sheet_id": "9/13",
+      "drawing_title": "CROSS SECTION D",
+      "overall_classification": "Section",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Building Section",
+        "Structural Elements"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 1/4\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides a cross section of the building, detailing the structural elements from the foundation to the roof. It illustrates the vertical arrangement of spaces and construction materials."
+    },
+    {
+      "page_number": 8,
+      "sheet_id": "8/13",
+      "drawing_title": "CROSS SECTION A",
+      "overall_classification": "Section",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Garage Section",
+        "Building Sections"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides cross sections of the building, including the garage, detailing the structural elements and construction techniques. It illustrates the vertical arrangement of spaces and materials."
+    },
+    {
+      "page_number": 10,
+      "sheet_id": "10/13",
+      "drawing_title": "ELEVATIONS",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "West and North Elevations",
+      "key_components": [
+        "Exterior Views",
+        "Building Heights",
+        "Material Finishes"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the west and north elevations of the building, detailing the exterior views, building heights, and material finishes. It illustrates the architectural appearance and design intent."
+    },
+    {
+      "page_number": 13,
+      "sheet_id": "13/13",
+      "drawing_title": "GENERAL NOTES",
+      "overall_classification": "Notes",
+      "level": "Unknown",
+      "primary_orientation": null,
+      "key_components": [
+        "Construction Notes",
+        "Foundation Notes",
+        "General Requirements"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "GENERAL CONSTRUCTION NOTES\nThe information on this set of construction documents is related to basic design for general code compliance and building practice in connection with the current Ontario building code...",
+      "page_overview_summary": "This sheet provides general construction notes, foundation notes, and general requirements applicable to the entire project. It outlines the design assumptions, code compliance, and construction practices."
+    },
+    {
+      "page_number": 11,
+      "sheet_id": "11/13",
+      "drawing_title": "ELEVATIONS 2",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "East and South Elevations",
+      "key_components": [
+        "Exterior Views",
+        "Building Heights",
+        "Material Finishes"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/16\" = 1'-0\"",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the east and south elevations of the building, detailing the exterior views, building heights, and material finishes. It illustrates the architectural appearance and design intent."
+    },
+    {
+      "page_number": 12,
+      "sheet_id": "12/13",
+      "drawing_title": "DETAILS",
+      "overall_classification": "Detail",
+      "level": "Unknown",
+      "primary_orientation": null,
+      "key_components": [
+        "Structural Timber Notes",
+        "Connection Details",
+        "Post and Beam Connections"
+      ],
+      "text_verbatim_title_block": "Marvin Horst\nSteve & Mary Jantzi\nPROJECT NO. 25-01-017\nDATE: January 29, 2005\nSCALE: 3/8\" = 1'-0\"",
+      "general_notes_verbatim": "STRUCTURAL TIMBER NOTES:\n1. ALL HEAVY TIMBERS TO BE DOUG FIR GRADE NO. 2 OR BETTER...",
+      "page_overview_summary": "This sheet provides detailed drawings of structural connections, including post and beam connections. It includes structural timber notes and specifications for construction detailing."
+    }
+  ]
+}

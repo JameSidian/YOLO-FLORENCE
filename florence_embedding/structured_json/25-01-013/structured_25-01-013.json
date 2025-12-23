@@ -1,0 +1,72 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Plan",
+      "location": "Second Floor – Bedroom and Washroom layout",
+      "level": "Second Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Floor Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Existing Ceiling Joist",
+        "Trusses"
+      ],
+      "text_verbatim": "12'5\"\n14'10\"\n5'4\"\n8'10\"\n6'9\"\n3'\n10'6\"\n6'5\"\nEXISTING CEILING JOIST\nTRUSSES ARE FULL SPAN TO EXTERIOR WALLS\nSECOND FLOOR\nNOT TO SCALE\nWashroom\nCloset\nBedroom",
+      "summary": "This plan shows the layout of the second floor, specifically the bedroom and washroom areas. The dimensions provided include 12'5\" and 14'10\" for the bedroom, and 5'4\" and 8'10\" for the washroom. The closet is marked with dimensions of 3' and 6'9\". The plan notes the presence of existing ceiling joists and indicates that the trusses span fully to the exterior walls. The drawing is labeled as 'SECOND FLOOR' and is noted as 'NOT TO SCALE'.",
+      "project_id": "25-01-013",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Main Floor – Kitchen and Dining Room layout",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Floor Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Existing Floor Joist",
+        "LVL Beam",
+        "Concrete Block Wall"
+      ],
+      "text_verbatim": "11'10\"\n12'11\"\n7'2\"\n6'9\"\n10'\n17'\nEXISTING FLOOR JOIST\nMIN (3) PLY 2X6 STUD POST\nNEW LVL BEAM (DROPPED)\nPLEASE CONFIRM DEPTH OF INSTALLED BEAM.\nMIN (3) 1.75\" x 14\" LVL 2.0E 3100fb REQUIRED\nREMOVE EXISTING LOAD BEARING WALL\nCONFIRM WHAT IS BELOW THE INSTALLED POST.\n6\" CONCRETE BLOCK WALL?\nCONFIRM IF THE CORES ARE GROUTED SOLID\nMAIN FLOOR\nNOT TO SCALE\nKitchen\nDining",
+      "summary": "This plan illustrates the main floor layout, focusing on the kitchen and dining room. Key dimensions include 11'10\" for the kitchen and 12'11\" for the dining room. The plan specifies existing floor joists and a new LVL beam, which is dropped. The beam requires a minimum of (3) 1.75\" x 14\" LVL 2.0E 3100fb. There is a note to remove the existing load-bearing wall and confirm the conditions below the installed post, questioning if a 6\" concrete block wall is present and if the cores are grouted solid. The drawing is labeled 'MAIN FLOOR' and 'NOT TO SCALE'.",
+      "project_id": "25-01-013",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": null,
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S0.0"
+      ],
+      "element_type": "Typical Post Blocking Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Existing Subfloor",
+        "Load Bearing Wall",
+        "Solid Blocking",
+        "New Column"
+      ],
+      "text_verbatim": "NOTE:\nALL POSTS TO BEAR DIRECTLY ON EXISTING WALL OR BEAM BELOW OR HAVE SOLID BLOCKING IN JOISTS AS PER DETAIL\nEXISTING SUBFLOOR\nEXISTING LOAD BEARING WALL BELOW (OR BEAM)\nNEW COLUMN ABOVE WALL OR BEAM\nSOLID BLOCKING, FULL WIDTH OF POST BEARING ABOVE. (TYP.)\nEXCEPT AS DIRECTED OTHERWISE, PROVIDE POST DOWN TO FOUNDATION LEVEL BENEATH ALL POINT LOADS. (TYP. U.N.O.)\nDETAIL\nTYPICAL POST BLOCKING DETAIL\n1/2\" = 1'-0\"",
+      "summary": "This detail illustrates a typical post blocking setup. It specifies that all posts must bear directly on an existing wall or beam below or have solid blocking in the joists. The existing subfloor and load-bearing wall (or beam) are shown, with a new column above the wall or beam. Solid blocking is required for the full width of the post bearing above. The note emphasizes providing posts down to the foundation level beneath all point loads unless otherwise directed. The detail is labeled '2/S0.0' and drawn at a scale of 1/2\" = 1'-0\".",
+      "project_id": "25-01-013",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    }
+  ]
+}

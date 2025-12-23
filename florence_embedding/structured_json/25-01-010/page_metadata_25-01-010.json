@@ -1,0 +1,103 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": null,
+      "drawing_title": "Hideaway 160 With Full Loft Front and Window Side View",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Front and Side Elevation",
+      "key_components": [
+        "Windows",
+        "Doors",
+        "Roof",
+        "2x6 Tongue & Groove Stacked Wall"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "Note:\nO.A=Overall\ntyp.=Typical\nAll Dimensions in inches.",
+      "page_overview_summary": "This sheet presents the front and side elevations of the Hideaway 160 model with a full loft. It includes detailed dimensions for windows, doors, and roof elements. The drawing suggests modifications such as increasing the height by one board and adding windows. The structure uses 2x6 tongue and groove stacked walls, and the foundation is noted to be by others."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": null,
+      "drawing_title": "199 Hideaway With Full Loft - Front and Window Side View",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Front and Side Elevation",
+      "key_components": [
+        "Windows",
+        "Doors",
+        "Roof",
+        "2x6 Tongue & Groove Stacked Wall"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "Note:\nO.A=Overall\ntyp.=Typical\nAll Dimensions in inches.",
+      "page_overview_summary": "This sheet shows the front and side elevations of the 199 Hideaway model with a full loft. It provides precise measurements for the building's facade elements, including windows and doors. The drawing specifies the use of 2x6 tongue and groove stacked walls, with the foundation to be provided by others."
+    },
+    {
+      "page_number": 3,
+      "sheet_id": null,
+      "drawing_title": "Rockwood With Full Loft - Rear and Side Elevation",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Rear and Side Elevation",
+      "key_components": [
+        "Windows",
+        "Roof",
+        "2x6 Tongue & Groove Stacked Wall"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "Note:\nO.A=Overall\ntyp.=Typical\nAll Dimensions in inches.",
+      "page_overview_summary": "This sheet illustrates the rear and side elevations of the Rockwood model with a full loft. It includes detailed dimensions for the windows and roof structure. The drawing highlights the use of 2x6 tongue and groove stacked walls, with the foundation to be provided by others."
+    },
+    {
+      "page_number": 4,
+      "sheet_id": null,
+      "drawing_title": "Rockwood 199 Full Loft - Rear and Side View",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Rear and Side Elevation",
+      "key_components": [
+        "Windows",
+        "Roof",
+        "2x6 Tongue & Groove Stacked Wall"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "Note:\nO.A=Overall\ntyp.=Typical\nAll Dimensions in inches.",
+      "page_overview_summary": "This sheet provides the rear and side views of the Rockwood 199 model with a full loft. It details the dimensions of the windows and roof components. The structure features 2x6 tongue and groove stacked walls, with the foundation to be constructed by others."
+    },
+    {
+      "page_number": 5,
+      "sheet_id": null,
+      "drawing_title": "Haven Ultra Extra Windows",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Front, Back, Left, and Right Side Elevations",
+      "key_components": [
+        "Windows",
+        "Doors",
+        "Roof"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet displays the front, back, left, and right side elevations of the Haven Ultra model, highlighting extra windows. It includes dimensions for the windows and doors, with a focus on the loft floor level. The drawing emphasizes the additional window placements."
+    },
+    {
+      "page_number": 6,
+      "sheet_id": null,
+      "drawing_title": "Rockwood 199sqft",
+      "overall_classification": "Mixed",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Windows",
+        "Doors",
+        "Roof",
+        "2x6 Tongue & Groove Stacked Wall"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet combines multiple elevations of the Rockwood 199sqft model, including front, side, and rear views. It details the dimensions of windows, doors, and roof elements. The structure uses 2x6 tongue and groove stacked walls, with the foundation to be provided by others. The drawing includes notes on roofing and lintel requirements."
+    }
+  ]
+}

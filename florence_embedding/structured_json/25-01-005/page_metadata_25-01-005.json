@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "S1",
+      "drawing_title": "ELEVATIONS",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "Multiple elevations including North, South, East, and West",
+      "key_components": [
+        "Building Elevations",
+        "Wall Sections",
+        "Door and Window Openings"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nELEVATIONS\nS1\n3 29 21",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides multiple building elevations for the dairy goat barn, showing the North, South, East, and West views. Key components include wall sections, door and window openings, and overall building dimensions. The elevations help in understanding the external appearance and structural layout of the barn."
+    },
+    {
+      "page_number": 4,
+      "sheet_id": "S4",
+      "drawing_title": "ROOF PLAN",
+      "overall_classification": "Plan",
+      "level": "Roof",
+      "primary_orientation": null,
+      "key_components": [
+        "Roof Truss Layout",
+        "Ventilation Openings",
+        "Roof Framing Details"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nROOF PLAN\nS4\n3 29 21",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The roof plan sheet details the layout of the roof trusses and ventilation openings for the barn. It provides essential information on the roof framing and structural support systems, ensuring proper ventilation and structural integrity."
+    },
+    {
+      "page_number": 5,
+      "sheet_id": "S5",
+      "drawing_title": "BLDG. SECTION GENERAL NOTES",
+      "overall_classification": "Section",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Building Sections",
+        "Structural Details",
+        "General Notes"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nBLDG. SECTION GENERAL NOTES\nS5\n3 29 21",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet includes building sections and general notes for the dairy goat barn. It provides detailed views of the structural components and materials used, along with important notes that guide the construction and ensure compliance with design specifications."
+    },
+    {
+      "page_number": 3,
+      "sheet_id": "S3",
+      "drawing_title": "MAIN FLOOR PLAN",
+      "overall_classification": "Plan",
+      "level": "Ground Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Floor Layout",
+        "Structural Columns",
+        "Room Designations"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nMAIN FLOOR PLAN\nS3\n3 29 21",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The main floor plan sheet outlines the layout of the ground floor, including structural columns and room designations such as goat pens, nurseries, and utility areas. It provides a comprehensive view of the functional spaces within the barn."
+    },
+    {
+      "page_number": 6,
+      "sheet_id": "S6",
+      "drawing_title": "DETAILS & GENERAL NOTES",
+      "overall_classification": "Mixed",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "Construction Details",
+        "General Construction Notes",
+        "Foundation Details"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nDETAILS & GENERAL NOTES\nS6\n3 29 21",
+      "general_notes_verbatim": "GENERAL CONSTRUCTION NOTES:\n1. THE WORKSHOPS ON THIS SET OF CONSTRUCTION DOCUMENTS ARE TO BE READ IN CONJUNCTION WITH THE SPECIFICATIONS.\n...\nDESIGN LOADS:\n1. ROOF SNOW LOAD: 1.2 KPA (25 PSF)\n2. WIND LOAD: 0.5 KPA (10 PSF)\n3. EARTHQUAKE LOAD: 0.1 KPA (2 PSF)\n4. THE BUILDING IS DESIGNED TO LOW HUMAN OCCUPANCY.",
+      "page_overview_summary": "This sheet provides a mix of construction details and general notes, including foundation details and structural connections. It includes important specifications and design loads that govern the overall construction and safety of the barn."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": "S2",
+      "drawing_title": "FOUNDATION PLAN",
+      "overall_classification": "Plan",
+      "level": "Foundation",
+      "primary_orientation": null,
+      "key_components": [
+        "Foundation Layout",
+        "Footing Details",
+        "Structural Walls"
+      ],
+      "text_verbatim_title_block": "CLARE BRUBACHER\n108'-0\" X 188'-0\" DAIRY GOAT BARN\n083777 Southgate Rd. 08\nMt. Forest, ON N0G 2L0\nFOUNDATION PLAN\nS2\n3 29 21",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The foundation plan sheet details the layout of the foundation, including footing details and structural walls. It provides essential information for the construction of the barn's base, ensuring stability and support for the entire structure."
+    }
+  ]
+}

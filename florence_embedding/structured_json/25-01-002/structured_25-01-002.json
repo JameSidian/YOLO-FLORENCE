@@ -1,0 +1,80 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Thickened Edge Detail",
+      "level": "Foundation",
+      "orientation": "Section view",
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Thickened Edge Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Sill Plate",
+        "Anchor Bolts",
+        "Concrete Curb",
+        "Rebar",
+        "Vapour Barrier",
+        "Granular 'A'",
+        "Polystyrene Insulation"
+      ],
+      "text_verbatim": "SECTION\nTHICKENED EDGE (12\" CURB OPTION)\n1/2\"=1'-0\"\nSILL PLATE\nc/w 1/2\"Ø ANCHOR BOLTS @ 48\" o.c.\n(LEAVE OPENINGS IN SILL PLATE @ DOOR LOCATIONS)\n8\" POURED CONCRETE CURB\nc/w 15M REBAR x 20\" LONG @ 32\" o.c.\nw/ (1) 15M CONT. @ TOP\n(LEAVE OPENINGS IN CURB @ DOOR LOCATIONS)\n(4) 15M REBAR\n(SEE NOTES FOR COVER)\n6x6x6/6 WWM\nOR\n16\" x 16\" 10M GRID\nOR\nFIBRE MESH\nSLOPE GRADE AWAY 2%, &\nINSULATION (IF PRESENT)\n6mil POLY VAPOUR BARRIER (OPTIONAL)\nCOMPACTED GRANULAR 'A'\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE\nMIN. COMPRESSIVE STRENGTH OF 30 psi\n6'-0\"\n2\"\n1'-0\"",
+      "summary": "This section view illustrates a thickened edge detail for a foundation with a 12-inch curb option. The sill plate is secured with 1/2-inch diameter anchor bolts spaced at 48 inches on center, with openings left at door locations. An 8-inch poured concrete curb is reinforced with 15M rebar, 20 inches long, spaced at 32 inches on center, and includes one continuous 15M rebar at the top. Openings are also left in the curb at door locations. The section includes four 15M rebar, with notes for cover specifications. Reinforcement options include 6x6x6/6 welded wire mesh (WWM), a 16-inch by 16-inch 10M grid, or fiber mesh. The grade is sloped away at 2%, with optional insulation. A 6-mil poly vapor barrier is optional, and the base consists of compacted granular 'A'. A minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi is specified. Dimensions include a 6-foot length, 2-inch thickness, and 1-foot height.",
+      "project_id": "25-01-002",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Foundation – Floating Slab",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Floating Slab Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Floating Slab"
+      ],
+      "text_verbatim": "PLAN\nFLOATING SLAB\n1/8\"=1'-0\"\n40'-0\"\n30'-0\"\n2/S1",
+      "summary": "This plan view shows a floating slab foundation with overall dimensions of 40 feet by 30 feet. The plan is drawn at a scale of 1/8 inch equals 1 foot. Section callouts '2/S1' indicate where sections are cut through the plan. The slab is designed as a floating slab, which is a common foundation type for structures requiring a flat, stable base.",
+      "project_id": "25-01-002",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Thickened Edge Detail",
+      "level": "Foundation",
+      "orientation": "Section view",
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Thickened Edge Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Rebar",
+        "Vapour Barrier",
+        "Granular 'A'",
+        "Polystyrene Insulation",
+        "Welded Wire Mesh"
+      ],
+      "text_verbatim": "SECTION\nTHICKENED EDGE\n1/2\"=1'-0\"\n(4) 15M REBAR\n(SEE NOTES FOR COVER)\n6x6x6/6 WWM\nOR\n16\" x 16\" 10M GRID\nOR\nFIBRE MESH\nSLOPE GRADE AWAY 2%, &\nINSULATION (IF PRESENT)\n6mil POLY VAPOUR BARRIER (OPTIONAL)\nCOMPACTED GRANULAR 'A'\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE\nMIN. COMPRESSIVE STRENGTH OF 30 psi\n6'-0\"\n2\"\n1'-0\"",
+      "summary": "This section view details a thickened edge for a foundation. The section includes four 15M rebar, with cover specifications noted. Reinforcement options include 6x6x6/6 welded wire mesh, a 16-inch by 16-inch 10M grid, or fiber mesh. The grade is sloped away at 2%, with optional insulation. A 6-mil poly vapor barrier is optional, and the base consists of compacted granular 'A'. A minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi is specified. Dimensions include a 6-foot length, 2-inch thickness, and 1-foot height. The section callout '2/S1' indicates its reference to the plan.",
+      "project_id": "25-01-002",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    }
+  ]
+}

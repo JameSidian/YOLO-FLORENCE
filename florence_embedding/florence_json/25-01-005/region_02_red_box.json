@@ -1,0 +1,18 @@
+{
+  "image_id": "region_02_red_box.png",
+  "model": "florence-2-base-ft",
+  "tasks_run": [
+    "ocr",
+    "caption",
+    "dense_caption"
+  ],
+  "extraction": {
+    "caption": "a wall and a side view.",
+    "dense_caption": "\"",
+    "ocr_text": "B. ON 1 OR 2 SIDES PER PLANFASTENED W/ 2 3/8\" NAIL-GUN NAILS @ 4\" o.c.PANEL EDGES AND O.C. IN FIELD. PROVIDEBLOCKING @ 24\" O'C. AND PANEL EDges.(TOP OF WALL SECURED TO TRUSSAS PER ROOF PLAN)3 - PLY STUD POSTEACH END OF WALSECTION3\"6\" x 3\" x 1/4\" ANGLE CW1/2\"5/8' ANCHOR BOLTOR EQUIP. EPOXY ANCHORS(8\" EMBED. INTO CONC.)1/1\" DIA. A.B.(48' o'c. (TYP.)CONC. FND. WALL AS PER PLAN6/1'SIDE VIEW2SHEARWALL ANCHor DETAILSS3SCALE: 1\" = 1-0\""
+  },
+  "metadata": {
+    "source": "screenshot",
+    "ingestion_version": "v1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "region_03_red_box.png",
+  "model": "florence-2-base-ft",
+  "tasks_run": [
+    "ocr",
+    "caption",
+    "dense_caption"
+  ],
+  "extraction": {
+    "caption": "of a building.",
+    "dense_caption": "unanswerable",
+    "ocr_text": "7/16\" O.S.B. SHEATHING(1 OR 2 SIDES PER PLAN)6\"3\"ANGLLE FASTENED TO STUDS w/8 - 5/ 16\" x 3\" WOOD LAGS2\" 11\"2\"8\" CONC. FND. WALL15M TOP PERIMETER(TYP.)4\"4\"SECTION VIEW8\""
+  },
+  "metadata": {
+    "source": "screenshot",
+    "ingestion_version": "v1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model_id": "microsoft/Florence-2-base-ft",
+  "embedding_dim": 768,
+  "preprocess_mode": "normalize_lines",
+  "total_images": 195,
+  "generation_timestamp": "2025-12-08T20:34:39.785315"
+}

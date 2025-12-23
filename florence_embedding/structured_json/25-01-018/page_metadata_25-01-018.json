@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "AE-1",
+      "drawing_title": "SOUTH ELEVATION",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "South elevation sheets",
+      "key_components": [
+        "Tall Wall Framing",
+        "Sections A-A and B-B",
+        "General Structural Notes"
+      ],
+      "text_verbatim_title_block": "PROJECT: INTERIOR RENOVATION\n2208 LINE 47\nGADS HILL, ON N0K 1J0\nSHEET: ELEVATIONS\nDRAWN BY: CH\nDATE: MAY 11, 2023\nSCALE: 1/4\" = 1'-0\"\nPROJECT NO: 25-01-018\nSHEET NO: AE-1",
+      "general_notes_verbatim": "GENERAL NOTES:\n1. Send a digital set to the party that has requested the drawings.\n2. Do not scale the drawings.\n3. Check and verify dimensions and report any discrepancies.\n4. Check site to confirm all locations and dimensions.\n5. Refer to the contract documents for additional information.",
+      "page_overview_summary": "This sheet provides a south elevation view of the building, focusing on tall wall framing. It includes detailed sections A-A and B-B, illustrating specific construction details. The sheet also contains general structural notes that apply to the entire project, emphasizing the importance of verifying dimensions and site conditions. The elevation is part of an interior renovation project located at 2208 Line 47, Gads Hill, ON."
+    }
+  ]
+}

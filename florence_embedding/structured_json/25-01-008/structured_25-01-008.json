@@ -1,0 +1,459 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Plan",
+      "location": "Site – general layout and modifications",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Site Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Existing Structures",
+        "Proposed Modifications",
+        "Storm Tank Access Hatch"
+      ],
+      "text_verbatim": "AREA OF WORK\nKEY PLAN: SCALE: NTS\nEX CBMH\nEX CURB\nEX 250 DIA PVC WM\nEX GATE\nEX LIGHT POST\nEX 375mm O CMP STM @ 2.0% (WITH RISER INTO TANK #1)\nEX 1200mm O CMP STM @ 0.20%\nEX COKE BUILDING\nNEW GATE CHAMBER AS PER OPSD 1101.012 T/G = +/- 210.950\nNEW FENCE LOCATION\nNEW ACCESS HATCH T/G = +/- 210.658\nCONTRACTOR TO INSPECT AND CONFIRM LOCATION AND COVER OF STORAGE TANKS. REPORT FINDINGS TO SPH ENGINEERING FOR REVIEW\nCONTRACTOR TO LOCALLY REGRADE AROUND CONCRETE SLAB AS REQUIRED. REINSTATE SURFACES TO MATCH EXISTING.\nNOTE: LOCATION AND INVERTS SUBJECT TO VERIFICATION ON SITE. UPON EXCAVATION, REPORT FINDINGS TO SPH ENGINEERING FOR REVIEW.\nSITE PLAN\nSCALE: 1:100\nNOTES: AREAS SHOWN ARE APPROXIMATE SUBJECT TO FINAL CONFIRMATION ON SITE.",
+      "summary": "This site plan provides a detailed overview of the project area, highlighting existing structures such as the EX CBMH, EX CURB, and EX COKE BUILDING, along with proposed modifications like the new gate chamber and access hatch. The plan includes a key plan for orientation, with the area of work marked. It specifies the installation of a new gate chamber as per OPSD 1101.012 and a new access hatch with a top grade of approximately 210.658. Contractors are instructed to inspect and confirm the location and cover of storage tanks and report findings to SPH Engineering. The plan also notes that areas shown are approximate and subject to final confirmation on site. This sheet is essential for understanding the overall scope and integration of the storm tank access hatch within the site.",
+      "project_id": "25-01-008",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Site – overall layout and access points",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Site Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Existing Conditions",
+        "Proposed Access Points",
+        "Storm Tank Access Hatch"
+      ],
+      "text_verbatim": "KEY PLAN: SCALE: NTS\nEX CBMH\nEX CURB\nEX 250 DIA PVC WM\nEX GATE\nEX LIGHT POST\nEX 375mm O CMP STM @ 2.0% (WITH RISER INTO TANK #1)\nEX 1200mm O CMP STM @ 0.20%\nEX COKE BUILDING\nNEW GATE CHAMBER AS PER OPSD 1101.012 T/G = +/- 210.950\nNEW FENCE LOCATION\nNEW ACCESS HATCH T/G = +/- 210.658\nCONTRACTOR TO INSPECT AND CONFIRM LOCATION AND COVER OF STORAGE TANKS. REPORT FINDINGS TO SPH ENGINEERING FOR REVIEW\nCONTRACTOR TO LOCALLY REGRADE AROUND CONCRETE SLAB AS REQUIRED. REINSTATE SURFACES TO MATCH EXISTING.\nSITE PLAN\nSCALE: 1:100\nNOTES: AREAS SHOWN ARE APPROXIMATE SUBJECT TO FINAL CONFIRMATION ON SITE.",
+      "summary": "This site plan outlines the overall layout of the project area, including existing conditions and proposed access points for the storm tank access hatch. It highlights key areas for construction and access, such as the EX CBMH, EX CURB, and EX COKE BUILDING. The plan includes a key plan for orientation and specifies the installation of a new gate chamber and access hatch. Contractors are instructed to inspect and confirm the location and cover of storage tanks, with findings to be reported to SPH Engineering. The plan notes that areas shown are approximate and subject to final confirmation on site. This sheet is essential for understanding the spatial arrangement and integration of new structures within the existing site.",
+      "project_id": "25-01-008",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Plan",
+      "location": "Site – storm tank access hatch",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "4/S2"
+      ],
+      "element_type": "Plan View",
+      "element_callouts": [],
+      "key_components": [
+        "Concrete Slab",
+        "Reinforcement",
+        "CMP Storage Pipe"
+      ],
+      "text_verbatim": "1 PLAN VIEW\nS1\nSCALE: 3/8\" = 1'-0\"\nSEE 4/S2 FOR DETAIL\nEX. 9.2M - 11'-9-3/4\" (3600mm) O CMP STORAGE PIPE\nEX. 3'-11-1/4\" (1200mm) O CMP STM @ 0.20%\n32 MPa CONCRETE SLAB REINFORCED W/ 20M BARS @ 6\" o.c. BOTH WAYS TOP AND BOTTOM (2\" COVER AT TOP AND SIDES & 3\" COVER AT BOTTOM)\n1200mm O CSP CHUTE\n9'-0\"\n12'-0\"\n8'-8\"\nEX. 11'-9-3/4\" (3600mm) O CMP STORAGE PIPE",
+      "summary": "This plan view shows the layout for a storm tank access hatch, including dimensions and reinforcement details. The plan specifies a 32 MPa concrete slab reinforced with 20M bars at 6 inches on center, both ways top and bottom, with 2 inches of cover at the top and sides and 3 inches at the bottom. The slab is designed to accommodate existing CMP storage pipes with diameters of 3600mm and 1200mm. The plan includes a callout to see detail 4/S2 for further information. Dimensions provided include 9'-0\" and 12'-0\" for the slab, and 8'-8\" for the chute. This view is essential for understanding the structural components necessary for the installation of the storm tank access hatch.",
+      "project_id": "25-01-008",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Site – Front elevation of storm-water storage tank",
+      "level": "Site",
+      "orientation": "Front elevation",
+      "grid_references": [],
+      "section_callouts": [
+        "4/S1"
+      ],
+      "element_type": "Storm-Water Storage Tank Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Compacted Granular A",
+        "Aluminized CSP",
+        "Storm-Water Storage Tank",
+        "Concrete Slab"
+      ],
+      "text_verbatim": "LOCKED LID BY OTHERS\nT/O SLAB (210.658 +/-)\nGRADE (210.354 +/-)\n8'-0\"\n3'-0\"\nTBD\nMIN 6\" COMPACTED GRANULAR A\nEX. 9.2M - 11'-9-3/4\" (3600mm) Ø CMP STORAGE PIPE\n11'-9-3/4\" (3600MM) Ø\nBOTTOM OF TANK\n1200mm Ø 68x13mm CSP WALL THICKNESS 4.2mm CHUTE\nEX. ALUMINIZED CSP STORM-WATER STORAGE TANK\nEX. 3'-11 1/2\" (1200mm) Ø CMP STM @ 0.20%\nFRONT ELEVATION\n4\nS1\nSCALE: 3/8\" = 1'-0\"",
+      "summary": "This elevation view shows the front of a storm-water storage tank. The top of the slab is at an elevation of 210.658, while the grade is at 210.354. The tank is 8 feet tall with a 3-foot thick concrete slab above it. The drawing specifies a minimum of 6 inches of compacted Granular A beneath the tank. The existing storm-water storage tank is made of aluminized corrugated steel pipe (CSP) with a diameter of 11'-9-3/4\" (3600mm). The elevation includes a locked lid by others and a chute with a wall thickness of 4.2mm. The drawing is labeled as 'Front Elevation' with a scale of 3/8\" = 1'-0\" and is referenced as 4/S1.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 2,
+      "relative_path": "page_003/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Elevation",
+      "location": "Site – Frame front elevation",
+      "level": "Site",
+      "orientation": "Front elevation",
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Frame Front Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "W8x18 Beam",
+        "W8x18 Column",
+        "D-Bolt",
+        "Gusset"
+      ],
+      "text_verbatim": "3/8\" GUSSET EACH SIDE TYP.\n8'-8\"\nPROVIDE D-BOLT RATED FOR 5000 LBS\nW8x18 BEAM\nW8x18 COLUMN\nFRAME FRONT ELEVATION\n2\nS1\nSCALE: 3/4\" = 1'-0\"",
+      "summary": "This elevation view depicts the front of a structural frame. It features W8x18 beams and columns, with a gusset plate on each side, specified as 3/8\" thick. The frame spans 8'-8\" and includes a D-bolt rated for 5000 lbs. The drawing is labeled as 'Frame Front Elevation' with a scale of 3/4\" = 1'-0\" and is referenced as 2/S1.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 3,
+      "relative_path": "page_003/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Top of concrete opening",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "6/S1"
+      ],
+      "element_type": "Top of Concrete Opening Detail",
+      "element_callouts": [],
+      "key_components": [
+        "L3 x 3 x 1/4\" Angle",
+        "Hook Anchors"
+      ],
+      "text_verbatim": "TO MATCH LID HEIGHT\n3\"\nTYP. AROUND OPENINGS IN CONCRETE\nL3 x 3 x 1/4\" ANGLE SET INTO CONCRETE\n1/2\" DIA. x 6\" LONG + 2\" HOOK ANCHORS @ 12\" o.c.\nTOP OF CONCRETE OPENING DETAIL\n6\nS1\nSCALE: 1-1/2\" = 1'-0\"",
+      "summary": "This detail illustrates the top of a concrete opening, designed to match the lid height. It includes an L3 x 3 x 1/4\" angle set into the concrete, with 1/2\" diameter, 6\" long hook anchors spaced at 12 inches on center. The drawing is labeled as 'Top of Concrete Opening Detail' with a scale of 1-1/2\" = 1'-0\" and is referenced as 6/S1.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 4,
+      "relative_path": "page_003/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Section",
+      "location": "Site – Front lateral section of storm-water storage tank",
+      "level": "Site",
+      "orientation": "Section A-A",
+      "grid_references": [],
+      "section_callouts": [
+        "5/S1",
+        "A-A"
+      ],
+      "element_type": "Storm-Water Storage Tank Section",
+      "element_callouts": [],
+      "key_components": [
+        "Compacted Granular A",
+        "Aluminized CSP",
+        "Concrete Slab",
+        "Steel Frame"
+      ],
+      "text_verbatim": "STEEL FRAME SEE 4/S1\nLOCKED LID BY OTHERS\nT/O SLAB (210.658 +/-)\nGRADE (210.354 +/-)\n8'-0\"\n3'-0\"\nTBD\nMIN 6\" COMPACTED GRANULAR A\n1200mm Ø 68x13mm CSP WALL THICKNESS 4.2mm CHUTE\nPROVIDE: 36\" Ø OPENING @ ACCESS POINT TO TANK\nEX. 9.2M - 11'-9-3/4\" (3600mm) Ø CMP STORAGE PIPE BEYOND\n11'-9-3/4\" (3600MM) Ø\nBOTTOM OF TANK\nEX. 3'-11 1/2\" (1200mm) Ø CMP STM @ 0.20%\nSECTION A-A\nTYPICAL BASEPLATE CONNECTION\nCONNECTION TO THE EXISTING PIPE SHALL BE CONFIRMED ON SITE. THE CONTRACTOR IS TO CONTACT SPH ENGINEERING TO DESIGN AND DETERMINE THIS CONNECTION ONCE SITE CONDITIONS ARE CONFIRMED. THE EXISTING PIPE WILL REQUIRE REINFORCING (TO BE DETERMINED ONCE SITE CONDITIONS ARE CONFIRMED)\n5\nS1\nSCALE: 3/8\" = 1'-0\"",
+      "summary": "This section view, labeled as Section A-A, shows the front lateral section of a storm-water storage tank. The top of the slab is at an elevation of 210.658, and the grade is at 210.354. The tank is supported by a steel frame, referenced in 4/S1, and includes a locked lid. The section specifies a 36\" diameter opening at the access point to the tank and a minimum of 6 inches of compacted Granular A beneath. The existing pipe, with a diameter of 11'-9-3/4\" (3600mm), requires site confirmation and potential reinforcing. The drawing is labeled as 'Front Lateral' with a scale of 3/8\" = 1'-0\" and is referenced as 5/S1.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 5,
+      "relative_path": "page_003/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_06_red_box.png",
+      "classification": "Elevation",
+      "location": "Site – Frame lateral elevation",
+      "level": "Site",
+      "orientation": "Lateral elevation",
+      "grid_references": [],
+      "section_callouts": [
+        "3/S1",
+        "A-A"
+      ],
+      "element_type": "Frame Lateral Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "HSS 4x4x1/4 Brace"
+      ],
+      "text_verbatim": "NOTE:\nLOCATION AND INVERTS SUBJECT TO VERIFICATION ON SITE. UPON EXCAVATION, REPORT FINDINGS TO SPH ENGINEERING.\n2'-0\"\nBRACE HSS 4x4x 1/4 (TYP.)\nA\nA\nFRAME LATERAL ELEVATION\n3\nS1\nSCALE: 3/4\" = 1'-0\"",
+      "summary": "This elevation view shows the lateral side of a structural frame, featuring HSS 4x4x1/4 braces. The drawing notes that the location and inverts are subject to site verification, with findings to be reported to SPH Engineering. The frame includes a 2-foot vertical dimension. The drawing is labeled as 'Frame Lateral Elevation' with a scale of 3/4\" = 1'-0\" and is referenced as 3/S1. Section A-A is indicated in the drawing.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 6,
+      "relative_path": "page_003/region_06_red_box.png"
+    },
+    {
+      "image_id": "region_07_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Typical Baseplate Connection",
+      "level": "Site",
+      "orientation": "Section A-A",
+      "grid_references": [],
+      "section_callouts": [
+        "A-A"
+      ],
+      "element_type": "Baseplate Connection Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Baseplate",
+        "Hilti Kwik Bolt",
+        "Embedment"
+      ],
+      "text_verbatim": "1 1/2\" 9\" 1 1/2\" 1 1/2\" 1'-1\" 1 1/2\" 1 1/2\" 7\" 1 1/2\" 7\" 1 1/2\" 10\"x10\"x 3/4\" BASEPLATE 16\"x12\"x 3/4\" BASEPLATE (4) 3/4\" Ø HILTI KWIK BOLT T ≥ 2 MIN. 4 3/4\" EMBEDMENT SECTION A-A TYPICAL BASEPLATE CONNECTIONS SCALE: 1-1/2\" = 1'-0\" TYP. 1/4\"",
+      "summary": "This detail shows a typical baseplate connection labeled as Section A-A. The baseplate dimensions are 16\"x12\"x 3/4\" and 10\"x10\"x 3/4\". The connection uses four 3/4\" diameter Hilti Kwik Bolts with a minimum embedment of 4 3/4\". The section includes typical 1/4\" welds. The scale of the drawing is 1-1/2\" = 1'-0\". This detail is crucial for understanding the structural integrity of the baseplate connections at the site level.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 7,
+      "relative_path": "page_003/region_07_red_box.png"
+    },
+    {
+      "image_id": "region_08_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Typical Baseplate Connection",
+      "level": "Site",
+      "orientation": "Section A-A",
+      "grid_references": [],
+      "section_callouts": [
+        "A-A"
+      ],
+      "element_type": "Baseplate Connection Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Baseplate",
+        "Hilti Kwik Bolt",
+        "Embedment"
+      ],
+      "text_verbatim": "1 1/2\" 9\" 1 1/2\" 1 1/2\" 1'-1\" 1 1/2\" 1 1/2\" 7\" 1 1/2\" 7\" 1 1/2\" 10\"x10\"x 3/4\" BASEPLATE 16\"x12\"x 3/4\" BASEPLATE (4) 3/4\" Ø HILTI KWIK BOLT T ≥ 2 MIN. 4 3/4\" EMBEDMENT SECTION A-A TYPICAL BASEPLATE CONNECTIONS SCALE: 1-1/2\" = 1'-0\" TYP. 1/4\"",
+      "summary": "This detail shows a typical baseplate connection labeled as Section A-A. The baseplate dimensions are 16\"x12\"x 3/4\" and 10\"x10\"x 3/4\". The connection uses four 3/4\" diameter Hilti Kwik Bolts with a minimum embedment of 4 3/4\". The section includes typical 1/4\" welds. The scale of the drawing is 1-1/2\" = 1'-0\". This detail is crucial for understanding the structural integrity of the baseplate connections at the site level.",
+      "project_id": "25-01-008",
+      "page_number": 3,
+      "region_number": 8,
+      "relative_path": "page_003/region_08_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Site – Valve Chamber",
+      "level": "Site",
+      "orientation": "Valve Chamber Section A",
+      "grid_references": [],
+      "section_callouts": [
+        "3/S2"
+      ],
+      "element_type": "Valve Chamber Section",
+      "element_callouts": [],
+      "key_components": [
+        "Valve Chamber",
+        "Chimney Cap",
+        "Access Chimney",
+        "Concrete Rings",
+        "Ladder",
+        "Chamber Cap",
+        "Precast Structure"
+      ],
+      "text_verbatim": "NEW VALVE BOX VALVE KEY TO EXTEND TO TOP OF CHAMBER CONTRACTOR TO PARGE & SEAL AROUND VALVE CHIMNEY CAP APPROX GRADE = +/- 210.950 ACCESS CHIMNEY FRAME AND COVER TO MEET OPSD 401.010 CONCRETE RINGS TO ADJUST MANHOLE COVER TO FINISHED GRADE LADDER TO BE PROVIDED WITH PRECAST STRUCTURE CHAMBER CAP CONTRACTOR TO FIELD CONFIRM ANCHOR TO PRECAST AS PER MANUFACTURER DIRECTION. 7'-10 1/2\" [2400] 3'-11 1/4\" [1200] 9 13/16\" [250] 1'-4\" [406] 4'-10\" [1473] APPROX INVERT IN = 206.652 VALVE CHAMBER SECTION A SCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view details the valve chamber, labeled as Valve Chamber Section A. The chamber includes a chimney cap, access chimney, and concrete rings to adjust the manhole cover to the finished grade. A ladder is provided with the precast structure, and the chamber cap is shown. The valve chamber dimensions include a height of 7'-10 1/2\" and a width of 3'-11 1/4\". The approximate grade is +/- 210.950, and the invert is at 206.652. The drawing specifies that the frame and cover must meet OPSD 401.010 standards. The contractor is required to field confirm and anchor to the precast as per manufacturer directions. The scale is 1/2\" = 1'-0\".",
+      "project_id": "25-01-008",
+      "page_number": 4,
+      "region_number": 1,
+      "relative_path": "page_004/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Site – Valve Chamber Cap",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "2/S2",
+        "A-A"
+      ],
+      "element_type": "Cap Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Access Chimney",
+        "Valve Box",
+        "Ladder"
+      ],
+      "text_verbatim": "ACCESS CHIMNEY 7 7/8\" [200] 7 7/8\" [200] LADDER TO BE PROVIDED WITH PRECAST STRUCTURE A NEW VALVE BOX VALVE KEY TO EXTEND TO TOP OF CHAMBER CONTRACTOR TO PARGE & SEAL AROUND VALVE BOX 2'-5 1/2\" [750] 3'-5 5/16\" [1050] 4'-11 11/16\" [1500] 3'-11 1/4\" [1200] EX: 3'-11 1/2\" [1200mm] Ø CMP STM @ 0.20% 5 7/8\" [150 TYP.] CAP PLAN SCALE: 1/2\" = 1'-0\"",
+      "summary": "This plan view shows the cap plan for the valve chamber. It includes an access chimney and a new valve box, with the valve key extending to the top of the chamber. The contractor is instructed to parge and seal around the valve box. The plan specifies dimensions such as 2'-5 1/2\" for the valve box width and 3'-11 1/4\" for the access chimney. The plan also includes a ladder to be provided with the precast structure. The scale is 1/2\" = 1'-0\". Section callouts A-A indicate the location of the section cuts.",
+      "project_id": "25-01-008",
+      "page_number": 4,
+      "region_number": 2,
+      "relative_path": "page_004/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Plan",
+      "location": "Site – Valve Chamber",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [
+        "1/S2",
+        "A-A",
+        "B-B"
+      ],
+      "element_type": "Valve Chamber Plan View",
+      "element_callouts": [],
+      "key_components": [
+        "Chamber Ladder",
+        "Grout",
+        "Core Size CMP Pipe Gate"
+      ],
+      "text_verbatim": "LOCATION AND INVERTS SUBJECT TO VERIFICATION ON SITE. UPON EXCAVATION, REPORT FINDINGS TO SPH ENGINEERING FOR REVIEW. ACCESS CHIMNEY 7 7/8\" [200] 7 7/8\" [200] LADDER TO BE PROVIDED WITH PRECAST STRUCTURE A DOGHOUSE THIS SIDE. BLOCK AND PURGE TO SUIT GROUT 5'-10 7/8\" [1800] 7'-10 1/2\" [2400] 7 7/8\" [200] 7 7/8\" [200] CORE SIZE 1200mm CMP PIPE GATE REFER TO SHEET S3 FOR GATE DETAILS. EX: 3'-11 1/2\" [1200mm] Ø CMP STM @ 0.20% VALVE CHAMBER PLAN VIEW SCALE: 1/2\" = 1'-0\"",
+      "summary": "This plan view details the valve chamber, labeled as Valve Chamber Plan View. It includes an access chimney, chamber ladder, and grout specifications. The core size for the CMP pipe gate is 1200mm, with a reference to sheet S3 for gate details. The plan specifies dimensions such as 5'-10 7/8\" for the chamber width and 7'-10 1/2\" for the length. The location and inverts are subject to verification on site, and findings must be reported to SPH Engineering. The scale is 1/2\" = 1'-0\". Section callouts A-A and B-B indicate the location of the section cuts.",
+      "project_id": "25-01-008",
+      "page_number": 4,
+      "region_number": 3,
+      "relative_path": "page_004/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Section",
+      "location": "Site – Valve Chamber Section B",
+      "level": "Site",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Valve Chamber Section",
+      "element_callouts": [],
+      "key_components": [
+        "Valve Box",
+        "Access Chimney",
+        "Chamber Cap",
+        "Grout",
+        "Field Bench"
+      ],
+      "text_verbatim": "APPROX GRADE = +/- 210.950\nNEW VALVE BOX\nVALVE KEY TO EXTEND TO TOP OF VALVE BOX.\nCONTRACTOR TO SUPPLY VALVE KEY TO OWNER.\nFRAME AND COVER TO MEET OPSD 401.010\nCONCRETE RINGS TO ADJUST MANHOLE COVER TO FINISHED GRADE\nACCESS CHIMNEY\nLADDER TO BE PROVIDED WITH PRECAST STRUCTURE\nCHAMBER CAP\nANCHOR VALVE BOX TO TOP OF CHAMBER.\nCONTRACTOR TO PARGE AND SEAL AROUND VALVE.\nGROUT\nEX. 3'-11 1/2\" (1200mm) Ø CMP STM @ 0.20%\n4'-0 1/2\" [1232]\nAPPROX INVERT IN = 206.652\nGROUT\nEX. 3'-11 1/2\" (1200mm) Ø CMP STM @ 0.20%\nAPPROX INVERT OUT = 206.648\nGROUT\nFIELD BENCH\n5\nS2\nVALVE CHAMBER SECTION B\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view illustrates the Valve Chamber Section B, highlighting key components such as the valve box, access chimney, chamber cap, and grout. The approximate grade is set at +/- 210.950, with the valve box extending to the top and the contractor responsible for supplying the valve key. The frame and cover must meet OPSD 401.010 standards. Concrete rings are used to adjust the manhole cover to the finished grade. The section specifies an access chimney and a ladder to be provided with the precast structure. The chamber is anchored with grout, and the field bench is noted at the base. The existing 3'-11 1/2\" (1200mm) diameter CMP STM is shown with an invert in at 206.652 and an invert out at 206.648, both at a 0.20% slope. The drawing is scaled at 1/2\" = 1'-0\".",
+      "project_id": "25-01-008",
+      "page_number": 4,
+      "region_number": 4,
+      "relative_path": "page_004/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Elevation",
+      "location": "Site – Valve Chamber Elevation",
+      "level": "Site",
+      "orientation": "Front elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Valve Chamber Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "Valve Box",
+        "Frame and Cover",
+        "Grout"
+      ],
+      "text_verbatim": "APPROX GRADE = +/- 210.950\nNEW VALVE BOX\nVALVE KEY TO EXTEND TO TOP OF CHAMBER\nCONTRACTOR TO PARGE & SEAL AROUND VALVE\nFRAME AND COVER TO MEET OPSD 401.010\nCONTRACTOR TO FIELD CONFIRM\nAPPROX INVERT OUT = 206.648\nDOGHOUSE THIS SIDE.\nBLOCK AND PURGE TO SUIT\nØ3'-11 1/2\" [1200]\n4'-1 3/4\" [1238]\n2M TO 4.5M\n4\nS2\nVALVE CHAMBER ELEVATION\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This elevation view of the Valve Chamber shows the front elevation with a focus on the valve box, frame, and cover. The approximate grade is set at +/- 210.950, with the valve key extending to the top of the chamber. The contractor is instructed to parge and seal around the valve, and the frame and cover must meet OPSD 401.010 standards. The contractor is also required to field confirm dimensions. The approximate invert out is 206.648, with a doghouse on one side that needs to be blocked and purged to suit. The diameter of the opening is Ø3'-11 1/2\" [1200], and the width is 4'-1 3/4\" [1238]. The height ranges from 2M to 4.5M. The drawing is scaled at 1/2\" = 1'-0\".",
+      "project_id": "25-01-008",
+      "page_number": 4,
+      "region_number": 5,
+      "relative_path": "page_004/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Storm Gate Detail",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Storm Gate Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Wall",
+        "1200mm-CMP",
+        "Grout",
+        "GEN2-SG1200-48-UO-WM-SC"
+      ],
+      "text_verbatim": "ITEM NO. PART NUMBER\n1 WALL\n2 1200mm-CMP__68-13-2\n3 GROUT\n4 GEN2-SG1200-48-UO-WM-SC\nDesigned and FEA tested to meet strength and leakage standards with AWWA 561-14\nEach manual operator shall be designed to operate the gate under specified seating and unseating heads by using a maximum effort of 80 lbs (356 N) on the crank or handwheel, and shall be able to withstand, without effort of 80 lbs (356 N).\nGate and Seal Design exceeds the AWWA S561-14 performance criteria and is well below the allowed 1.25 l/min/m of sealing perimeter.\nINSTALLATION NOTES: Frame Assembly, Pedestal, Wall Brace, Stem & Operator must be installed flat, straight and plumb. Shim and brace as required. See operation and maintenance manual for additional installation information.\nDesign Seating Head = 5m\nDesign Unseating Head = 5m\nDesign Operating Head = 5m\nGates can be designed to meet a higher head if required.",
+      "summary": "This detail view focuses on the Echelon Environmental storm gate, highlighting components such as the wall, 1200mm-CMP, grout, and GEN2-SG1200-48-UO-WM-SC. The gate is designed and FEA tested to meet AWWA 561-14 standards for strength and leakage. The manual operator is specified to operate under seating and unseating heads with a maximum effort of 80 lbs (356 N). The gate and seal design exceeds performance criteria, ensuring leakage is below 1.25 l/min/m. Installation notes emphasize the need for flat, straight, and plumb installation of the frame assembly, pedestal, wall brace, stem, and operator. The design seating, unseating, and operating heads are all set at 5m, with the option to design for higher heads if needed.",
+      "project_id": "25-01-008",
+      "page_number": 5,
+      "region_number": 1,
+      "relative_path": "page_005/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Storm Gate Front View",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Storm Gate Front View",
+      "element_callouts": [],
+      "key_components": [
+        "Storm Gate",
+        "Frame",
+        "1200mm Diameter Opening"
+      ],
+      "text_verbatim": "120in [3048]\nØ47.244in [1200]\n16in [406]\n58in [1473]",
+      "summary": "This detail view shows the front view of the Echelon Environmental storm gate, featuring a 1200mm diameter opening. The overall height of the gate is 120 inches [3048 mm], with a width of 58 inches [1473 mm] and a depth of 16 inches [406 mm]. The detailed dimensions are crucial for ensuring the proper fit and integration of the storm gate within the storm tank access system.",
+      "project_id": "25-01-008",
+      "page_number": 5,
+      "region_number": 2,
+      "relative_path": "page_005/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Site – Storm Gate Section A-A",
+      "level": "Site",
+      "orientation": "Section A-A",
+      "grid_references": [],
+      "section_callouts": [
+        "A-A"
+      ],
+      "element_type": "Storm Gate Section",
+      "element_callouts": [],
+      "key_components": [
+        "Storm Gate",
+        "Frame",
+        "1200mm Diameter Opening"
+      ],
+      "text_verbatim": "SECTION A-A\n120in [3048]\nØ47.244in [1200]\n7.688in [195]\n2in [51]\nØ52.5in [1334]\n58in [1473]",
+      "summary": "This section view, labeled as Section A-A, provides a detailed cross-section of the Echelon Environmental storm gate. The gate features a 1200mm diameter opening, with an overall height of 120 inches [3048 mm]. The section shows a depth of 7.688 inches [195 mm] at the top and 2 inches [51 mm] at the bottom. The diameter of the outer frame is Ø52.5 inches [1334 mm], and the width is 58 inches [1473 mm]. These dimensions are essential for ensuring the correct installation and integration of the storm gate within the storm tank access system.",
+      "project_id": "25-01-008",
+      "page_number": 5,
+      "region_number": 3,
+      "relative_path": "page_005/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Schedule",
+      "location": "Site – Echelon Environmental storm gate components",
+      "level": "Site",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Storm Gate Part List",
+      "element_callouts": [],
+      "key_components": [
+        "WALL",
+        "1200mm-CMP_68-13-2",
+        "GROUT",
+        "GEN2-SG1200-48-UO-WM-SC"
+      ],
+      "text_verbatim": "ITEM NO. PART NUMBER QTY\n1 WALL 1\n2 1200mm-CMP_68-13-2 1\n3 GROUT 1\n4 GEN2-SG1200-48-UO-WM-SC 1\n\nDesigned and FEA tested to meet strength and leakage standards compliant with AWWA 561-14\n\nEach manual operator shall be designed to operate the gate under the maximum specified seating and unseating heads by using a maximum effort of 40 lbs (178 N) on the crank or handwheel, and shall be able to withstand, without damage, an effort of 80 lbs (356 N).\n\nGate and Seal Design exceeds the AWWA C561-14 performance criteria. Leakage is well below the allowed 1.25 l/min/m of sealing perimeter.\n\nINSTALLATION NOTES: Frame Assembly, Pedestal, Wall Brace, Stem Guides and Operator must be installed flat, straight and plumb. Shim and brace as necessary. See operation and maintenance manual for additional installation information.\n\nDesign Seating Head = 5m\nDesign Unseating Head = 5m\nDesign Operating Head = 5m\nGates can be designed to meet a higher head if required.",
+      "summary": "This image shows a part list and installation notes for the Echelon Environmental storm gate. The part list includes four items: WALL, 1200mm-CMP_68-13-2, GROUT, and GEN2-SG1200-48-UO-WM-SC, each with a quantity of 1. The components are designed and FEA tested to meet AWWA 561-14 standards. The manual operator is specified to operate under maximum seating and unseating heads with a maximum effort of 40 lbs (178 N) and withstand an effort of 80 lbs (356 N). The gate and seal design exceed AWWA C561-14 performance criteria, with leakage well below 1.25 l/min/m of sealing perimeter. Installation notes emphasize the need for flat, straight, and plumb installation of the frame assembly, pedestal, wall brace, stem guides, and operator. The design seating, unseating, and operating heads are all specified as 5 meters, with the potential for higher head design if required. This detailed information ensures compliance with design and safety standards for accurate installation and integration within the storm tank access system.",
+      "project_id": "25-01-008",
+      "page_number": 5,
+      "region_number": 4,
+      "relative_path": "page_005/region_04_red_box.png"
+    }
+  ]
+}

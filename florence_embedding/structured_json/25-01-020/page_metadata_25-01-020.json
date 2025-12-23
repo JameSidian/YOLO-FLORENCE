@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "S1",
+      "drawing_title": "Iso. View, General Notes",
+      "overall_classification": "Detail",
+      "level": "Unknown",
+      "primary_orientation": null,
+      "key_components": [
+        "Long 'D' Ring - Dolly",
+        "Structural Steel Specifications",
+        "Design Parameters"
+      ],
+      "text_verbatim_title_block": "CLIENT: Trade-Mark Industrial Inc.\nDRAWING TITLE: Iso. View, General Notes\nPROJECT: Long 'D' Rings - Dolly\nLocation - Address\nDRAWN BY: C. Nardol\nDATE: 2015-01-14\nSHEET NO.: S1\nPROJECT NO.: 25-01-020\nSCALE: As Noted",
+      "general_notes_verbatim": "DESIGN PARAMETERS\n1. DESIGN LIFTING CAPACITY (MAXIMUM LOAD): 17 TONS PER LINK. SEE TABLE FOR REDUCED CAPACITIES.\n2. THE LIFTING CAPACITY MUST BE CLEARLY LABELED ON THE LIFTING DEVICE.\n3. A PERMANENT RECORD MUST BE KEPT OF THIS DRAWING.\n4. THE DEVICE MUST BE OPERATED AND MAINTAINED AS PER SECTION 51 OF O. REG. 851 (INDUSTRIAL ESTABLISHMENTS) UNDER THE OHSA.\n5. ALL LIFTING BEAMS ARE DESIGNED FOR VERTICAL LIFTS ONLY.\n6. PROPER PROVISIONS SHALL BE MADE TO ENSURE LIFTING LUGS ARE CENTERED ON THE SHACKLE PIN.\n7. RIGGING MATERIALS BY OTHERS.\n\nSTRUCTURAL STEEL\n1. STRUCTURAL STEEL SHALL CONFORM TO THE LATEST EDITION OF FS 16-09\n2. ALL PLATES TO BE AISI 4142 (1⁄2\" TO 1\" MATERIAL (MINIMUM)).\n3. ALL STRUCTURAL STEEL SHALL BE NEW MATERIAL.\n4. ALL PLATES PAINTED AS SPECIFIED BY THE OWNER.",
+      "page_overview_summary": "This sheet provides detailed drawings and specifications for a Long 'D' Ring - Dolly. It includes isometric, front, top, and side views of the component, along with design parameters and structural steel specifications. The maximum lifting capacity is specified as 17 tons with a 3\" diameter shackle. The sheet also includes general notes on design and material requirements, emphasizing compliance with safety regulations and proper labeling of lifting capacities."
+    }
+  ]
+}

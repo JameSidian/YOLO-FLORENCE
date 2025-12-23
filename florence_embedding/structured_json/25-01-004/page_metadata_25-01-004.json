@@ -1,0 +1,117 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "1",
+      "drawing_title": "FOUNDATION PLAN",
+      "overall_classification": "Plan",
+      "level": "Foundation",
+      "primary_orientation": null,
+      "key_components": [
+        "Foundation Walls",
+        "Footings",
+        "Concrete Slab",
+        "Column Schedule"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 1",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides the foundation plan for the Elo Weber Farm Storage Shed, detailing the layout of foundation walls, footings, and a concrete slab. It includes a column schedule and specific reinforcement details. The plan dimensions indicate an overall building length of 140'-0\" and width of 68'-0\". Key notes specify concrete strength and reinforcement requirements."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": "2",
+      "drawing_title": "MAIN FLOOR PLAN",
+      "overall_classification": "Plan",
+      "level": "Ground Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Exterior Walls",
+        "Lintel Schedule",
+        "Door Openings"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 2",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet illustrates the main floor plan for the storage shed, showing the layout of exterior walls and door openings. It includes a lintel schedule and specifies wall construction details. The plan dimensions match the foundation plan, ensuring consistency in structural layout. Key notes address the concrete floor specifications and reinforcement details."
+    },
+    {
+      "page_number": 3,
+      "sheet_id": "3",
+      "drawing_title": "ROOF PLAN",
+      "overall_classification": "Plan",
+      "level": "Roof",
+      "primary_orientation": null,
+      "key_components": [
+        "Roof Trusses",
+        "Lateral Bracing",
+        "Roof Notes"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 3",
+      "general_notes_verbatim": "ROOF NOTES:\n1) - 2x6 ON TOP OF BOTTOM CHORD\n2) - 2x6 ON BOTTOM OF TOP CHORD\n3) - 2x4 ROOF STRAPPING @ 22\" o.c.\n4) - ENGINEERED TRUSSES @ 48\" o.c.\n5) - LATERAL BRACING ON TOP OF BOTTOM CHORD",
+      "page_overview_summary": "The roof plan sheet details the layout and specifications for the roof trusses and lateral bracing system. It includes notes on the installation of roof components and specifies the use of engineered trusses. The plan ensures proper load distribution and structural integrity for the roof system."
+    },
+    {
+      "page_number": 4,
+      "sheet_id": "4",
+      "drawing_title": "ELEVATIONS",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "North, South, East, West",
+      "key_components": [
+        "Steel Roofing",
+        "Wall Cladding",
+        "Elevation Views"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 4",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides elevation views of the storage shed from all four cardinal directions. It details the steel roofing and wall cladding materials, ensuring aesthetic consistency and weather protection. The elevations also indicate key dimensions and structural elements, such as the top of plate and foundation levels."
+    },
+    {
+      "page_number": 5,
+      "sheet_id": "5",
+      "drawing_title": "CROSS SECTION A-A",
+      "overall_classification": "Section",
+      "level": "Multiple",
+      "primary_orientation": "Longitudinal",
+      "key_components": [
+        "Cross Section",
+        "Structural Details",
+        "Foundation and Wall Construction"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 5",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The cross-section sheet provides a detailed view of the structural components along a longitudinal section of the building. It highlights the foundation, wall, and roof construction, including reinforcement details and material specifications. The section ensures that all structural elements align with the design intent and load requirements."
+    },
+    {
+      "page_number": 6,
+      "sheet_id": "6",
+      "drawing_title": "SITE PLAN",
+      "overall_classification": "Plan",
+      "level": "Site",
+      "primary_orientation": null,
+      "key_components": [
+        "Site Layout",
+        "Existing Structures",
+        "Proposed Building Location"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 6",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This site plan sheet shows the layout of the proposed farm storage shed in relation to existing structures on the property. It includes property lines and dimensions, ensuring the new construction fits within the designated area. The plan provides a comprehensive overview of the site, facilitating coordination with existing facilities."
+    },
+    {
+      "page_number": 7,
+      "sheet_id": "7",
+      "drawing_title": "GENERAL NOTES AND TRUSS BRACING DETAIL",
+      "overall_classification": "Notes",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "General Structural Notes",
+        "Truss Bracing Detail",
+        "Design Loads"
+      ],
+      "text_verbatim_title_block": "BLUEPRINT STATION™ Owner: DAN RAMER\nwww.blueprintstation.ca | engineersoframtech.ca\n4 engineersoframtech.ca\n385 Lackner Blvd. Unit 311\nWoodstock, ON N4T 0K5\nCALL: 519-501-3928\nPROJECT ENGINEER: WADDELL ENGINEERING LTD.\n119 PINEBUSH ROAD\nCAMBRIDGE, ON N1R 7J8\nPROJECT: 25-01-004\nPHONE: 519-267-6789\nPROJECT CONTRACTOR: BOWMAN CARPENTRY INC.\n6364 WELLINGTON RD. 11\nRR#3 LISTOWEL, ON N4W 3G8\nPHONE: 519-465-5960\nPROJECT: ELO WEBER FARM STORAGE SHED\nPROJECT: 5095 AMENT LINE\nLOCATION: WELLESLEY TOWNSHIP\nPROJECT PHONE #: 519-698-2840\nDATE: March 27, 2025\nPG. 7",
+      "general_notes_verbatim": "GENERAL NOTES:\n1. DESIGN AND CONSTRUCTION OF ALL WORK ON THIS PROJECT SHALL CONFORM TO LATEST EDITION OF THE ONTARIO BUILDING CODE\n2. DRAWINGS ARE NOT TO BE SCALED.\n3. CONTRACTOR SHALL MAKE ALLOWANCE IN PROVIDING TEMPORARY BRACING AND SHORING DURING CONSTRUCTION TO RESIST THE DESIGN LOADS.\n4. ALL ROOF TRUSSES SHALL BE DESIGNED, FABRICATED AND ERECTED IN CONFORMANCE TO CSA S307.\n5. ALL STEEL SHALL BE DESIGNED, FABRICATED AND ERECTED IN CONFORMANCE TO CSA S16.\n6. ALL CONCRETE SHALL BE DESIGNED, FABRICATED AND ERECTED IN CONFORMANCE TO CSA A23.3.",
+      "page_overview_summary": "This sheet contains general structural notes and a detailed truss bracing diagram. It outlines design loads and construction standards, ensuring compliance with the Ontario Building Code. The notes provide essential guidelines for the structural integrity and safety of the building, covering aspects from material specifications to construction practices."
+    }
+  ]
+}

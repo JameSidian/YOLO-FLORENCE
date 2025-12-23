@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+venv_florence2/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files and large data
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.index
+*.pkl
+*.pickle
+
+# FAISS indices (can be regenerated)
+*.index
+
+# Ignore everything at root level except florence_embedding and yolo_model
+/*
+!.gitignore
+!florence_embedding/
+!yolo_model/
+
+# Large data directories
+output/
+test_embeddings/
+embeddings/
+embeddings_output/
+embeddings_test/
+proccessed_pdfs/
+final_ms/
+
+# Florence model cache
+florence2_models/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Supabase keys (if stored locally)
+supabase_keys.txt
+*.key
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,134 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Load Bearing Edge at Cross-Ties",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "4/S1"
+      ],
+      "element_type": "Load Bearing Edge Section",
+      "element_callouts": [],
+      "key_components": [
+        "15M Rebar",
+        "Hilti Kwik Bolt 3 Wedge Anchors",
+        "Extruded Polystyrene",
+        "Compacted Granular 'A'",
+        "Welded Wire Mesh"
+      ],
+      "text_verbatim": "SLOPE AWAY 2% GRADE & INSULATION (IF PRESENT)\n(3) 15M REBAR @ TOP\nDIAMETER AND PROJECTION AS PER STEEL DWGS. HILTI KWIK BOLT 3 WEDGE ANCHORS MIN 4\" EMBED OR HILTI HAS CARBON STEEL THREADED ROD WITH HILTI HIT-HY 200 SAFE SET SYSTEM MIN 4\" EMBED OR EQUIVALENT ANCHORS\n(2) 15M HOOKED BARS\n6\"x6\"-6/6 WWM OR 10M GRID @ 10\" o.c.\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi c/w 6 mil POLY\nCOMPACTED GRANULAR 'A'\n(3) 15M REBAR @ BTM\nSECTION - Load Bearing Edge @ Cross-Ties\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view illustrates the load-bearing edge at cross-ties of a foundation. The section shows a slope away of 2% with grade and insulation if present. The reinforcement includes (3) 15M rebar at the top and bottom, and (2) 15M hooked bars. Anchors are specified as Hilti Kwik Bolt 3 Wedge Anchors with a minimum 4-inch embedment, or equivalent. The section includes a 6\"x6\"-6/6 welded wire mesh or a 10M grid at 10 inches on center. The foundation is insulated with a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi, covered with 6 mil poly. The base consists of compacted granular 'A'. The section is identified as 4/S1, indicating its location on the sheet.",
+      "project_id": "25-01-019",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Non-Load Bearing Edge",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "3/S1"
+      ],
+      "element_type": "Non-Load Bearing Edge Section",
+      "element_callouts": [],
+      "key_components": [
+        "15M Rebar",
+        "Extruded Polystyrene",
+        "Compacted Granular 'A'",
+        "Welded Wire Mesh"
+      ],
+      "text_verbatim": "SLOPE AWAY 2% GRADE & INSULATION (IF PRESENT)\n(2) 15M REBAR CONT. HOOKED AT END. (SEE S0 FOR COVER)\n6\"x6\"-6/6 WWM OR 10M GRID @ 10\" o.c.\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi c/w 6 mil POLY\nCOMPACTED GRANULAR 'A'\n(2) 15M REBAR @ BTM\nSECTION - Non-Load Bearing Edge\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view details the non-load bearing edge of a foundation. It features a 2% slope away with grade and insulation if present. Reinforcement includes (2) 15M rebar continuous and hooked at the end, with a note to see S0 for cover details. The section specifies a 6\"x6\"-6/6 welded wire mesh or a 10M grid at 10 inches on center. Insulation consists of a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi, covered with 6 mil poly. The base is compacted granular 'A'. This section is labeled as 3/S1, indicating its reference on the sheet.",
+      "project_id": "25-01-019",
+      "page_number": 2,
+      "region_number": 2,
+      "relative_path": "page_002/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Plan",
+      "location": "Foundation – Overall Slab Layout",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [
+        "1-4",
+        "A-G"
+      ],
+      "section_callouts": [
+        "1/S1",
+        "2/S1",
+        "3/S1",
+        "4/S1",
+        "5/S1"
+      ],
+      "element_type": "Foundation Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Floating Slab",
+        "Grid Lines"
+      ],
+      "text_verbatim": "PLAN\nSCALE: 1/8\" = 1'-0\"\n35'-0\"\n13'-6\"\n10'-9\"\n10'-9\"\n24'-0\"\n2'-6\"\n8'-6\"\n9'-11\"\n8'-0\"\n6'-11\"\n3'-0\"\n10'-0\"\n1/S1\n2/S1\n3/S1\n4/S1\n5/S1",
+      "summary": "This plan view shows the overall layout of the floating slab foundation. The slab measures 24 feet by 35 feet, with grid lines labeled 1-4 horizontally and A-G vertically. The plan includes section callouts 1/S1, 2/S1, 3/S1, 4/S1, and 5/S1, indicating where sections are cut through the plan. The dimensions provided include 35'-0\", 13'-6\", 10'-9\", and 24'-0\", outlining the slab's overall size and grid spacing. The plan is essential for understanding the structural layout and reinforcement details of the foundation.",
+      "project_id": "25-01-019",
+      "page_number": 2,
+      "region_number": 3,
+      "relative_path": "page_002/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Typical Load Bearing Edge",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "2/S1"
+      ],
+      "element_type": "Typical Load Bearing Edge Section",
+      "element_callouts": [],
+      "key_components": [
+        "15M Rebar",
+        "Extruded Polystyrene",
+        "Compacted Granular 'A'",
+        "Welded Wire Mesh"
+      ],
+      "text_verbatim": "SLOPE AWAY 2% GRADE & INSULATION (IF PRESENT)\n(3) 15M REBAR @ TOP\n6\"x6\"-6/6 WWM OR 10M GRID @ 10\" o.c.\nMIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi c/w 6 mil POLY\nCOMPACTED GRANULAR 'A'\n(3) 15M REBAR @ BTM\nSECTION - Typ. Load Bearing Edge\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view illustrates a typical load-bearing edge of a foundation. It includes a 2% slope away with grade and insulation if present. The reinforcement consists of (3) 15M rebar at the top and bottom. The section specifies a 6\"x6\"-6/6 welded wire mesh or a 10M grid at 10 inches on center. Insulation is provided by a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi, covered with 6 mil poly. The base is compacted granular 'A'. This section is identified as 2/S1, indicating its location on the sheet.",
+      "project_id": "25-01-019",
+      "page_number": 2,
+      "region_number": 4,
+      "relative_path": "page_002/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Section",
+      "location": "Foundation – Intermediate Thickening",
+      "level": "Foundation",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "5/S1"
+      ],
+      "element_type": "Intermediate Thickening Section",
+      "element_callouts": [],
+      "key_components": [
+        "15M Rebar",
+        "Extruded Polystyrene",
+        "Compacted Granular 'A'"
+      ],
+      "text_verbatim": "MIN. 2\" (R10) OF EXTRUDED POLYSTYRENE MIN. COMPRESSIVE STRENGTH OF 30 psi c/w 6 mil POLY\n(2) 15M REBAR CONT. HOOKED AT END (SEE NOTES FOR COVER)\nCOMPACTED GRANULAR 'A'\nSECTION - Intermediate Thickening\nSCALE: 1/2\" = 1'-0\"",
+      "summary": "This section view shows the intermediate thickening of a foundation. It includes a minimum of 2 inches (R10) of extruded polystyrene with a compressive strength of 30 psi, covered with 6 mil poly. The reinforcement consists of (2) 15M rebar continuous and hooked at the end, with a note to see additional notes for cover details. The base is compacted granular 'A'. This section is labeled as 5/S1, indicating its reference on the sheet.",
+      "project_id": "25-01-019",
+      "page_number": 2,
+      "region_number": 5,
+      "relative_path": "page_002/region_05_red_box.png"
+    }
+  ]
+}

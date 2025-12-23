@@ -1,0 +1,351 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Front and side elevations of Hideaway 160 model with full loft",
+      "level": "Multiple",
+      "orientation": "Front and side views",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue & Groove Stacked Wall",
+        "Windows",
+        "Roof Elements"
+      ],
+      "text_verbatim": "PARTIAL BOARD (2) FULL BOARDS ABOVE THE WINDOWS\n4.500\n9.500\n36.909\n96.000\n23°\n36.847\n134.910\n3.010\nMAINTAIN MINIMUM 2 (UNNOTCHED) ROWS OF WALL ABOVE OPENINGS (TYP.) *ROWS ACT AS SUPPORTING LINTEL\nFOUNDATION BY OTHERS (TYP.)\n4.125\n139.000\n147.250\n2x6 TONGUE & GROOVE STACKED WALL (TYP.)\n48.125\n37.375\n54.250",
+      "summary": "This elevation view shows the front and side of the Hideaway 160 model with a full loft. The structure uses 2x6 tongue and groove stacked walls, as indicated by the text '2x6 TONGUE & GROOVE STACKED WALL (TYP.)'. The drawing specifies that the foundation is to be provided by others, noted as 'FOUNDATION BY OTHERS (TYP.)'. Key dimensions include a roof angle of 23°, a width of 96.000 inches, and a height of 134.910 inches. The drawing emphasizes maintaining a minimum of two unnotched rows of wall above openings, which act as supporting lintels. The text 'PARTIAL BOARD (2) FULL BOARDS ABOVE THE WINDOWS' suggests modifications for window placement.",
+      "project_id": "25-01-010",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Front elevation of Hideaway 160 model with full loft",
+      "level": "Multiple",
+      "orientation": "Front view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue & Groove Stacked Wall",
+        "Windows",
+        "Doors"
+      ],
+      "text_verbatim": "189.000\n51.000\n55.625\n7.875\nMAINTAIN MINIMUM 2 (UNNOTCHED) ROWS OF WALL ABOVE OPENINGS (TYP.) *ROWS ACT AS SUPPORTING LINTEL\nFOUNDATION BY OTHERS (TYP.)\n4.125\n165.000\n173.250\n51.250\n28.250\n66.500\nA Height=172.646\n20.768 typ",
+      "summary": "This elevation view shows the front of the Hideaway 160 model with a full loft. The structure features 2x6 tongue and groove stacked walls, as indicated by the text '2x6 TONGUE & GROOVE STACKED WALL (TYP.)'. The foundation is noted to be provided by others, with the text 'FOUNDATION BY OTHERS (TYP.)'. Key dimensions include a total height of 172.646 inches and a width of 189.000 inches. The drawing specifies maintaining a minimum of two unnotched rows of wall above openings to act as supporting lintels. The dimensions for windows and doors are detailed, with a door width of 51.250 inches and window dimensions of 66.500 inches.",
+      "project_id": "25-01-010",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Elevation",
+      "location": "Front and side elevations of Hideaway 160 model with full loft",
+      "level": "Multiple",
+      "orientation": "Front and side views",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue & Groove Stacked Wall",
+        "Windows",
+        "Roof Elements"
+      ],
+      "text_verbatim": "ALTERNATIVELY YOU COULD JUST TELL THEM THEY WOULD NEED TO PURCHASE A LARGER MODEL TO ADD A WINDOW UP HERE\nTHIS IS A PARTIAL BOARD WE NEED (2) FULL BOARDS ABOVE THE WINDOWS\n4.500\n9.500\n36.909\n96.000\n23°\n36.847\n134.910\n3.010\nMAINTAIN MINIMUM 2 (UNNOTCHED) ROWS OF WALL ABOVE OPENINGS (TYP.) *ROWS ACT AS SUPPORTING LINTEL\nFOUNDATION BY OTHERS (TYP.)\n4.125\n139.000\n147.250\n2x6 TONGUE & GROOVE STACKED WALL (TYP.)\n48.125\n37.375\n54.250",
+      "summary": "This elevation view presents the front and side of the Hideaway 160 model with a full loft. The structure uses 2x6 tongue and groove stacked walls, as indicated by '2x6 TONGUE & GROOVE STACKED WALL (TYP.)'. The foundation is to be provided by others, noted as 'FOUNDATION BY OTHERS (TYP.)'. The drawing suggests modifications such as adding windows, with the text 'THIS IS A PARTIAL BOARD WE NEED (2) FULL BOARDS ABOVE THE WINDOWS'. Key dimensions include a roof angle of 23°, a width of 96.000 inches, and a height of 134.910 inches. The drawing emphasizes maintaining a minimum of two unnotched rows of wall above openings, which act as supporting lintels.",
+      "project_id": "25-01-010",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Front and side elevations of 199 Hideaway model with full loft",
+      "level": "Multiple",
+      "orientation": "Front and side views",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue & Groove Stacked Wall",
+        "Windows",
+        "Roof Elements"
+      ],
+      "text_verbatim": "2X10 Blocking Pieces (Inside of the Bunks) See S2.0 for more detail\n4.500\n29.545\n30.507\n30.179\n112.000\n171.000\nFOUNDATION BY OTHERS (TYP.)\n173.750\n182.000\nJ9\nJ10",
+      "summary": "This elevation view shows the front and side of the 199 Hideaway model with a full loft. The structure features 2x6 tongue and groove stacked walls, as indicated by the text '2x6 TONGUE & GROOVE STACKED WALL (TYP.)'. The foundation is to be provided by others, noted as 'FOUNDATION BY OTHERS (TYP.)'. Key dimensions include a width of 112.000 inches and a height of 171.000 inches. The drawing specifies 2x10 blocking pieces inside the bunks, with a reference to see S2.0 for more detail. The text 'J9' and 'J10' are used to label specific wall sections.",
+      "project_id": "25-01-010",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Front elevation of 199 Hideaway model with full loft",
+      "level": "Multiple",
+      "orientation": "Front view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue & Groove Stacked Wall",
+        "Windows",
+        "Doors"
+      ],
+      "text_verbatim": "189.000\n7.875\nO.A Height=187.169\n20.768 typ\n2x6 TONGUE & GROOVE STACKED WALL (TYP.)\n66.500\n1x4 FASCIA BOARD, ALL AROUND\n1.375\n162.250\n165.000\n173.250\nWINDOW POSITION IN DOOR BAY",
+      "summary": "This elevation view shows the front of the 199 Hideaway model with a full loft. The structure uses 2x6 tongue and groove stacked walls, as indicated by '2x6 TONGUE & GROOVE STACKED WALL (TYP.)'. The foundation is to be provided by others. Key dimensions include an overall height of 187.169 inches and a width of 189.000 inches. The drawing specifies a 1x4 fascia board all around and details the window position in the door bay. The text '20.768 typ' indicates typical dimensions for certain elements.",
+      "project_id": "25-01-010",
+      "page_number": 2,
+      "region_number": 2,
+      "relative_path": "page_002/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Rear and Side Elevation of Rockwood with Full Loft",
+      "level": "Multiple",
+      "orientation": "Side elevation showing roof and wall structure",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Elevation View",
+      "element_callouts": [
+        "KG0",
+        "KG1",
+        "KG2",
+        "KG3",
+        "KG4",
+        "KG5",
+        "KG6",
+        "KG7",
+        "KG8",
+        "K4"
+      ],
+      "key_components": [
+        "Roof Structure",
+        "2x6 Tongue and Groove Stacked Walls",
+        "Foundation"
+      ],
+      "text_verbatim": "Note: O.A=Overall typ.=Typical *All Dimensions in inches. Fascia Boards - All around FOUNDATION BY OTHERS (TYP.) 120.000 25.213 20.770 56.000 20.500 23.337 24.029 3.010 3.500 0.750 4.500 2.781 14° 23° 3.500 0.750 14.149 136.715 139.405 138.250 130.000 4.125",
+      "summary": "This elevation view shows the rear and side of the Rockwood model with a full loft. The drawing includes detailed dimensions for the roof and wall structures, with a note indicating that all dimensions are in inches. The roof structure is supported by elements labeled KG0 through KG8, and the walls are constructed using 2x6 tongue and groove stacked walls. The foundation is to be provided by others, as noted. Key dimensions include a roof span of 120.000 inches and wall heights of 136.715 and 139.405 inches. The fascia boards are noted to be all around the structure.",
+      "project_id": "25-01-010",
+      "page_number": 3,
+      "region_number": 1,
+      "relative_path": "page_003/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Rear and Side Elevation of Rockwood with Full Loft",
+      "level": "Multiple",
+      "orientation": "Rear elevation showing window and wall structure",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Elevation View",
+      "element_callouts": [
+        "K5",
+        "KT2",
+        "KM3",
+        "KM4"
+      ],
+      "key_components": [
+        "Roof Structure",
+        "2x6 Tongue and Groove Stacked Walls",
+        "Window"
+      ],
+      "text_verbatim": "192.500 177.000 185.250 4.125 1.375 O.A Height=189.367 Fascia Board - All around WINDOW POSITION DOOR SWAP",
+      "summary": "This elevation view illustrates the rear of the Rockwood model with a full loft, focusing on the window and wall structure. The roof spans 192.500 inches, and the overall height is 189.367 inches. The drawing highlights the use of 2x6 tongue and groove stacked walls, with a fascia board surrounding the structure. A window is centrally positioned, with dimensions noted for potential door swap. The foundation is indicated to be provided by others.",
+      "project_id": "25-01-010",
+      "page_number": 3,
+      "region_number": 2,
+      "relative_path": "page_003/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Rear and Side View of Rockwood 199 Full Loft",
+      "level": "Multiple",
+      "orientation": "Side elevation showing roof and wall structure",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Elevation View",
+      "element_callouts": [
+        "K11"
+      ],
+      "key_components": [
+        "Roof Structure",
+        "2x6 Tongue and Groove Stacked Walls",
+        "Foundation"
+      ],
+      "text_verbatim": "Note: O.A=Overall typ.=Typical *All Dimensions in inches. Gable FOUNDATION BY OTHERS 150.000 32.172 26.132 56.854 33.432 32.172 188.149 159.250 162.000 170.250",
+      "summary": "This elevation view shows the rear and side of the Rockwood 199 model with a full loft. The drawing provides detailed dimensions for the roof and wall structures, with a note indicating that all dimensions are in inches. The roof structure is supported by elements labeled K11, and the walls are constructed using 2x6 tongue and groove stacked walls. The foundation is to be provided by others, as noted. Key dimensions include a roof span of 150.000 inches and an overall height of 188.149 inches.",
+      "project_id": "25-01-010",
+      "page_number": 4,
+      "region_number": 1,
+      "relative_path": "page_004/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Rear and Side View of Rockwood 199 Full Loft",
+      "level": "Multiple",
+      "orientation": "Rear elevation showing window and wall structure",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Elevation View",
+      "element_callouts": [
+        "K5",
+        "KT2",
+        "KM8",
+        "KM9",
+        "KM10"
+      ],
+      "key_components": [
+        "Roof Structure",
+        "2x6 Tongue and Groove Stacked Walls",
+        "Window"
+      ],
+      "text_verbatim": "192.500 177.000 185.250 4.125 1.375 A Height 188.149 Fascia Board - All around WINDOW POSITION DOOR SWAP 51.000 61.625",
+      "summary": "This elevation view illustrates the rear of the Rockwood 199 model with a full loft, focusing on the window and wall structure. The roof spans 192.500 inches, and the overall height is 188.149 inches. The drawing highlights the use of 2x6 tongue and groove stacked walls, with a fascia board surrounding the structure. A window is centrally positioned, with dimensions noted for potential door swap. The foundation is indicated to be provided by others.",
+      "project_id": "25-01-010",
+      "page_number": 4,
+      "region_number": 2,
+      "relative_path": "page_004/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Notes",
+      "location": null,
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Drawing Title",
+      "element_callouts": [],
+      "key_components": [],
+      "text_verbatim": "Rockwood 199 Full Loft - Rear and Side View With loft window in loft rear",
+      "summary": "This text provides the title for the drawing sheet, indicating that it shows the rear and side view of the Rockwood 199 model with a full loft. It notes the presence of a loft window in the rear of the loft.",
+      "project_id": "25-01-010",
+      "page_number": 4,
+      "region_number": 3,
+      "relative_path": "page_004/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Left side elevation of Haven Ultra model",
+      "level": "Multiple",
+      "orientation": "Left side view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Side Elevation with Loft Floor",
+      "element_callouts": [],
+      "key_components": [
+        "Loft Floor",
+        "Extra Windows"
+      ],
+      "text_verbatim": "Loft Floor\nLeft Side",
+      "summary": "This elevation shows the left side of the Haven Ultra model, highlighting the loft floor and additional windows. The drawing focuses on the placement of extra windows along the loft floor level. The label 'Loft Floor' indicates the position of the loft within the structure. The elevation is part of a set that includes multiple views of the building.",
+      "project_id": "25-01-010",
+      "page_number": 5,
+      "region_number": 1,
+      "relative_path": "page_005/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Elevation",
+      "location": "Back elevation of Haven Ultra model",
+      "level": "Multiple",
+      "orientation": "Back view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Back Elevation with Loft Floor",
+      "element_callouts": [],
+      "key_components": [
+        "Loft Floor",
+        "Extra Windows"
+      ],
+      "text_verbatim": "Loft Floor\nBack\nWINDOW POSITION LOOKS OKAY",
+      "summary": "This elevation displays the back view of the Haven Ultra model, focusing on the loft floor and additional windows. The note 'WINDOW POSITION LOOKS OKAY' suggests that the window placement has been reviewed and approved. The 'Loft Floor' label indicates the level of the loft within the building. This view is part of a comprehensive set showing all sides of the structure.",
+      "project_id": "25-01-010",
+      "page_number": 5,
+      "region_number": 2,
+      "relative_path": "page_005/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Elevation",
+      "location": "Front elevation of Haven Ultra model",
+      "level": "Multiple",
+      "orientation": "Front view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Front Elevation with Loft Floor",
+      "element_callouts": [],
+      "key_components": [
+        "Loft Floor",
+        "Extra Windows",
+        "Front Door"
+      ],
+      "text_verbatim": "Loft Floor\nFront\nWINDOW POSITION LOOKS OKAY",
+      "summary": "This elevation shows the front view of the Haven Ultra model, emphasizing the loft floor and additional windows. The front door is centrally located, flanked by windows. The note 'WINDOW POSITION LOOKS OKAY' indicates approval of window placement. The 'Loft Floor' label marks the loft's position. This drawing is part of a set that includes all elevations of the building.",
+      "project_id": "25-01-010",
+      "page_number": 5,
+      "region_number": 3,
+      "relative_path": "page_005/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Elevation",
+      "location": "Right side elevation of Haven Ultra model",
+      "level": "Multiple",
+      "orientation": "Right side view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Side Elevation with Loft Floor",
+      "element_callouts": [],
+      "key_components": [
+        "Loft Floor",
+        "Extra Windows"
+      ],
+      "text_verbatim": "Extra Windows\nRight Side\nLoft Floor",
+      "summary": "This elevation illustrates the right side of the Haven Ultra model, focusing on the loft floor and additional windows. The label 'Extra Windows' highlights the emphasis on window placement in this design. The 'Loft Floor' indicates the level of the loft. This view is part of a complete set of elevations for the building.",
+      "project_id": "25-01-010",
+      "page_number": 5,
+      "region_number": 4,
+      "relative_path": "page_005/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "Side elevation of Rockwood 199sqft model",
+      "level": "Multiple",
+      "orientation": "Side view",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Side Elevation with Roof Details",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Tongue and Groove Walls",
+        "Fascia Boards",
+        "Roof Elements"
+      ],
+      "text_verbatim": "SIDE ELEVATION\nFOUNDATION BY OTHERS (TYP.)\nRipped 2X6\nFascia Boards - All around\nDimensions: 150.000, 123.950, 28.672, 24.435, 0.750, 57.604, 14.153, 144.500, 91.339, 97.844, 101.540, 94.079, 3.500, 4.125\nK11",
+      "summary": "This side elevation of the Rockwood 199sqft model details the roof and wall elements. The structure features 2x6 tongue and groove stacked walls, with fascia boards all around. The foundation is noted as 'FOUNDATION BY OTHERS (TYP.)', indicating it is not included in this design. The drawing includes precise dimensions for various roof elements, such as '150.000', '123.950', and '28.672'. The label 'Ripped 2X6' refers to a specific wall component. The 'K11' notation likely refers to a specific construction detail or material specification.",
+      "project_id": "25-01-010",
+      "page_number": 6,
+      "region_number": 1,
+      "relative_path": "page_006/region_01_red_box.png"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "S0",
+      "drawing_title": "Notes",
+      "overall_classification": "Notes",
+      "level": "Unknown",
+      "primary_orientation": null,
+      "key_components": [
+        "General Structural Notes",
+        "Concrete Specifications",
+        "Reinforcing Steel Requirements",
+        "Excavation and Backfill Guidelines",
+        "Design Loads"
+      ],
+      "text_verbatim_title_block": "CLIENT: Wayne Mckeown\nDRAWING TITLE: Notes\nPROJECT: Wayne Mckeown 24 x 35 Floating Slab\n/ 182 Barton Street,\nHamilton, ON\nDRAWN BY: DATE: 11/02/2025\nSCALE: Noted SHEET NO: S0\nPROJECT NO: 25-01-019",
+      "general_notes_verbatim": "GENERAL NOTES\n1. UNLESS NOTED OTHERWISE ON THE DRAWINGS, THE FOLLOWING NOTES SHALL GOVERN:\n...\nCONCRETE\n1. ALL REINFORCED CONCRETE ELEMENTS ARE DESIGNED USING THE LIMIT STATES DESIGN METHOD IN ACCORDANCE\n...\nREINFORCING STEEL\n1. ALL REBAR SHALL BE DEFORMED BARS CONFORMING TO G30.18 WITH A\n...\nEXCAVATION AND BACKFILL\n1. ALL BEARING PRESSURES HAVE BEEN ASSUMED AND MUST BE VERIFIED ON SITE, PRIOR TO\n...\nDESIGN LOADS\nDESIGN LOADS FROM FRAMING AS PER PRE-ENG STEEL DRAWINGS.",
+      "page_overview_summary": "This sheet contains general structural notes and specifications that apply to the entire project. It includes guidelines for concrete and reinforcing steel, excavation and backfill procedures, and design loads. These notes are critical for ensuring compliance with engineering standards and safety regulations. The sheet serves as a reference for the construction team to follow throughout the project."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": "S1",
+      "drawing_title": "Plan and Sections",
+      "overall_classification": "Mixed",
+      "level": "Foundation",
+      "primary_orientation": null,
+      "key_components": [
+        "Floating Slab Plan",
+        "Load Bearing Edge Sections",
+        "Non-Load Bearing Edge Sections",
+        "Intermediate Thickening Section"
+      ],
+      "text_verbatim_title_block": "CLIENT: Wayne Mckeown\nDRAWING TITLE: Plan and Sections\nPROJECT: Wayne Mckeown 24 x 35 Floating Slab\n/ 182 Barton Street,\nHamilton, ON\nDRAWN BY: DATE: 11/02/2025\nSCALE: Noted SHEET NO: S1\nPROJECT NO: 25-01-019",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides a plan view and various sections of the floating slab foundation. It includes detailed sections for typical load-bearing and non-load-bearing edges, as well as an intermediate thickening section. The plan outlines the overall dimensions of the slab, which measures 24' x 35'. These drawings are essential for understanding the structural layout and reinforcement details of the foundation."
+    }
+  ]
+}

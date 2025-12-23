@@ -1,0 +1,6 @@
+names:
+- red box
+nc: 1
+path: /content/drive/MyDrive/Label Model 1/dataset
+train: images/train
+val: images/val

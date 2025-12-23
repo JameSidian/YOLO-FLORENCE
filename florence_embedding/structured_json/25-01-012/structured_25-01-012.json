@@ -1,0 +1,518 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Foundation – L4 top plate nailing",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Top Plate Nailing Detail",
+      "element_callouts": [
+        "L4"
+      ],
+      "key_components": [
+        "Nails",
+        "Scab"
+      ],
+      "text_verbatim": "AS PER PLAN\n8\n18\" SCAB\nL4 TOP PLATE NAILING",
+      "summary": "This detail shows the L4 top plate nailing configuration. It specifies the use of 8 nails as per plan and includes an 18-inch scab for reinforcement. The detail is part of the foundation plan, focusing on the structural connection at the top plate level.",
+      "project_id": "25-01-012",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Foundation – overall layout",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "section_callouts": [],
+      "element_type": "Foundation, Floor & Column Plan",
+      "element_callouts": [
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ],
+      "key_components": [
+        "Concrete Footings",
+        "Columns",
+        "Foundation Walls"
+      ],
+      "text_verbatim": "FOUNDATION, FLOOR & COLUMN PLAN\nSCALE: 1/8\" = 1'-0\"\nFARM STORAGE SHED\n(OPEN TO ROOF)\nMIN 6\" COMPACTED GRANULAR 'A' ON UNDISTURBED SOIL\nP.T. RATING\nC5 & L1 - INDOOR WOOD NOT IN CONTACT WITH CONCRETE\n10'-3\"\n31'-0\"\n10'-3\"\n5'-0\"\n8'-0\"\n8'-0\"\n8'-0\"\n8'-0\"\n8'-0\"\n8'-0\"\n8'-0\"\n10'-1\"\n8'-0\"\n81'-0\"\n132'-0\"\nROLL UP DOOR\nSTAIRS/GUARD/HANDRAIL AS PER OBC\nPENNING BY OTHERS\n2x10 JOISTS @ 16\" O.C. W/ 1 ROW OF BRIDGING PER SPAN\nADD BLOCKING OVER BEAMS",
+      "summary": "This plan provides the foundation, floor, and column layout for the farm storage shed. It includes dimensions such as 132'-0\" and 81'-0\" for the overall building footprint. The plan details the placement of concrete footings and columns, labeled as L1, L2, L3, L4, L5, and C1 to C4. It specifies a minimum of 6 inches of compacted granular 'A' on undisturbed soil. The plan also notes the inclusion of a roll-up door and stairs/guard/handrail as per OBC. Joists are specified as 2x10 at 16 inches on center with one row of bridging per span.",
+      "project_id": "25-01-012",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Foundation – L1 and L2 top plate nailing",
+      "level": "Foundation",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Top Plate Nailing Detail",
+      "element_callouts": [
+        "L1",
+        "L2"
+      ],
+      "key_components": [
+        "Nails",
+        "Scab"
+      ],
+      "text_verbatim": "L1 TOP PLATE NAILING\nAS PER PLAN\n8\n- 4\" COMMON SPIRAL NAILS (GALVANIZED)\nL2 TOP PLATE NAILING\nAS PER PLAN\n12\n24\" SCAB",
+      "summary": "This detail illustrates the top plate nailing for L1 and L2. The L1 nailing uses 8 nails as per plan, with 4-inch common spiral galvanized nails. The L2 nailing specifies 12 nails and includes a 24-inch scab. These details are crucial for ensuring the structural integrity of the top plate connections in the foundation plan.",
+      "project_id": "25-01-012",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Wall Framing – D2 truss to plate connection",
+      "level": "Multiple",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Truss to Plate Connection Detail",
+      "element_callouts": [
+        "D2"
+      ],
+      "key_components": [
+        "Truss",
+        "Plates",
+        "Nails",
+        "Uplift Ties"
+      ],
+      "text_verbatim": "D2 TYPICAL TRUSS TO PLATE CONNECTION\nUPLIFT TIES OR USE SIMPSON UPLIFT CLIPS\nSHEAR BLOCK UNDER TRUSS BETWEEN PLATES\n- 4\" COMMON SPIRAL 'ARDOX' NAILS\n8\n4 EA PLATE",
+      "summary": "This detail shows the D2 typical truss to plate connection. It includes uplift ties or Simpson uplift clips for securing the truss. Shear blocks are placed under the truss between plates, and 4-inch common spiral 'Ardox' nails are used for fastening. The detail is essential for understanding the connection between trusses and plates in the wall framing.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Wall Framing – BR1 brace to post connection",
+      "level": "Multiple",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Brace to Post Connection Detail",
+      "element_callouts": [
+        "BR1"
+      ],
+      "key_components": [
+        "PT Posts",
+        "Corner Brace",
+        "Scab",
+        "Nails"
+      ],
+      "text_verbatim": "BR1 TYPICAL BRACE TO POST CONNECTION\n2x6 OR 2x8 SCAB (MATCH POST DEPTH)\n18\" LONG W/ 26 - 3 1/2\" COMMON GALV SPIRAL NAILS\nPT POSTS\nDOUBLE 2 x 6 CORNER BRACE",
+      "summary": "This detail illustrates the BR1 typical brace to post connection. It specifies a 2x6 or 2x8 scab matching the post depth, 18 inches long, secured with 26 - 3 1/2-inch common galvanized spiral nails. The connection includes PT posts and a double 2x6 corner brace, providing structural stability in the wall framing.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 2,
+      "relative_path": "page_002/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Wall framing detail",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Wall Framing Detail",
+      "element_callouts": [
+        "BR1",
+        "BR2"
+      ],
+      "key_components": [
+        "Trusses",
+        "Purlins",
+        "Plates",
+        "Shear Blocks",
+        "Support Plates",
+        "Cornerpost",
+        "Side Brace",
+        "Vertical Blocking"
+      ],
+      "text_verbatim": "TRUSSES AS PER ATTACHED ENGINEERED DETAILS AND MANUFACTURERS APPROVED DRAWINGS\nPURLINS AS PER PLAN\n2x6 RIPPED SHEAR BLOCKS UNDER EACH TRUSS BETWEEN PLATES\nSEE DETAIL ON RIGHT\nFASTEN AS PER BR1 & BR2 ON PG 2\nSUPPORT PLATES\nP.T. CORNERPOST AS PER PLAN\n2 x 4 OUTSIDE CORNER BLOCKING\nVERTICAL BLOCKING\n2 x 4 WALL STRAPPING\nSIDEWALL POSTS AS PER PLAN\nGRADE\nPLATES\n2 x 6 ENDWALL POST EXTENSIONS TO TOP CHORD OF TRUSSES AT ENDWALL",
+      "summary": "This detail shows the wall framing for a structure, highlighting various components such as trusses, purlins, plates, and shear blocks. The trusses are to be installed as per engineered details and manufacturer's approved drawings. Purlins are placed according to the plan. The detail specifies the use of 2x6 ripped shear blocks under each truss between plates. Fastening instructions are provided as per BR1 and BR2 on page 2. Support plates and corner posts are also detailed, with vertical blocking and 2x4 wall strapping included. The detail emphasizes the structural integrity of the wall framing with specific components and fastening methods.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 3,
+      "relative_path": "page_002/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Detail",
+      "location": "Brace to post connection",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Brace Connection Detail",
+      "element_callouts": [
+        "BR2"
+      ],
+      "key_components": [
+        "2x4 Strapping",
+        "2x6 or 2x8 Scab",
+        "PT Posts",
+        "Common Galv Spiral Nails"
+      ],
+      "text_verbatim": "BR2 X BRACE TO POST CONNECTION\n2 NAILS IN STRAPPING TO BRACE (TYP)\n2x4 STRAPPING\n2x6 OR 2x8 SCAB (MATCH POST DEPTH) 18\" LONG W/ 26 - 3½\" COMMON GALV SPIRAL NAILS\nPT POSTS AS PER PLAN\n2x6 OR BRACE (MATCH POST DEPTH)",
+      "summary": "This detail illustrates the BR2 brace to post connection, specifying the use of 2x4 strapping and either 2x6 or 2x8 scabs that match the post depth. The scabs are 18 inches long and are secured with 26 - 3½ inch common galvanized spiral nails. The detail also notes the use of PT posts as per the plan. The connection is reinforced with two nails in the strapping to brace, marked as typical. This detail ensures the stability and strength of the brace to post connection in the wall framing.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 4,
+      "relative_path": "page_002/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Elevation",
+      "location": "Right elevation of farm storage shed",
+      "level": "Unknown",
+      "orientation": "Right elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [
+        "BR2"
+      ],
+      "key_components": [
+        "29 GA. Diamond Rib Steel Cladding",
+        "Footings",
+        "Windows",
+        "Door"
+      ],
+      "text_verbatim": "RIGHT ELEVATION\nSCALE: 3/32\" = 1'-0\"\n29 GA. DIAMOND RIB STEEL CLADDING\nTOP OF PLATE\nTOP OF FLOOR\nTOP OF FOOTING\nBR2\n16'-10\"\n3'-2\"",
+      "summary": "This right elevation view of the farm storage shed shows the exterior design, featuring 29 GA diamond rib steel cladding. The elevation includes dimensions for the top of the plate, floor, and footing, with a height of 16'-10\" to the top of the plate and 3'-2\" to the top of the floor. The elevation also shows the placement of windows and a door, with BR2 bracing indicated. This view provides a comprehensive look at the right side of the building, highlighting its structural and aesthetic elements.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 5,
+      "relative_path": "page_002/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_06_red_box.png",
+      "classification": "Elevation",
+      "location": "Left elevation of farm storage shed",
+      "level": "Unknown",
+      "orientation": "Left elevation",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [
+        "BR1"
+      ],
+      "key_components": [
+        "29 GA. Diamond Rib Steel Cladding",
+        "Footings",
+        "Windows"
+      ],
+      "text_verbatim": "LEFT ELEVATION\nSCALE: 3/32\" = 1'-0\"\n29 GA. DIAMOND RIB STEEL CLADDING\nTOP OF PLATE\nTOP OF FLOOR\nTOP OF FOOTING\nBR1\n16'-10\"\n3'-2\"",
+      "summary": "This left elevation view of the farm storage shed highlights the exterior cladding with 29 GA diamond rib steel. The elevation provides dimensions for the top of the plate at 16'-10\" and the top of the floor at 3'-2\". It shows the arrangement of windows and includes BR1 bracing. This elevation offers a detailed perspective of the left side of the building, emphasizing its structural features and material specifications.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 6,
+      "relative_path": "page_002/region_06_red_box.png"
+    },
+    {
+      "image_id": "region_07_red_box.png",
+      "classification": "Elevation",
+      "location": "Front and rear elevations of farm storage shed",
+      "level": "Unknown",
+      "orientation": "Front and rear elevations",
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Building Elevation",
+      "element_callouts": [
+        "BR1",
+        "BR2"
+      ],
+      "key_components": [
+        "29 GA. High Tensile Century Rib Steel",
+        "29 GA. Diamond Rib Steel Cladding",
+        "Footings",
+        "Windows",
+        "Doors",
+        "Ridge Vent"
+      ],
+      "text_verbatim": "FRONT ELEVATION\nSCALE: 3/32\" = 1'-0\"\nREAR ELEVATION\nSCALE: 3/32\" = 1'-0\"\nTYP. 10'-0\" RIDGE VENT\n29 GA. HIGH TENSILE CENTURY RIB STEEL\n29 GA. DIAMOND RIB STEEL CLADDING\nTOP OF PLATE\nTOP OF FLOOR\nTOP OF FOOTING\nBR1\nBR2\n16'-10\"\n3'-2\"",
+      "summary": "This image shows the front and rear elevations of the farm storage shed. Both elevations are clad with 29 GA high tensile century rib steel and 29 GA diamond rib steel cladding. The elevations include a typical 10'-0\" ridge vent. Dimensions are provided for the top of the plate at 16'-10\" and the top of the floor at 3'-2\". The elevations display the placement of windows and doors, with BR1 and BR2 bracing indicated. These views provide a comprehensive look at the structural and aesthetic features of the building's front and rear sides.",
+      "project_id": "25-01-012",
+      "page_number": 2,
+      "region_number": 7,
+      "relative_path": "page_002/region_07_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Section",
+      "location": "Farm Storage Shed – Roof Truss Section",
+      "level": "Roof",
+      "orientation": "Longitudinal section",
+      "grid_references": [],
+      "section_callouts": [
+        "D6"
+      ],
+      "element_type": "Roof Truss Section",
+      "element_callouts": [],
+      "key_components": [
+        "2x6 Wood Fascia",
+        "Vented Steel Soffit",
+        "Fascia Trim",
+        "Engineered Roof Truss",
+        "29 GA. High Tensile Century Rib Steel",
+        "2x4 Roof Strapping"
+      ],
+      "text_verbatim": "NOTE: \n-X-BRACING AS PER ENGINEERS \nTRUSS DRAWING REVIEW: \nCONTRACTOR TO PROVIDE \nENGINEER WITH STAMPED \nTRUSS DRAWINGS \nRIDGE VENTS AS PER \nOBC (BY OTHERS) \nDIAGONAL BRACING ON \nALL WEBS REQUIRING \nLATERAL BRACING SEE \nD6 \n29 GA. HIGH TENSILE CENTURY RIB STEEL \nTRIM & FASTENERS \n2x4 ROOF STRAPPING @ 2'-0\" o.c. \nENGINEERED ROOF TRUSS @ 4'-0\" o.c. \nUPLIFT CLIPS OR FASTEN \nAS PER D1 & D2 \nBOTTOM CHORD LATERAL \nBRACING AS PER TRUSS PLAN \nLATERAL BRACING ON \nWEBS AS PER TRUSS PLAN \nFARM STORAGE SHED",
+      "summary": "This section view shows a roof truss system for a farm storage shed. The truss is engineered and spaced at 4'-0\" on center, with 2x4 roof strapping at 2'-0\" on center. The roof is covered with 29 GA. high tensile century rib steel. The section includes 2x6 wood fascia, vented steel soffit, and fascia trim. Ridge vents are specified as per OBC by others. Diagonal bracing is required on all webs needing lateral bracing, as referenced in detail D6. Uplift clips or fasteners are to be installed as per details D1 and D2. The contractor is responsible for providing stamped truss drawings for review.",
+      "project_id": "25-01-012",
+      "page_number": 3,
+      "region_number": 1,
+      "relative_path": "page_003/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Section",
+      "location": "Farm Storage Shed – Cross Section A-A",
+      "level": "Ground Floor",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "D5",
+        "D6"
+      ],
+      "element_type": "Building Cross Section",
+      "element_callouts": [],
+      "key_components": [
+        "3 Rows T&G 2x6 PT",
+        "Concrete Foundation Wall",
+        "Engineered Roof Truss",
+        "2x4 Roof Strapping",
+        "Purlins"
+      ],
+      "text_verbatim": "CROSS SECTION A-A \nSCALE 3/16\" = 1'-0\" \nTOP OF GRAVEL FLOOR \n3 ROWS T&G 2x6 PT \nADD A SECOND SET @ 14'-0\" OPENING \n2 - 2x6 PT x 16\" UPLIFT SCABS \nW/ 8 - 4\" GALV SPIRAL NAILS \nPER SCAB (TYP) \nMIN 6\" COMPACTED GRANULAR 'A' \nON UNDISTURBED SOIL \nFOOTING AS PER PLAN \nD5 TYPICAL PURLIN SPLICE \n2 ADJACENT PURLIN AT RIDGE \nON EACH ROOF PLANE \n2 ADJACENT PURLIN AT EAVE \nON EACH ROOF PLANE \nPROVIDE 4'-0\" LONG 22 ga. TRACK AT \nEACH SPLICE LOCATION C/W 16 - 1 1/2\" \nNIOHDG (10d) NAILS EACH SIDE OF \nSPLICE (SEE DETAIL) (AVOID ROOF \nVENTS) TYPICAL EACH SIDE OF ROOF.",
+      "summary": "This transverse section of the farm storage shed, labeled as Cross Section A-A, illustrates the structural components from the foundation to the roof. The foundation includes a concrete wall with 3 rows of T&G 2x6 PT above a compacted granular 'A' base. The roof structure features engineered trusses with 2x4 roof strapping. Purlins are detailed with a typical splice shown in D5, requiring adjacent purlins at ridge and eave on each roof plane. The splice uses 22 ga. track and NIOHDG nails. The section also specifies uplift scabs for openings and notes the need for compacted soil preparation.",
+      "project_id": "25-01-012",
+      "page_number": 3,
+      "region_number": 2,
+      "relative_path": "page_003/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Farm Storage Shed – Opening Detail",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Opening Detail with Wood and Steel Beam",
+      "element_callouts": [
+        "D3",
+        "D4"
+      ],
+      "key_components": [
+        "Engineered Trusses",
+        "Uplift Clips",
+        "2x8 Studs",
+        "PT Post",
+        "Concrete Foundation Wall",
+        "3/8\" STL Plate"
+      ],
+      "text_verbatim": "D3 OPENING DETAIL W/ WOOD BEAM \nN.T.S. \nENGINEERED TRUSSES AS PER PLAN \nUPLIFT CLIPS AS PER TRUSS MFR \nPLATES AS PER PLAN \n2x8 STUDS @ 16\" O.C. \nBEAM AS PER PLAN \nTOENAIL 3 EA PLY \nPT POST FULL HEIGHT \n4 PT POST BEARING \nAS PER PLAN \n1/2\" GALV BOLTS @ 24\" \no.c. 4 EA END \n2 1/4\" ANCHOR BOLTS BY OPENINGS \nCONCRETE FOUNDATION \nWALL AS PER PLAN \n3 ROWS T&G 2x6 PT \nD4 OPENING DETAIL W/ STEEL BEAM \nN.T.S. \n1/4\" PLATE x WIDTH \nOF BEAM FASTENED TO \nSTL BEAM W/ 1/2\" BOLTS \nSTAGGERED @ 24\" o.c. \n1/2\" BOLTS @ EACH END \n3/8\" STL PLATE WELDED \nTO BEAM C/W 4 1/2\" BOLTS \n3/16 TYP.",
+      "summary": "This detail illustrates opening configurations with both wood and steel beams for the farm storage shed. The D3 detail shows a wood beam with engineered trusses, uplift clips, and 2x8 studs spaced at 16\" on center. The PT post is full height with 1/2\" galvanized bolts at 24\" on center and 2 1/4\" anchor bolts by openings. The D4 detail features a steel beam with a 1/4\" plate fastened to the beam using staggered 1/2\" bolts. A 3/8\" steel plate is welded to the beam with 4 1/2\" bolts. Both details specify the use of 3 rows of T&G 2x6 PT above the concrete foundation wall.",
+      "project_id": "25-01-012",
+      "page_number": 3,
+      "region_number": 3,
+      "relative_path": "page_003/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Section",
+      "location": "Farm Storage Shed – Cross Section B-B",
+      "level": "Ground Floor",
+      "orientation": "Transverse section",
+      "grid_references": [],
+      "section_callouts": [
+        "D5",
+        "D6"
+      ],
+      "element_type": "Building Cross Section",
+      "element_callouts": [],
+      "key_components": [
+        "3 Rows T&G 2x6 PT",
+        "Concrete Foundation Wall",
+        "Engineered Roof Truss",
+        "2x4 Roof Strapping",
+        "Purlins"
+      ],
+      "text_verbatim": "CROSS SECTION B-B \nSCALE 3/16\" = 1'-0\" \nTOP OF GRAVEL FLOOR \n3 ROWS T&G 2x6 PT \nADD A SECOND SET @ 14'-0\" OPENING \n2 - 2x6 PT x 16\" UPLIFT SCABS \nW/ 8 - 4\" GALV SPIRAL NAILS \nPER SCAB (TYP) \nMIN 6\" COMPACTED GRANULAR 'A' \nON UNDISTURBED SOIL \nFOOTING AS PER PLAN \nD5 TYPICAL PURLIN SPLICE \n2 ADJACENT PURLIN AT RIDGE \nON EACH ROOF PLANE \n2 ADJACENT PURLIN AT EAVE \nON EACH ROOF PLANE \nPROVIDE 4'-0\" LONG 22 ga. TRACK AT \nEACH SPLICE LOCATION C/W 16 - 1 1/2\" \nNIOHDG (10d) NAILS EACH SIDE OF \nSPLICE (SEE DETAIL) (AVOID ROOF \nVENTS) TYPICAL EACH SIDE OF ROOF.",
+      "summary": "This transverse section, labeled as Cross Section B-B, provides a detailed view of the farm storage shed's structural elements. It includes a concrete foundation wall with 3 rows of T&G 2x6 PT on a compacted granular 'A' base. The roof structure features engineered trusses with 2x4 roof strapping. Purlins are detailed with a typical splice shown in D5, requiring adjacent purlins at ridge and eave on each roof plane. The splice uses 22 ga. track and NIOHDG nails. The section also specifies uplift scabs for openings and notes the need for compacted soil preparation.",
+      "project_id": "25-01-012",
+      "page_number": 3,
+      "region_number": 4,
+      "relative_path": "page_003/region_04_red_box.png"
+    },
+    {
+      "image_id": "region_05_red_box.png",
+      "classification": "Detail",
+      "location": "Farm Storage Shed – Opening Detail",
+      "level": "Ground Floor",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Opening Detail with Wood and Steel Beam",
+      "element_callouts": [
+        "D3",
+        "D4"
+      ],
+      "key_components": [
+        "Engineered Trusses",
+        "Uplift Clips",
+        "2x8 Studs",
+        "PT Post",
+        "Concrete Foundation Wall",
+        "3/8\" STL Plate"
+      ],
+      "text_verbatim": "D3 OPENING DETAIL W/ WOOD BEAM \nN.T.S. \nENGINEERED TRUSSES AS PER PLAN \nUPLIFT CLIPS AS PER TRUSS MFR \nPLATES AS PER PLAN \n2x8 STUDS @ 16\" O.C. \nBEAM AS PER PLAN \nTOENAIL 3 EA PLY \nPT POST FULL HEIGHT \n4 PT POST BEARING \nAS PER PLAN \n1/2\" GALV BOLTS @ 24\" \no.c. 4 EA END \n2 1/4\" ANCHOR BOLTS BY OPENINGS \nCONCRETE FOUNDATION \nWALL AS PER PLAN \n3 ROWS T&G 2x6 PT \nD4 OPENING DETAIL W/ STEEL BEAM \nN.T.S. \n1/4\" PLATE x WIDTH \nOF BEAM FASTENED TO \nSTL BEAM W/ 1/2\" BOLTS \nSTAGGERED @ 24\" o.c. \n1/2\" BOLTS @ EACH END \n3/8\" STL PLATE WELDED \nTO BEAM C/W 4 1/2\" BOLTS \n3/16 TYP.",
+      "summary": "This detail illustrates opening configurations with both wood and steel beams for the farm storage shed. The D3 detail shows a wood beam with engineered trusses, uplift clips, and 2x8 studs spaced at 16\" on center. The PT post is full height with 1/2\" galvanized bolts at 24\" on center and 2 1/4\" anchor bolts by openings. The D4 detail features a steel beam with a 1/4\" plate fastened to the beam using staggered 1/2\" bolts. A 3/8\" steel plate is welded to the beam with 4 1/2\" bolts. Both details specify the use of 3 rows of T&G 2x6 PT above the concrete foundation wall.",
+      "project_id": "25-01-012",
+      "page_number": 3,
+      "region_number": 5,
+      "relative_path": "page_003/region_05_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – continuous purlin splice detail",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Continuous Purlin Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Metal Track",
+        "Purlins",
+        "Nails"
+      ],
+      "text_verbatim": "METAL TRACK CENTERED OVER PURLIN SPLICE\nNOTE:\nMAKE 2 ADJACENT RIDGE AND 2 ADJACENT EAVE PURLINS CONTINUOUS BY PROVIDING 4'-0\" LONG 26 GAUGE TRACK AT EACH SPLICE LOCATION c/w (16)1½\" 10d NAILS EACH SIDE OF SPLICE.\nRIDGE AND EAVE PURLINS (SEE PLAN FOR NUMBER OF ROWS)\nMETAL TRACK AS PER NOTE\nALL PURLIN SPLICE LOCATIONS ARE CENTRE OF TRUSS\nCONT. PURLIN DETAIL",
+      "summary": "This detail shows a continuous purlin splice detail for the roof. The metal track is centered over the purlin splice, as indicated by the annotation 'METAL TRACK CENTERED OVER PURLIN SPLICE'. The note specifies that two adjacent ridge and two adjacent eave purlins should be made continuous by providing a 4'-0\" long 26 gauge track at each splice location, complete with sixteen 1½\" 10d nails on each side of the splice. The ridge and eave purlins are referenced to the plan for the number of rows. The metal track is applied as per the note, and all purlin splice locations are at the center of the truss. This detail is crucial for ensuring the structural integrity of the roof system by properly connecting the purlins.",
+      "project_id": "25-01-012",
+      "page_number": 4,
+      "region_number": 1,
+      "relative_path": "page_004/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – continuous purlin splice detail",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Continuous Purlin Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Metal Track",
+        "Purlins"
+      ],
+      "text_verbatim": "RIDGE AND EAVE PURLINS (SEE PLAN FOR NUMBER OF ROWS)\nMETAL TRACK AS PER NOTE\nALL PURLIN SPLICE LOCATIONS ARE CENTRE OF TRUSS\nCONT. PURLIN DETAIL",
+      "summary": "This detail illustrates the continuous purlin splice for the roof. The ridge and eave purlins are noted, with a reference to the plan for the number of rows. The metal track is applied as per the note, ensuring that all purlin splice locations are at the center of the truss. This detail is essential for maintaining the structural continuity of the roof system by properly aligning and securing the purlins.",
+      "project_id": "25-01-012",
+      "page_number": 4,
+      "region_number": 2,
+      "relative_path": "page_004/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – continuous purlin splice detail",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Continuous Purlin Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Metal Track",
+        "Purlins",
+        "Nails"
+      ],
+      "text_verbatim": "METAL TRACK CENTERED OVER PURLIN SPLICE\nNOTE:\nMAKE 2 ADJACENT RIDGE AND 2 ADJACENT EAVE PURLINS CONTINUOUS BY PROVIDING 4'-0\" LONG 26 GAUGE TRACK AT EACH SPLICE LOCATION c/w (16)1½\" 10d NAILS EACH SIDE OF SPLICE.",
+      "summary": "This detail focuses on the continuous purlin splice for the roof. The metal track is centered over the purlin splice, as indicated by the text 'METAL TRACK CENTERED OVER PURLIN SPLICE'. The note specifies that two adjacent ridge and two adjacent eave purlins should be made continuous by providing a 4'-0\" long 26 gauge track at each splice location, with sixteen 1½\" 10d nails on each side of the splice. This detail is critical for ensuring the structural integrity and continuity of the roof system by properly connecting the purlins.",
+      "project_id": "25-01-012",
+      "page_number": 4,
+      "region_number": 3,
+      "relative_path": "page_004/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – diagonal truss bracing",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Diagonal Truss Bracing Detail",
+      "element_callouts": [],
+      "key_components": [
+        "2x4 Strut",
+        "Diagonal Brace",
+        "Truss Web Member",
+        "Nails"
+      ],
+      "text_verbatim": "2x4 STRUT x 5'-0\" LONG @ TOP & BOTTOM WITH TWO OF 3½\" NAILS @ EACH TRUSS WEB MEMBER\nANCHOR 2x4 DIAGONAL BRACE TO LATERAL WITH FOUR OF 3½\" NAILS @ INTERSECTION OF TRUSS WEB & TRUSS LATERAL\nSPACING AS SPECIFIED BY BRACE DESIGNER 48'-0\" MAXIMUM\n2x4 DIAGONAL BRACING SPACED AS REQUIRED BY THE BRACING DESIGNER\nTRUSS TOP CHORD\nTRUSS WEB MEMBER\nTRUSS BOTTOM CHORD\nBUTT 2x4 LATERALS @ ALL SPLICE LOCATIONS. ENSURE BUTT JOINT IS TIGHT & CENTERED ON TRUSS WEB\nLAP 2x4 DIAGONAL (MIN. 2 TRUSSES) TO ENSURE DIAGONAL BRACE EXTENDS COMPLETELY FROM TOP CHORD TO BOTTOM CHORD OF TRUSS (AS REQUIRED)\nD6 DIAGONAL TRUSS BRACING DETAIL",
+      "summary": "This detail illustrates the diagonal truss bracing for the roof. The 2x4 strut is specified to be 5'-0\" long and is attached at the top and bottom with two 3½\" nails at each truss web member. The 2x4 diagonal brace is anchored to the lateral with four 3½\" nails at the intersection of the truss web and truss lateral. The spacing is specified by the brace designer with a maximum of 48'-0\". The diagonal bracing is spaced as required by the bracing designer. The truss top chord, web member, and bottom chord are labeled. The 2x4 laterals are butted at all splice locations, ensuring the butt joint is tight and centered on the truss web. The 2x4 diagonal is lapped over a minimum of two trusses to ensure the diagonal brace extends completely from the top chord to the bottom chord of the truss, as required. This detail is crucial for providing lateral stability to the roof structure.",
+      "project_id": "25-01-012",
+      "page_number": 5,
+      "region_number": 1,
+      "relative_path": "page_005/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Roof – diagonal truss bracing",
+      "level": "Roof",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Diagonal Truss Bracing Detail",
+      "element_callouts": [],
+      "key_components": [
+        "2x4 Strut",
+        "Diagonal Brace",
+        "Truss Web Member",
+        "Nails"
+      ],
+      "text_verbatim": "2x4 DIAGONAL \"X\" BRACE ON OPPOSITE SIDE OF TRUSS AT ENDWALLS & WHERE SPECIFIED ELSEWHERE\nANCHOR 2x4 DIAGONAL \"X\" BRACE ON OPPOSITE SIDE OF WEB WITH TWO OF 3½\" NAILS @ EACH TRUSS\n2x4 STRUT x 5'-0\" LONG @ TOP & BOTTOM WITH TWO OF 3½\" NAILS @ EACH TRUSS WEB MEMBER\nANCHOR DIAGONAL BRACE TO STRUT @ BOTH ENDS WITH FOUR 3½\" NAILS\nSPACING AS SPECIFIED BY BRACE DESIGNER 48'-0\" MAXIMUM\n2x4 DIAGONAL BRACING SPACED AS REQUIRED BY THE BRACING DESIGNER\nBUTT 2x4 LATERALS @ ALL SPLICE LOCATIONS. ENSURE BUTT JOINT IS TIGHT & CENTERED ON TRUSS WEB\nLAP 2x4 DIAGONAL (MIN. 2 TRUSSES) TO ENSURE DIAGONAL BRACE EXTENDS COMPLETELY FROM TOP CHORD TO BOTTOM CHORD OF TRUSS (AS REQUIRED)\nD6 DIAGONAL TRUSS BRACING DETAIL",
+      "summary": "This detail shows the diagonal truss bracing for the roof. A 2x4 diagonal \"X\" brace is placed on the opposite side of the truss at endwalls and where specified elsewhere. It is anchored with two 3½\" nails at each truss. The 2x4 strut is 5'-0\" long and attached at the top and bottom with two 3½\" nails at each truss web member. The diagonal brace is anchored to the strut at both ends with four 3½\" nails. The spacing is specified by the brace designer with a maximum of 48'-0\". The diagonal bracing is spaced as required by the bracing designer. The 2x4 laterals are butted at all splice locations, ensuring the butt joint is tight and centered on the truss web. The 2x4 diagonal is lapped over a minimum of two trusses to ensure the diagonal brace extends completely from the top chord to the bottom chord of the truss, as required. This detail is essential for providing lateral stability and structural integrity to the roof system.",
+      "project_id": "25-01-012",
+      "page_number": 5,
+      "region_number": 2,
+      "relative_path": "page_005/region_02_red_box.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "1/1",
+      "drawing_title": "Warehouse Layout",
+      "overall_classification": "Plan",
+      "level": "Ground Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Warehouse Units",
+        "Rack Layout",
+        "Unit Dimensions"
+      ],
+      "text_verbatim_title_block": "Client: La Siembra Co-op\n2300 St Laurent Blvd, Units 132 and 140\nOttawa, Ontario K1G 5X6\nProject: Warehouse Layout\nDate: 2020\nSheet: 1/1",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet provides a plan view of the warehouse layout for La Siembra Co-op, detailing the arrangement of racks within Units 132 and 140. The drawing includes dimensions for the placement of racks labeled C1 to C6, showing their positions and spacing within the warehouse. The layout is designed to optimize storage capacity and accessibility on the ground floor."
+    }
+  ]
+}

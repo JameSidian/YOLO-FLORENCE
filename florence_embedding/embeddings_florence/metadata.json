@@ -1,0 +1,4682 @@
+[
+  {
+    "index": 0,
+    "image_path": "..\\test_embeddings\\25-01-001\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-001",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1858,
+        1292,
+        3040,
+        1971
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7453224062919617
+    }
+  },
+  {
+    "index": 1,
+    "image_path": "..\\test_embeddings\\25-01-001\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-001",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        109,
+        556,
+        1756,
+        2997
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4901335835456848
+    }
+  },
+  {
+    "index": 2,
+    "image_path": "..\\test_embeddings\\25-01-001\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-001",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        661,
+        563,
+        3932,
+        1299
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3254375755786896
+    }
+  },
+  {
+    "index": 3,
+    "image_path": "..\\test_embeddings\\25-01-001\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-001",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        73,
+        563,
+        3098,
+        2796
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.25829216837882996
+    }
+  },
+  {
+    "index": 4,
+    "image_path": "..\\test_embeddings\\25-01-002\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-002",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1142,
+        838,
+        1050,
+        488
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9076859951019287
+    }
+  },
+  {
+    "index": 5,
+    "image_path": "..\\test_embeddings\\25-01-002\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-002",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        916,
+        66,
+        959,
+        739
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8925952315330505
+    }
+  },
+  {
+    "index": 6,
+    "image_path": "..\\test_embeddings\\25-01-002\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-002",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        63,
+        953,
+        1113,
+        366
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8402900695800781
+    }
+  },
+  {
+    "index": 7,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1880,
+        652,
+        504,
+        402
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9114327430725098
+    }
+  },
+  {
+    "index": 8,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1877,
+        99,
+        522,
+        535
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5988346338272095
+    }
+  },
+  {
+    "index": 9,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        214,
+        104,
+        1635,
+        603
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5540665984153748
+    }
+  },
+  {
+    "index": 10,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        24,
+        129,
+        1601,
+        723
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6868315935134888
+    }
+  },
+  {
+    "index": 11,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1828,
+        124,
+        582,
+        1055
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5333155393600464
+    }
+  },
+  {
+    "index": 12,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1601,
+        766,
+        793,
+        397
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8954325914382935
+    }
+  },
+  {
+    "index": 13,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1639,
+        1171,
+        479,
+        265
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8298833966255188
+    }
+  },
+  {
+    "index": 14,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_003\\region_03_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_003/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_003/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1591,
+        59,
+        836,
+        694
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5548429489135742
+    }
+  },
+  {
+    "index": 15,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_003\\region_04_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_003/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_003/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        173,
+        233,
+        1335,
+        766
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3400362730026245
+    }
+  },
+  {
+    "index": 16,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1794,
+        601,
+        524,
+        487
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.946185290813446
+    }
+  },
+  {
+    "index": 17,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1362,
+        88,
+        1065,
+        522
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7136192321777344
+    }
+  },
+  {
+    "index": 18,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        53,
+        118,
+        1096,
+        427
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.308418333530426
+    }
+  },
+  {
+    "index": 19,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        254,
+        103,
+        1865,
+        1306
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6485339999198914
+    }
+  },
+  {
+    "index": 20,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_007\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_007/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 7,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_007/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 7,
+      "bbox": [
+        259,
+        103,
+        1636,
+        405
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4688716530799866
+    }
+  },
+  {
+    "index": 21,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_006\\region_01_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_006/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_006/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        1780,
+        679,
+        614,
+        260
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8454185128211975
+    }
+  },
+  {
+    "index": 22,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_006\\region_02_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_006/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_006/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        1576,
+        92,
+        832,
+        559
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8392890095710754
+    }
+  },
+  {
+    "index": 23,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_006\\region_03_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_006/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_006/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        1250,
+        651,
+        467,
+        231
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5726673007011414
+    }
+  },
+  {
+    "index": 24,
+    "image_path": "..\\test_embeddings\\25-01-004\\page_006\\region_04_red_box.png",
+    "project_number": "25-01-004",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_006/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_006/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        0,
+        162,
+        1555,
+        1013
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.43449845910072327
+    }
+  },
+  {
+    "index": 25,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1228,
+        124,
+        2764,
+        829
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8646687269210815
+    }
+  },
+  {
+    "index": 26,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        4169,
+        125,
+        626,
+        414
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8498324751853943
+    }
+  },
+  {
+    "index": 27,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        901,
+        1831,
+        3147,
+        853
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8114886283874512
+    }
+  },
+  {
+    "index": 28,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_001/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_001/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        730,
+        966,
+        3330,
+        861
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8072546124458313
+    }
+  },
+  {
+    "index": 29,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_05_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_001/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_001/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        885,
+        2707,
+        3229,
+        781
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7975104451179504
+    }
+  },
+  {
+    "index": 30,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_001\\region_06_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_001/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_001/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        4280,
+        1998,
+        435,
+        399
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7600841522216797
+    }
+  },
+  {
+    "index": 31,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        2144,
+        2830,
+        1269,
+        689
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9223101139068604
+    }
+  },
+  {
+    "index": 32,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        4125,
+        2763,
+        657,
+        754
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9063810110092163
+    }
+  },
+  {
+    "index": 33,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        4344,
+        87,
+        535,
+        701
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8194709420204163
+    }
+  },
+  {
+    "index": 34,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_004\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_004/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_004/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        757,
+        33,
+        4007,
+        3159
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6864650249481201
+    }
+  },
+  {
+    "index": 35,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_004\\region_05_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_004/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_004/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        82,
+        32,
+        4013,
+        3042
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6410465240478516
+    }
+  },
+  {
+    "index": 36,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        202,
+        2443,
+        2468,
+        1062
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9306575059890747
+    }
+  },
+  {
+    "index": 37,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        2954,
+        2626,
+        1883,
+        878
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9165003895759583
+    }
+  },
+  {
+    "index": 38,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_005\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_005/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_005/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        253,
+        1215,
+        3949,
+        1326
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5987815260887146
+    }
+  },
+  {
+    "index": 39,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_005\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_005/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_005/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        507,
+        55,
+        3980,
+        1225
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5478088855743408
+    }
+  },
+  {
+    "index": 40,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1631,
+        3061,
+        879,
+        453
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.915332019329071
+    }
+  },
+  {
+    "index": 41,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3247,
+        2966,
+        910,
+        547
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8793653249740601
+    }
+  },
+  {
+    "index": 42,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_003/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_003/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        4311,
+        3113,
+        473,
+        362
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6231918334960938
+    }
+  },
+  {
+    "index": 43,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_003/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_003/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        208,
+        0,
+        3591,
+        3418
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5167454481124878
+    }
+  },
+  {
+    "index": 44,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_05_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_003/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_003/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        757,
+        0,
+        4011,
+        3512
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4662938714027405
+    }
+  },
+  {
+    "index": 45,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_06_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_003/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_003/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3246,
+        2963,
+        1497,
+        544
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3338085114955902
+    }
+  },
+  {
+    "index": 46,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_07_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_07_red_box.png",
+    "relative_path": "page_003/region_07_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_07_red_box.png",
+      "relative_path": "page_003/region_07_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        4422,
+        62,
+        474,
+        2269
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.29575127363204956
+    }
+  },
+  {
+    "index": 47,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_003\\region_08_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_08_red_box.png",
+    "relative_path": "page_003/region_08_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_08_red_box.png",
+      "relative_path": "page_003/region_08_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        4422,
+        119,
+        449,
+        1376
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.2690989077091217
+    }
+  },
+  {
+    "index": 48,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_006/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_006/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        3956,
+        1924,
+        764,
+        681
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9464625120162964
+    }
+  },
+  {
+    "index": 49,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_006/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_006/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        3978,
+        2813,
+        837,
+        713
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9426288604736328
+    }
+  },
+  {
+    "index": 50,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_006/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_006/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        3939,
+        844,
+        930,
+        867
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9353921413421631
+    }
+  },
+  {
+    "index": 51,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_006/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_006/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        2636,
+        2598,
+        1065,
+        922
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9214358329772949
+    }
+  },
+  {
+    "index": 52,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_05_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_006/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_006/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        2666,
+        1897,
+        1188,
+        555
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.888776421546936
+    }
+  },
+  {
+    "index": 53,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_06_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_006/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_006/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        2100,
+        67,
+        1945,
+        571
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8631553649902344
+    }
+  },
+  {
+    "index": 54,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_07_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_07_red_box.png",
+    "relative_path": "page_006/region_07_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_07_red_box.png",
+      "relative_path": "page_006/region_07_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        2122,
+        785,
+        1659,
+        933
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8320440053939819
+    }
+  },
+  {
+    "index": 55,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_006\\region_08_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_08_red_box.png",
+    "relative_path": "page_006/region_08_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_08_red_box.png",
+      "relative_path": "page_006/region_08_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        2446,
+        2742,
+        375,
+        366
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6909314393997192
+    }
+  },
+  {
+    "index": 56,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        3354,
+        2949,
+        1539,
+        570
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8662064075469971
+    }
+  },
+  {
+    "index": 57,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2281,
+        3028,
+        925,
+        482
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7675622701644897
+    }
+  },
+  {
+    "index": 58,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        243,
+        2933,
+        1049,
+        581
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6494048833847046
+    }
+  },
+  {
+    "index": 59,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_002\\region_04_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_002/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_002/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        184,
+        18,
+        3754,
+        3474
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.554672122001648
+    }
+  },
+  {
+    "index": 60,
+    "image_path": "..\\test_embeddings\\25-01-005\\page_002\\region_05_red_box.png",
+    "project_number": "25-01-005",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_002/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_002/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1170,
+        8,
+        3878,
+        3495
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5324912667274475
+    }
+  },
+  {
+    "index": 61,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1816,
+        2835,
+        717,
+        697
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9384563565254211
+    }
+  },
+  {
+    "index": 62,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2810,
+        2301,
+        1208,
+        1223
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8801799416542053
+    }
+  },
+  {
+    "index": 63,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        33,
+        3101,
+        908,
+        445
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8385812044143677
+    }
+  },
+  {
+    "index": 64,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_002\\region_04_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_002/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_002/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        4105,
+        2498,
+        848,
+        909
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7880145311355591
+    }
+  },
+  {
+    "index": 65,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_002\\region_05_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_002/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_002/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        0,
+        266,
+        3800,
+        1770
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.35040777921676636
+    }
+  },
+  {
+    "index": 66,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        2103,
+        2270,
+        2742,
+        1087
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9375958442687988
+    }
+  },
+  {
+    "index": 67,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        4154,
+        79,
+        842,
+        635
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9327973127365112
+    }
+  },
+  {
+    "index": 68,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        286,
+        2386,
+        1501,
+        991
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9243661761283875
+    }
+  },
+  {
+    "index": 69,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_004\\region_04_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_004/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_004/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        0,
+        417,
+        3945,
+        1487
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6284998059272766
+    }
+  },
+  {
+    "index": 70,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        130,
+        1979,
+        912,
+        497
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9358194470405579
+    }
+  },
+  {
+    "index": 71,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1397,
+        2294,
+        1136,
+        1245
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9247515201568604
+    }
+  },
+  {
+    "index": 72,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_003\\region_03_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_003/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_003/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        45,
+        2558,
+        622,
+        550
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8049514293670654
+    }
+  },
+  {
+    "index": 73,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_003\\region_04_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_003/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_003/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        41,
+        3117,
+        1268,
+        427
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.45162516832351685
+    }
+  },
+  {
+    "index": 74,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_003\\region_05_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_003/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_003/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        501,
+        209,
+        3984,
+        1725
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.30374443531036377
+    }
+  },
+  {
+    "index": 75,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        2692,
+        207,
+        2030,
+        1154
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9322391152381897
+    }
+  },
+  {
+    "index": 76,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        2641,
+        1532,
+        1817,
+        571
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8877637982368469
+    }
+  },
+  {
+    "index": 77,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        503,
+        1535,
+        1830,
+        582
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.867565929889679
+    }
+  },
+  {
+    "index": 78,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_03_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_005/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_005/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        362,
+        334,
+        3571,
+        601
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7443676590919495
+    }
+  },
+  {
+    "index": 79,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_04_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_005/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_005/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        400,
+        2717,
+        3518,
+        613
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7076694965362549
+    }
+  },
+  {
+    "index": 80,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_05_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_005/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_005/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        915,
+        2724,
+        3971,
+        620
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6815435886383057
+    }
+  },
+  {
+    "index": 81,
+    "image_path": "..\\test_embeddings\\25-01-006\\page_005\\region_06_red_box.png",
+    "project_number": "25-01-006",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_005/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_005/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        911,
+        340,
+        3978,
+        555
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6805461645126343
+    }
+  },
+  {
+    "index": 82,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        157,
+        305,
+        1619,
+        1210
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9442976713180542
+    }
+  },
+  {
+    "index": 83,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        140,
+        1746,
+        1688,
+        1737
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9442857503890991
+    }
+  },
+  {
+    "index": 84,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_03_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_003/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_003/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1862,
+        274,
+        1739,
+        1272
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9319207072257996
+    }
+  },
+  {
+    "index": 85,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_04_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_003/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_003/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3785,
+        2910,
+        1010,
+        501
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9225131869316101
+    }
+  },
+  {
+    "index": 86,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_05_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_003/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_003/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1858,
+        1732,
+        1993,
+        1736
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9172088503837585
+    }
+  },
+  {
+    "index": 87,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_06_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_003/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_003/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3605,
+        113,
+        1025,
+        1427
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9168923497200012
+    }
+  },
+  {
+    "index": 88,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_07_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_07_red_box.png",
+    "relative_path": "page_003/region_07_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_07_red_box.png",
+      "relative_path": "page_003/region_07_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3553,
+        1721,
+        1236,
+        796
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7901021242141724
+    }
+  },
+  {
+    "index": 89,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_003\\region_08_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_08_red_box.png",
+    "relative_path": "page_003/region_08_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_08_red_box.png",
+      "relative_path": "page_003/region_08_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3551,
+        1728,
+        656,
+        785
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7665168046951294
+    }
+  },
+  {
+    "index": 90,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        0,
+        177,
+        3667,
+        3257
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6105281114578247
+    }
+  },
+  {
+    "index": 91,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        3346,
+        171,
+        1394,
+        1070
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5047836899757385
+    }
+  },
+  {
+    "index": 92,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        135,
+        1643,
+        1562,
+        1813
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9490900039672852
+    }
+  },
+  {
+    "index": 93,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1781,
+        283,
+        1527,
+        1256
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9453076124191284
+    }
+  },
+  {
+    "index": 94,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        126,
+        124,
+        1448,
+        1391
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9369896650314331
+    }
+  },
+  {
+    "index": 95,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_004\\region_04_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_004/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_004/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        3325,
+        1606,
+        1506,
+        1815
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9351997375488281
+    }
+  },
+  {
+    "index": 96,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_004\\region_05_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_004/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_004/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1747,
+        1687,
+        1536,
+        1731
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9021804928779602
+    }
+  },
+  {
+    "index": 97,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        72,
+        689,
+        3513,
+        2829
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4466598629951477
+    }
+  },
+  {
+    "index": 98,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        110,
+        69,
+        2360,
+        3345
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.43287572264671326
+    }
+  },
+  {
+    "index": 99,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        2838,
+        348,
+        1358,
+        2563
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5778540372848511
+    }
+  },
+  {
+    "index": 100,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        631,
+        468,
+        1323,
+        2384
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5588014721870422
+    }
+  },
+  {
+    "index": 101,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_005\\region_03_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_005/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_005/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        604,
+        438,
+        2004,
+        2379
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.40870118141174316
+    }
+  },
+  {
+    "index": 102,
+    "image_path": "..\\test_embeddings\\25-01-008\\page_005\\region_04_red_box.png",
+    "project_number": "25-01-008",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_005/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_005/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        3485,
+        378,
+        882,
+        785
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.28185826539993286
+    }
+  },
+  {
+    "index": 103,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        827,
+        297,
+        798,
+        717
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8113629221916199
+    }
+  },
+  {
+    "index": 104,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        125,
+        262,
+        882,
+        779
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7052091360092163
+    }
+  },
+  {
+    "index": 105,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        245,
+        180,
+        1307,
+        867
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3801893889904022
+    }
+  },
+  {
+    "index": 106,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        3820,
+        987,
+        3299,
+        3294
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9108189344406128
+    }
+  },
+  {
+    "index": 107,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        77,
+        1084,
+        3349,
+        3170
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8441757559776306
+    }
+  },
+  {
+    "index": 108,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        179,
+        862,
+        3078,
+        3557
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9384381175041199
+    }
+  },
+  {
+    "index": 109,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        3366,
+        1084,
+        3648,
+        3378
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8850041031837463
+    }
+  },
+  {
+    "index": 110,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        130,
+        964,
+        3353,
+        3360
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8883736729621887
+    }
+  },
+  {
+    "index": 111,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        3258,
+        1101,
+        3686,
+        3247
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8703153729438782
+    }
+  },
+  {
+    "index": 112,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        70,
+        0,
+        2118,
+        477
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.32186159491539
+    }
+  },
+  {
+    "index": 113,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        3452,
+        2752,
+        2548,
+        2531
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9050043225288391
+    }
+  },
+  {
+    "index": 114,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        1227,
+        2792,
+        2015,
+        2454
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8941975235939026
+    }
+  },
+  {
+    "index": 115,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_005\\region_03_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_005/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_005/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        1219,
+        342,
+        2014,
+        2412
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.863478422164917
+    }
+  },
+  {
+    "index": 116,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_005\\region_04_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_005/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_005/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        3426,
+        184,
+        2372,
+        2538
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8229060769081116
+    }
+  },
+  {
+    "index": 117,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_006\\region_01_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_006/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_006/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        749,
+        2921,
+        2995,
+        2212
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9066262245178223
+    }
+  },
+  {
+    "index": 118,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_006\\region_02_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_006/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_006/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        3780,
+        699,
+        2820,
+        2209
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8854329586029053
+    }
+  },
+  {
+    "index": 119,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_006\\region_03_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_006/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_006/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        3616,
+        3065,
+        2993,
+        2055
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8705719709396362
+    }
+  },
+  {
+    "index": 120,
+    "image_path": "..\\test_embeddings\\25-01-010\\page_006\\region_04_red_box.png",
+    "project_number": "25-01-010",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_006/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_006/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        702,
+        149,
+        3225,
+        2711
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8568066358566284
+    }
+  },
+  {
+    "index": 121,
+    "image_path": "..\\test_embeddings\\25-01-011\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-011",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        278,
+        1054,
+        532,
+        386
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8943688869476318
+    }
+  },
+  {
+    "index": 122,
+    "image_path": "..\\test_embeddings\\25-01-011\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-011",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        277,
+        174,
+        1346,
+        829
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.775558352470398
+    }
+  },
+  {
+    "index": 123,
+    "image_path": "..\\test_embeddings\\25-01-011\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-011",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        875,
+        1069,
+        333,
+        286
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3785569667816162
+    }
+  },
+  {
+    "index": 124,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        3040,
+        1253,
+        449,
+        395
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.752072274684906
+    }
+  },
+  {
+    "index": 125,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        204,
+        205,
+        2012,
+        1728
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6743974089622498
+    }
+  },
+  {
+    "index": 126,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        3045,
+        255,
+        444,
+        994
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6097248792648315
+    }
+  },
+  {
+    "index": 127,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1055,
+        1697,
+        988,
+        560
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.860205352306366
+    }
+  },
+  {
+    "index": 128,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1319,
+        1798,
+        722,
+        467
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7430314421653748
+    }
+  },
+  {
+    "index": 129,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        1069,
+        1689,
+        550,
+        518
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6161652207374573
+    }
+  },
+  {
+    "index": 130,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1631,
+        1571,
+        598,
+        334
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9319597482681274
+    }
+  },
+  {
+    "index": 131,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2235,
+        1575,
+        605,
+        334
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9290293455123901
+    }
+  },
+  {
+    "index": 132,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        326,
+        1338,
+        1297,
+        876
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.896247923374176
+    }
+  },
+  {
+    "index": 133,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_04_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_002/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_002/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2857,
+        1575,
+        585,
+        329
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8940939903259277
+    }
+  },
+  {
+    "index": 134,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_05_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_002/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_002/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2251,
+        791,
+        1240,
+        570
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6166495084762573
+    }
+  },
+  {
+    "index": 135,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_06_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_002/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_002/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1167,
+        97,
+        2379,
+        694
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.496143639087677
+    }
+  },
+  {
+    "index": 136,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_002\\region_07_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_07_red_box.png",
+    "relative_path": "page_002/region_07_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_07_red_box.png",
+      "relative_path": "page_002/region_07_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        162,
+        161,
+        2650,
+        1269
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.285471647977829
+    }
+  },
+  {
+    "index": 137,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        698,
+        160,
+        2648,
+        945
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.746483325958252
+    }
+  },
+  {
+    "index": 138,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        177,
+        171,
+        2623,
+        940
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.679209291934967
+    }
+  },
+  {
+    "index": 139,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1035,
+        123,
+        2548,
+        694
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6578839421272278
+    }
+  },
+  {
+    "index": 140,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1071,
+        905,
+        2133,
+        1318
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4894314706325531
+    }
+  },
+  {
+    "index": 141,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_003\\region_03_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_003/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_003/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        190,
+        94,
+        1083,
+        1540
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4488968551158905
+    }
+  },
+  {
+    "index": 142,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_003\\region_04_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_003/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_003/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        1103,
+        132,
+        2238,
+        1073
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.42837461829185486
+    }
+  },
+  {
+    "index": 143,
+    "image_path": "..\\test_embeddings\\25-01-012\\page_003\\region_05_red_box.png",
+    "project_number": "25-01-012",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_003/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_003/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        183,
+        173,
+        2132,
+        2163
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.3528846800327301
+    }
+  },
+  {
+    "index": 144,
+    "image_path": "..\\test_embeddings\\25-01-013\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-013",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1397,
+        492,
+        715,
+        516
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.93034827709198
+    }
+  },
+  {
+    "index": 145,
+    "image_path": "..\\test_embeddings\\25-01-013\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-013",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1296,
+        39,
+        1145,
+        1448
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7665019631385803
+    }
+  },
+  {
+    "index": 146,
+    "image_path": "..\\test_embeddings\\25-01-013\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-013",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        179,
+        30,
+        1032,
+        1444
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.48736804723739624
+    }
+  },
+  {
+    "index": 147,
+    "image_path": "..\\test_embeddings\\25-01-014\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-014",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        72,
+        1207,
+        1137,
+        402
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.925337553024292
+    }
+  },
+  {
+    "index": 148,
+    "image_path": "..\\test_embeddings\\25-01-014\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-014",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        1178,
+        1305,
+        903,
+        304
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8613942861557007
+    }
+  },
+  {
+    "index": 149,
+    "image_path": "..\\test_embeddings\\25-01-014\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-014",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        744,
+        46,
+        1322,
+        1203
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8133677244186401
+    }
+  },
+  {
+    "index": 150,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        73,
+        372,
+        2467,
+        1709
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5462355613708496
+    }
+  },
+  {
+    "index": 151,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2745,
+        1094,
+        541,
+        851
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.46348270773887634
+    }
+  },
+  {
+    "index": 152,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        2744,
+        1092,
+        540,
+        1255
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4009905159473419
+    }
+  },
+  {
+    "index": 153,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_003\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_003/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_003/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        2764,
+        665,
+        560,
+        1786
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6390331387519836
+    }
+  },
+  {
+    "index": 154,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_003\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_003/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 3,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_003/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 3,
+      "bbox": [
+        67,
+        116,
+        2660,
+        2331
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5846975445747375
+    }
+  },
+  {
+    "index": 155,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_004\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_004/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_004/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        2674,
+        956,
+        538,
+        1221
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8420777916908264
+    }
+  },
+  {
+    "index": 156,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_004\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_004/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_004/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        2858,
+        973,
+        379,
+        1187
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8403714299201965
+    }
+  },
+  {
+    "index": 157,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_004\\region_03_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_004/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 4,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_004/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 4,
+      "bbox": [
+        148,
+        338,
+        2670,
+        2254
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.47151774168014526
+    }
+  },
+  {
+    "index": 158,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_006\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_006/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 6,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_006/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 6,
+      "bbox": [
+        425,
+        278,
+        2664,
+        1945
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6019334197044373
+    }
+  },
+  {
+    "index": 159,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_007\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_007/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 7,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_007/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 7,
+      "bbox": [
+        941,
+        144,
+        1796,
+        1057
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8644746541976929
+    }
+  },
+  {
+    "index": 160,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_007\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_007/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 7,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_007/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 7,
+      "bbox": [
+        490,
+        1350,
+        2024,
+        1201
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6035898327827454
+    }
+  },
+  {
+    "index": 161,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_007\\region_03_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_007/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 7,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_007/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 7,
+      "bbox": [
+        581,
+        1349,
+        1448,
+        1174
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.41433948278427124
+    }
+  },
+  {
+    "index": 162,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_005\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_005/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_005/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        417,
+        179,
+        2672,
+        1961
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.5230629444122314
+    }
+  },
+  {
+    "index": 163,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_005\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_005/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 5,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_005/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 5,
+      "bbox": [
+        0,
+        214,
+        2642,
+        1940
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.36911800503730774
+    }
+  },
+  {
+    "index": 164,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_009\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_009/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 9,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_009/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 9,
+      "bbox": [
+        1216,
+        243,
+        1542,
+        1556
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8966551423072815
+    }
+  },
+  {
+    "index": 165,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_008\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_008/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 8,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_008/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 8,
+      "bbox": [
+        1792,
+        133,
+        1360,
+        1019
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9470967054367065
+    }
+  },
+  {
+    "index": 166,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_008\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_008/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 8,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_008/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 8,
+      "bbox": [
+        456,
+        133,
+        1229,
+        1101
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9127001762390137
+    }
+  },
+  {
+    "index": 167,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_008\\region_03_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_008/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 8,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_008/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 8,
+      "bbox": [
+        459,
+        1456,
+        2556,
+        1108
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.725775420665741
+    }
+  },
+  {
+    "index": 168,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_008\\region_04_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_008/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 8,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_008/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 8,
+      "bbox": [
+        138,
+        102,
+        489,
+        1138
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4092407822608948
+    }
+  },
+  {
+    "index": 169,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_008\\region_05_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_008/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 8,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_008/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 8,
+      "bbox": [
+        140,
+        129,
+        693,
+        1126
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.2544473707675934
+    }
+  },
+  {
+    "index": 170,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_010\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_010/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 10,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_010/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 10,
+      "bbox": [
+        349,
+        1395,
+        2505,
+        1173
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7055977582931519
+    }
+  },
+  {
+    "index": 171,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_010\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_010/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 10,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_010/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 10,
+      "bbox": [
+        333,
+        120,
+        2661,
+        1303
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6380414366722107
+    }
+  },
+  {
+    "index": 172,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_011\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_011/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 11,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_011/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 11,
+      "bbox": [
+        364,
+        1309,
+        2592,
+        1264
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.6954458355903625
+    }
+  },
+  {
+    "index": 173,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_011\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_011/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 11,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_011/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 11,
+      "bbox": [
+        466,
+        108,
+        2417,
+        1177
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.43558818101882935
+    }
+  },
+  {
+    "index": 174,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_01_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_012/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_012/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1980,
+        142,
+        679,
+        518
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9309024810791016
+    }
+  },
+  {
+    "index": 175,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_02_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_012/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_012/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1098,
+        1430,
+        655,
+        419
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9065662622451782
+    }
+  },
+  {
+    "index": 176,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_03_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_012/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_012/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        2660,
+        151,
+        610,
+        581
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9018480181694031
+    }
+  },
+  {
+    "index": 177,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_04_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_012/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_012/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1077,
+        993,
+        681,
+        408
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9006745219230652
+    }
+  },
+  {
+    "index": 178,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_05_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_012/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_012/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1547,
+        406,
+        429,
+        325
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8799786567687988
+    }
+  },
+  {
+    "index": 179,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_06_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_06_red_box.png",
+    "relative_path": "page_012/region_06_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_06_red_box.png",
+      "relative_path": "page_012/region_06_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1938,
+        701,
+        593,
+        1028
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7955124974250793
+    }
+  },
+  {
+    "index": 180,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_07_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_07_red_box.png",
+    "relative_path": "page_012/region_07_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_07_red_box.png",
+      "relative_path": "page_012/region_07_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        1230,
+        162,
+        319,
+        713
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.7281556725502014
+    }
+  },
+  {
+    "index": 181,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_08_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_08_red_box.png",
+    "relative_path": "page_012/region_08_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_08_red_box.png",
+      "relative_path": "page_012/region_08_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        2624,
+        743,
+        640,
+        551
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.36576294898986816
+    }
+  },
+  {
+    "index": 182,
+    "image_path": "..\\test_embeddings\\25-01-017\\page_012\\region_09_red_box.png",
+    "project_number": "25-01-017",
+    "filename": "region_09_red_box.png",
+    "relative_path": "page_012/region_09_red_box.png",
+    "type": "region_crop",
+    "page_number": 12,
+    "metadata": {
+      "filename": "region_09_red_box.png",
+      "relative_path": "page_012/region_09_red_box.png",
+      "type": "region_crop",
+      "page_number": 12,
+      "bbox": [
+        363,
+        155,
+        612,
+        871
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.2504887282848358
+    }
+  },
+  {
+    "index": 183,
+    "image_path": "..\\test_embeddings\\25-01-018\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-018",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        2712,
+        1046,
+        2019,
+        1862
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9200441241264343
+    }
+  },
+  {
+    "index": 184,
+    "image_path": "..\\test_embeddings\\25-01-018\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-018",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        4095,
+        494,
+        587,
+        422
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9093427658081055
+    }
+  },
+  {
+    "index": 185,
+    "image_path": "..\\test_embeddings\\25-01-018\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-018",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        938,
+        184,
+        1207,
+        939
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8681097626686096
+    }
+  },
+  {
+    "index": 186,
+    "image_path": "..\\test_embeddings\\25-01-018\\page_001\\region_04_red_box.png",
+    "project_number": "25-01-018",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_001/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_001/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        4781,
+        82,
+        507,
+        479
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.4438299536705017
+    }
+  },
+  {
+    "index": 187,
+    "image_path": "..\\test_embeddings\\25-01-019\\page_002\\region_01_red_box.png",
+    "project_number": "25-01-019",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_002/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_002/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1240,
+        1064,
+        913,
+        515
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9367194175720215
+    }
+  },
+  {
+    "index": 188,
+    "image_path": "..\\test_embeddings\\25-01-019\\page_002\\region_02_red_box.png",
+    "project_number": "25-01-019",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_002/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_002/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1217,
+        593,
+        909,
+        425
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9272116422653198
+    }
+  },
+  {
+    "index": 189,
+    "image_path": "..\\test_embeddings\\25-01-019\\page_002\\region_03_red_box.png",
+    "project_number": "25-01-019",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_002/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_002/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        115,
+        102,
+        877,
+        773
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9134172797203064
+    }
+  },
+  {
+    "index": 190,
+    "image_path": "..\\test_embeddings\\25-01-019\\page_002\\region_04_red_box.png",
+    "project_number": "25-01-019",
+    "filename": "region_04_red_box.png",
+    "relative_path": "page_002/region_04_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_04_red_box.png",
+      "relative_path": "page_002/region_04_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        1257,
+        104,
+        883,
+        412
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8878313302993774
+    }
+  },
+  {
+    "index": 191,
+    "image_path": "..\\test_embeddings\\25-01-019\\page_002\\region_05_red_box.png",
+    "project_number": "25-01-019",
+    "filename": "region_05_red_box.png",
+    "relative_path": "page_002/region_05_red_box.png",
+    "type": "region_crop",
+    "page_number": 2,
+    "metadata": {
+      "filename": "region_05_red_box.png",
+      "relative_path": "page_002/region_05_red_box.png",
+      "type": "region_crop",
+      "page_number": 2,
+      "bbox": [
+        70,
+        1174,
+        795,
+        404
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8693772554397583
+    }
+  },
+  {
+    "index": 192,
+    "image_path": "..\\test_embeddings\\25-01-020\\page_001\\region_01_red_box.png",
+    "project_number": "25-01-020",
+    "filename": "region_01_red_box.png",
+    "relative_path": "page_001/region_01_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_01_red_box.png",
+      "relative_path": "page_001/region_01_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        975,
+        1328,
+        550,
+        245
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.9414032697677612
+    }
+  },
+  {
+    "index": 193,
+    "image_path": "..\\test_embeddings\\25-01-020\\page_001\\region_02_red_box.png",
+    "project_number": "25-01-020",
+    "filename": "region_02_red_box.png",
+    "relative_path": "page_001/region_02_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_02_red_box.png",
+      "relative_path": "page_001/region_02_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        594,
+        62,
+        1074,
+        1184
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.8698204755783081
+    }
+  },
+  {
+    "index": 194,
+    "image_path": "..\\test_embeddings\\25-01-020\\page_001\\region_03_red_box.png",
+    "project_number": "25-01-020",
+    "filename": "region_03_red_box.png",
+    "relative_path": "page_001/region_03_red_box.png",
+    "type": "region_crop",
+    "page_number": 1,
+    "metadata": {
+      "filename": "region_03_red_box.png",
+      "relative_path": "page_001/region_03_red_box.png",
+      "type": "region_crop",
+      "page_number": 1,
+      "bbox": [
+        145,
+        65,
+        1571,
+        1185
+      ],
+      "class_name": "red box",
+      "region_type": "other",
+      "confidence": 0.46610885858535767
+    }
+  }
+]

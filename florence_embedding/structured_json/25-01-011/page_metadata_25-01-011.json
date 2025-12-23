@@ -1,0 +1,21 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "25-01-011",
+      "drawing_title": "Upper Console Panel Dolly",
+      "overall_classification": "Detail",
+      "level": "Unknown",
+      "primary_orientation": null,
+      "key_components": [
+        "Upper Console Panel Dolly",
+        "Base Frame Detail",
+        "Caster Plates",
+        "Lock Plates"
+      ],
+      "text_verbatim_title_block": "PROJECT #25-01-011\nWADDELL ENGINEERING LTD.\n119 PINEVIEW RD., CAMBRIDGE, ON\nPH: 519-267-5289\nFAX: 1-888-269-6599\nINFO@WADDELLENG.COM\nDesign Load:\nDead Load: Self Weight\nLive Load: 500 lbs.\nUniformly Distributed On\n(3) Aluminum Bars\nCaster Capacity:\nMin. 300lbs/each\nREVISION\nDATE\nDESCRIPTION\nBY\nCHK\nAPP\n1\n01/17/25\nIssued for Construction\nJ. Doe\nA. Smith\nB. Brown\nCustomer: Mfg. Cambridge\nProject: Upper Console Panel Dolly\n",
+      "general_notes_verbatim": "STEEL NOTES:\n1. ALL STEEL SHALL BE DESIGNED, FABRICATED AND ERECTED IN CONFORMANCE TO THE STEEL CODE OF CAN/CSA-S16-19 AND ONTARIO BUILDING CODE.\n2. ALL STEEL MEMBERS TO BE WELDED.\n3. STRUCTURAL STEEL PLATES, SHAPES AND CHANNELS SHALL CONFORM TO CSA G40.21 - 300W, CSA G40.21 - 350W CLASS H OR HSS 44W SECTIONS.\n4. WELDING SHALL CONFORM TO THE REQUIREMENTS OF CSA W59-18.\n5. ALL DIMENSIONS ARE IN MILLIMETERS UNLESS NOTED OTHERWISE (U.N.O.).\n6. ALL HOLE SIZES ARE 1MM U.N.O.\n7. ALL BOLTED CONNECTIONS SHALL BE BEARING TYPE, U.N.O.\n8. ALL CONNECTIONS SHALL BE SHOP WELDED AS PER CSA/CSA-S16-19.\n9. FIELD VERIFY ALL DIMENSIONS PRIOR TO MANUFACTURING.\n10. ALL STRUCTURAL STEEL TO BE INSPECTED AS APPROVED BY THE GENERAL CONTRACTOR.\n11. ALL HARDWARE TO BE TORQUED VIA TURN-OF-NUT METHOD AS PER CSA S16-19 23.7.2 AND TABLE 7.",
+      "page_overview_summary": "This sheet provides detailed drawings for the Upper Console Panel Dolly, including views and details of the base frame, caster plates, and lock plates. The design load specifications are provided, with a dead load of self-weight and a live load of 500 lbs. The sheet includes steel notes detailing fabrication and erection standards, welding requirements, and material specifications. The drawing is intended for manufacturing and construction, with specific instructions for verifying dimensions and connection methods."
+    }
+  ]
+}

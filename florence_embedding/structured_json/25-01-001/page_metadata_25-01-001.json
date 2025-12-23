@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "S0",
+      "drawing_title": "GENERAL NOTES & KEY PLAN",
+      "overall_classification": "Notes",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "General Structural Notes",
+        "Key Plan"
+      ],
+      "text_verbatim_title_block": "WADDELL ENGINEERING LIMITED\nCANADIAN TIRE MEZZANINE REDUCTION\nETNALEX\nGENERAL NOTES & KEY PLAN\n25-01-001\nS0",
+      "general_notes_verbatim": "GENERAL NOTES\nSTRUCTURAL STEEL\nDESIGN LOADS",
+      "page_overview_summary": "This sheet provides general structural notes and a key plan for the Canadian Tire Mezzanine Reduction project. The notes cover various structural steel specifications and design loads. The key plan outlines the scope of work and provides an overview of the project layout, indicating multiple levels involved."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": "S1",
+      "drawing_title": "FRAMING PLAN",
+      "overall_classification": "Plan",
+      "level": "Mezzanine",
+      "primary_orientation": null,
+      "key_components": [
+        "Mezzanine Framing",
+        "Structural Connections"
+      ],
+      "text_verbatim_title_block": "WADDELL ENGINEERING LIMITED\nCANADIAN TIRE MEZZANINE REDUCTION\nETNALEX\nFRAMING PLAN\n25-01-001\nS1",
+      "general_notes_verbatim": "NOTES:\n1. SAFETY STANDS REQUIRED FOR MEZZANINE PER CODE 10.9 PARA 2.2.1.2\n2. MEZZANINE LOAD = 60 PSF UDL\n3. CONCENT LOAD = 2,700 LBS\n4. MAX TRIBUT. UNIT AREA = 400 SF (ARCHITECT TO VERIFY ALL TRIBUT. DIMENSIONS)",
+      "page_overview_summary": "This sheet presents the framing plan for the mezzanine level of the Canadian Tire project. It details the layout of the mezzanine framing, including structural connections and proposed alterations. Important notes specify safety requirements, load specifications, and maximum tributary areas, guiding the structural design and construction process."
+    }
+  ]
+}

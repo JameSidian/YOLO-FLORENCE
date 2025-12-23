@@ -1,0 +1,21 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": null,
+      "drawing_title": "COOLING TOWER UPGRADE",
+      "overall_classification": "Plan",
+      "level": "Roof",
+      "primary_orientation": null,
+      "key_components": [
+        "Upgraded Cooling Tower",
+        "Maintenance Platform",
+        "Guardrail",
+        "Access Ladder"
+      ],
+      "text_verbatim_title_block": "",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This sheet illustrates the proposed upgrades to a cooling tower located on the roof of an existing building. Key components include the upgraded cooling tower, a new maintenance platform with guardrails, and a fixed access ladder. The drawing provides a visual overview of the modifications for quoting purposes."
+    }
+  ]
+}

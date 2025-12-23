@@ -1,0 +1,81 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "sheet_id": "S0.0",
+      "drawing_title": "GENERAL NOTES",
+      "overall_classification": "Notes",
+      "level": "Multiple",
+      "primary_orientation": null,
+      "key_components": [
+        "General Structural Notes",
+        "Truss Bracing Details"
+      ],
+      "text_verbatim_title_block": "PROJECT: 75' x 256' POULTRY BARN\nCLIENT: RAY WILTS\nPROJECT NO: 25-01-006\nDATE: 2025-02-20\nSHEET TITLE: GENERAL NOTES\nSHEET NO: S0.0",
+      "general_notes_verbatim": "GENERAL NOTES\n1. ALL WORK SHALL CONFORM TO THE LATEST EDITION OF THE BUILDING CODE.\n2. CONTRACTOR SHALL VERIFY ALL DIMENSIONS AND CONDITIONS ON SITE.\n...\nTRUSS BRACING\n1. TRUSS BRACING SHALL BE INSTALLED AS PER MANUFACTURER'S SPECIFICATIONS.\n...",
+      "page_overview_summary": "This sheet provides general structural notes and specifications for the entire project, including important guidelines for construction and compliance with building codes. It also includes detailed information on truss bracing, which is critical for the structural integrity of the roof system."
+    },
+    {
+      "page_number": 2,
+      "sheet_id": "S1.0",
+      "drawing_title": "FOUNDATION PLAN",
+      "overall_classification": "Plan",
+      "level": "Foundation",
+      "primary_orientation": null,
+      "key_components": [
+        "Slab-on-Grade Foundations",
+        "Strip Footings and Foundation Walls",
+        "Footing Schedule"
+      ],
+      "text_verbatim_title_block": "PROJECT: 75' x 256' POULTRY BARN\nCLIENT: RAY WILTS\nPROJECT NO: 25-01-006\nDATE: 2025-02-20\nSHEET TITLE: FOUNDATION PLAN\nSHEET NO: S1.0",
+      "general_notes_verbatim": "FOUNDATION PLAN NOTES\n1. ALL FOOTINGS SHALL BE PLACED ON UNDISTURBED SOIL OR ENGINEERED FILL.\n2. MINIMUM CONCRETE STRENGTH SHALL BE 3000 PSI.\n...",
+      "page_overview_summary": "This foundation plan outlines the layout and specifications for the slab-on-grade foundations and strip footings. It includes a footing schedule and detailed notes on construction requirements, ensuring the foundation is built on stable soil or engineered fill."
+    },
+    {
+      "page_number": 3,
+      "sheet_id": "S2.0",
+      "drawing_title": "GROUND FLOOR PLAN",
+      "overall_classification": "Plan",
+      "level": "Ground Floor",
+      "primary_orientation": null,
+      "key_components": [
+        "Ground Floor Layout",
+        "Lintel Schedule",
+        "Column Schedule"
+      ],
+      "text_verbatim_title_block": "PROJECT: 75' x 256' POULTRY BARN\nCLIENT: RAY WILTS\nPROJECT NO: 25-01-006\nDATE: 2025-02-20\nSHEET TITLE: GROUND FLOOR PLAN\nSHEET NO: S2.0",
+      "general_notes_verbatim": "ASSEMBLY SCHEDULE\n1. ALL ASSEMBLIES SHALL BE CONSTRUCTED AS PER DETAILS PROVIDED.\n...",
+      "page_overview_summary": "The ground floor plan provides a detailed layout of the ground level, including the positions of columns and lintels. It includes schedules for lintels and columns, ensuring proper load distribution and structural support throughout the building."
+    },
+    {
+      "page_number": 4,
+      "sheet_id": "S2.1",
+      "drawing_title": "ROOF FRAMING PLAN",
+      "overall_classification": "Plan",
+      "level": "Roof",
+      "primary_orientation": null,
+      "key_components": [
+        "Roof Truss Layout",
+        "Roof Framing Sections"
+      ],
+      "text_verbatim_title_block": "PROJECT: 75' x 256' POULTRY BARN\nCLIENT: RAY WILTS\nPROJECT NO: 25-01-006\nDATE: 2025-02-20\nSHEET TITLE: ROOF FRAMING PLAN\nSHEET NO: S2.1",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "This roof framing plan details the layout and specifications for the roof trusses, including sections that illustrate the structural design. It ensures that the roof system is properly supported and aligned with the overall structural design of the building."
+    },
+    {
+      "page_number": 5,
+      "sheet_id": "S3.0",
+      "drawing_title": "BUILDING ELEVATIONS",
+      "overall_classification": "Elevation",
+      "level": "Multiple",
+      "primary_orientation": "North, South, East, West Elevations",
+      "key_components": [
+        "Building Elevations",
+        "Exterior Features"
+      ],
+      "text_verbatim_title_block": "PROJECT: 75' x 256' POULTRY BARN\nCLIENT: RAY WILTS\nPROJECT NO: 25-01-006\nDATE: 2025-02-20\nSHEET TITLE: BUILDING ELEVATIONS\nSHEET NO: S3.0",
+      "general_notes_verbatim": "",
+      "page_overview_summary": "The building elevations sheet provides detailed views of the north, south, east, and west sides of the poultry barn. It highlights exterior features and dimensions, ensuring that the building's appearance and structural elements are consistent with design specifications."
+    }
+  ]
+}

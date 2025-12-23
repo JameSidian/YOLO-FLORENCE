@@ -1,0 +1,85 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Detail",
+      "location": "Base Frame Detail",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Base Frame",
+      "element_callouts": [
+        "p1",
+        "p2",
+        "h6",
+        "h9",
+        "h10"
+      ],
+      "key_components": [
+        "Steel Frame",
+        "Bolts"
+      ],
+      "text_verbatim": "Base Frame Detail\n1372\n1296\n1359\n699\n709\n775\n140\n72\n105\n90\n84\np1\np2\nh6\nh9\nh10",
+      "summary": "This detail shows the base frame of the Upper Console Panel Dolly. The frame dimensions are 1372 mm in length and 775 mm in width. The frame includes several components labeled as p1, p2, h6, h9, and h10. The side dimensions are 140 mm and 105 mm, with additional spacing of 72 mm and 90 mm as indicated. The frame is likely constructed from steel, as suggested by the context of the sheet, and is designed to support the dolly structure.",
+      "project_id": "25-01-011",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Detail",
+      "location": "Upper Console Panel Dolly",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Dolly Frame",
+      "element_callouts": [
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "h7",
+        "h8",
+        "h9",
+        "h10",
+        "rb1"
+      ],
+      "key_components": [
+        "Steel Frame",
+        "Casters"
+      ],
+      "text_verbatim": "Upper Console Panel Dolly\nOpen To Bags This Side\nEnd View\nFront View (Open To Bags)\n813\n313\n314\n63\n1410\n1435\n1955\n762\n482\n286\n197\n750\n775 (30\")\n1372 (54\")\n38\nh1\nh2\nh3\nh4\nh5\nh6\nh7\nh8\nh9\nh10\nrb1",
+      "summary": "This detail provides views of the Upper Console Panel Dolly, including end and front views. The dolly is 1955 mm tall and 1372 mm wide, with casters at the base for mobility. The frame is constructed from steel, with various components labeled h1 through h10 and rb1. The dimensions and labels indicate the structural layout and support points for the dolly, designed to hold and transport panels. The 'Open To Bags This Side' note suggests functionality for loading or unloading.",
+      "project_id": "25-01-011",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Caster Plates",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Caster Plates",
+      "element_callouts": [],
+      "key_components": [
+        "Mild Steel",
+        "Bolts"
+      ],
+      "text_verbatim": "Caster Plates\nMaterial – 1/4” Mild Steel\nQty – 8\n35\n61\n84\n241\n127\n72\n750\n86\n92\nØ11",
+      "summary": "This detail shows the caster plates used in the Upper Console Panel Dolly. Each plate is made from 1/4” mild steel and measures 750 mm in length. The plates have multiple bolt holes, with a diameter of Ø11 mm, spaced at 72 mm and 127 mm. The plates are designed to support the casters, with a total quantity of 8 required for the dolly. The dimensions and material specifications ensure stability and durability for the dolly's movement.",
+      "project_id": "25-01-011",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    }
+  ]
+}

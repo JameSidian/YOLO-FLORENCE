@@ -1,0 +1,102 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Notes",
+      "location": "General overview of the project layout",
+      "level": "Multiple",
+      "orientation": null,
+      "grid_references": [
+        "1-16",
+        "A-I"
+      ],
+      "section_callouts": [],
+      "element_type": "Key Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Scope of Work",
+        "Project Layout"
+      ],
+      "text_verbatim": "KEY PLAN\nSCOPE OF WORK\nN.T.S.\nSCOPE OF WORK\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16\nA B C D E F G H I\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16\nA B C D E F G H I",
+      "summary": "This image shows a key plan for the Canadian Tire Mezzanine Reduction project, highlighting the scope of work. The plan is not to scale (N.T.S.) and provides an overview of the project layout, indicating multiple levels involved. Grid references from 1 to 16 and A to I are visible, outlining the structural layout. The text 'SCOPE OF WORK' is prominently displayed, indicating the area of focus for the project.",
+      "project_id": "25-01-001",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Plan",
+      "location": "Mezzanine level framing",
+      "level": "Mezzanine",
+      "orientation": null,
+      "grid_references": [
+        "4-6",
+        "F-I"
+      ],
+      "section_callouts": [],
+      "element_type": "Framing Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Guardrail",
+        "Mezzanine Framing",
+        "Structural Connections"
+      ],
+      "text_verbatim": "FRAMING PLAN\nMEZZANINE FRAMING\nN.T.S.\nNEW GUARD POSTS @ MAX. 48\" o.c. (TYP.)\nINSTALL NEW C8x11.5 (MATCH EXIST. CONNECTIONS)\nNEW 42\" HIGH GUARDRAIL (MATCH EXISTING CONSTRUCTION & CONNECTIONS) [GUARD POSTS @ MIN. 48\" o.c. w/ RAIL @ TOP, BOTTOM & MIDDLE. INSTALL 1\" x 6\" KICK PLATE BETWEEN POSTS, TYP.]\nEXIST. MEZZANINE FRAMING, DECKING & SUB-FLOOR TO REMAIN (TYP.)",
+      "summary": "This framing plan for the mezzanine level of the Canadian Tire project details the layout of the mezzanine framing, including structural connections and proposed alterations. The plan is not to scale (N.T.S.). Key components include new guard posts at a maximum spacing of 48 inches on center, new C8x11.5 structural members matching existing connections, and a new 42-inch high guardrail. Existing mezzanine framing, decking, and sub-floor are to remain as typical. The plan outlines safety requirements and load specifications, guiding the structural design and construction process.",
+      "project_id": "25-01-001",
+      "page_number": 2,
+      "region_number": 1,
+      "relative_path": "page_002/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Plan",
+      "location": "Mezzanine level framing",
+      "level": "Mezzanine",
+      "orientation": null,
+      "grid_references": [
+        "5-10"
+      ],
+      "section_callouts": [],
+      "element_type": "Framing Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Guardrail",
+        "Mezzanine Framing",
+        "Structural Connections"
+      ],
+      "text_verbatim": "NEW GUARD POSTS @ MAX. 48\" o.c. (TYP.)\nINSTALL NEW C8x11.5 (MATCH EXIST. CONNECTIONS)\nNEW 42\" HIGH GUARDRAIL (MATCH EXISTING CONSTRUCTION & CONNECTIONS) [GUARD POSTS @ MIN. 48\" o.c. w/ RAIL @ TOP, BOTTOM & MIDDLE. INSTALL 1\" x 6\" KICK PLATE BETWEEN POSTS, TYP.]\nEXIST. MEZZANINE FRAMING, DECKING & SUB-FLOOR TO REMAIN (TYP.)\nNOTES:\n1. (2) EXIT STAIRS REQ'D FROM MEZZANINE PER OBC DUE TO AREA [3.4.2.2.]\n2. MEZZANINE AREA = 334.5m2\n3. OCCUPANT LOAD = 7 PEOPLE\n4. MAX TRAVEL DISTANCE = 45m (ARCHITECT TO VERIFY ALL TRAVEL DISTANCES)",
+      "summary": "This mezzanine framing plan details the layout and structural connections for the Canadian Tire project. It includes new guard posts at a maximum spacing of 48 inches on center, new C8x11.5 structural members, and a new 42-inch high guardrail. Existing mezzanine framing, decking, and sub-floor are to remain as typical. Notes specify that two exit stairs are required from the mezzanine per OBC due to area, with a mezzanine area of 334.5 square meters and an occupant load of 7 people. The maximum travel distance is 45 meters, subject to verification by the architect.",
+      "project_id": "25-01-001",
+      "page_number": 2,
+      "region_number": 2,
+      "relative_path": "page_002/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Plan",
+      "location": "Mezzanine level framing",
+      "level": "Mezzanine",
+      "orientation": null,
+      "grid_references": [
+        "4-8",
+        "F-I"
+      ],
+      "section_callouts": [],
+      "element_type": "Framing Plan",
+      "element_callouts": [],
+      "key_components": [
+        "Guardrail",
+        "Mezzanine Framing",
+        "Structural Connections"
+      ],
+      "text_verbatim": "NEW GUARD POSTS @ MAX. 48\" o.c. (TYP.)\nINSTALL NEW C8x11.5 (MATCH EXIST. CONNECTIONS)\nNEW 42\" HIGH GUARDRAIL (MATCH EXISTING CONSTRUCTION & CONNECTIONS) [GUARD POSTS @ MIN. 48\" o.c. w/ RAIL @ TOP, BOTTOM & MIDDLE. INSTALL 1\" x 6\" KICK PLATE BETWEEN POSTS, TYP.]\nEXIST. MEZZANINE FRAMING, DECKING & SUB-FLOOR TO REMAIN (TYP.)\nNOTES:\n1. (2) EXIT STAIRS REQ'D FROM MEZZANINE PER OBC DUE TO AREA [3.4.2.2.]\n2. MEZZANINE AREA = 334.5m2\n3. OCCUPANT LOAD = 7 PEOPLE\n4. MAX TRAVEL DISTANCE = 45m (ARCHITECT TO VERIFY ALL TRAVEL DISTANCES)",
+      "summary": "This image presents the mezzanine framing plan for the Canadian Tire project, detailing structural connections and proposed alterations. Key components include new guard posts at a maximum spacing of 48 inches on center, new C8x11.5 structural members, and a new 42-inch high guardrail. Existing mezzanine framing, decking, and sub-floor are to remain as typical. Notes specify two exit stairs required from the mezzanine per OBC due to area, with a mezzanine area of 334.5 square meters and an occupant load of 7 people. The maximum travel distance is 45 meters, subject to verification by the architect.",
+      "project_id": "25-01-001",
+      "page_number": 2,
+      "region_number": 3,
+      "relative_path": "page_002/region_03_red_box.png"
+    }
+  ]
+}

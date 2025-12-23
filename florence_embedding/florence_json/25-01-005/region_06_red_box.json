@@ -1,0 +1,18 @@
+{
+  "image_id": "region_06_red_box.png",
+  "model": "florence-2-base-ft",
+  "tasks_run": [
+    "ocr",
+    "caption",
+    "dense_caption"
+  ],
+  "extraction": {
+    "caption": "arwall with instructions.",
+    "dense_caption": "single shearwall",
+    "ocr_text": "/16\" OSB ON ONE SIDE FASTENEDw/2 3/8\" NAIL-GUN NAILS @ 4\" o.c.PANEL EDGES AND 8\" oc. IN FIELD. PROVIDELOCKING @ 24\" o c. AND ALL PANEL EDGES.(3) PLY STUD POST EACH END OF SHEARwALLPANel WHERE NO POST PRESENTSEE DETAIL 2/S3DOUBLE SHEAR WALL7'16\"OSB ON BOTH SIDES FASTenedw/ 2 3/ 8\" NAILL-GIN NAILS@ 4\" O.c..PANAL EDGESAND 8\" Oc. In FIELD, PROVIDebLOCKING @24\" oC. AND All PANEL EdGES.( 3) PLy STUD POSTeach END OF SHEARWALLPANIEL WHERE NO Post PRESENTsee DETAILS 2/s3"
+  },
+  "metadata": {
+    "source": "screenshot",
+    "ingestion_version": "v1"
+  }
+}

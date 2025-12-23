@@ -1,0 +1,94 @@
+{
+  "images": [
+    {
+      "image_id": "region_01_red_box.png",
+      "classification": "Elevation",
+      "location": "South elevation view of the building",
+      "level": "Unknown",
+      "orientation": "South elevation",
+      "grid_references": [],
+      "section_callouts": [
+        "A-A",
+        "B-B"
+      ],
+      "element_type": "Tall Wall Framing",
+      "element_callouts": [],
+      "key_components": [
+        "Timber Girt",
+        "Vinyl Siding",
+        "Asphalt Shingles",
+        "Stone Column Bases"
+      ],
+      "text_verbatim": "U/S SOFFIT\nEXIST.\nT/O SUBFLR.\nPROPOSED 2ND\nT/O SUBFLR.\nEXIST. MAIN\nT/O FDN.\nEXIST.\nEXIST. STEEL ROOF TO REMAIN\nGENTEK VINYL FAIRWEATHER VERTICAL SIDING IN MOUNTAIN MOSS COLOUR, TYP.\nGENTEK ALUMINUM ALUMI HORIZONTAL SIDING IN DARK DRIFT COLOUR, TYP.\nFALSE TIMBER HEADERS\nGENTEK VINYL TRIM WORK IN IRON ORE COLOUR, TYP.\nWINDOWS IN IRON ORE COLOUR, TYP.\nASPHALT SHINGLES, DARK CHARCOAL STANDARD SHINGLES COLOUR (SIMILAR TO IRON ORE COLOUR)\nSTONE COLUMN BASES\nADD ON ENSURE STUDS ARE 2x6 @ 16\" o.c. MAX.\nSOUTH ELEVATION\n\"TALL WALL\" FRAMING\nSCALE: 1/4\" = 1'-0\"\n2\nAE-1",
+      "summary": "This image shows the south elevation of a building, focusing on tall wall framing. The elevation includes various materials such as Gentek vinyl siding in Mountain Moss and Dark Drift colors, asphalt shingles in dark charcoal, and stone column bases. The existing steel roof is to remain. The elevation specifies the use of 2x6 studs at 16 inches on center maximum. The elevation is part of a renovation project, and section callouts A-A and B-B indicate detailed construction sections. The scale of the drawing is 1/4 inch equals 1 foot.",
+      "project_id": "25-01-018",
+      "page_number": 1,
+      "region_number": 1,
+      "relative_path": "page_001/region_01_red_box.png"
+    },
+    {
+      "image_id": "region_02_red_box.png",
+      "classification": "Schedule",
+      "location": "South elevation glazing schedule",
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "Glazing Schedule",
+      "element_callouts": [],
+      "key_components": [
+        "Glazing Area",
+        "Wall Area"
+      ],
+      "text_verbatim": "PROPOSED SOUTH ELEVATION\nQUAN.\nID/SIZE\nGLAZING AREA (sf)\nTOTAL OPENING AREA (sf)\n2\n3'-0\" x 3'-0\"\n8.00\n16.00\n2\n3'-0\" x 4'-0\"\n10.80\n21.60\n2\n3'-0\" x 6'-0\"\n16.60\n33.20\nSPATIAL CALCULATION\nWALL AREA (sf)\n504.40\nWALL AREA (sm)\n46.86\nLIMITING DISTANCE (M)\n8.7\nMAXIMUM GLAZING ALLOWED (%)\n100\nMAXIMUM GLAZING ALLOWED (sf)\n504.40\nTOTAL GLAZING AREA PROVIDED (sf)\n70.80\nTOTAL GLAZING AREA PROVIDED (%)\n14.04",
+      "summary": "This schedule provides details on the proposed south elevation glazing. It lists the quantity, size, glazing area, and total opening area for different window sizes: 3'-0\" x 3'-0\", 3'-0\" x 4'-0\", and 3'-0\" x 6'-0\". The spatial calculation includes a total wall area of 504.40 square feet, with a maximum glazing allowed of 100%, equating to 504.40 square feet. The total glazing area provided is 70.80 square feet, which is 14.04% of the wall area.",
+      "project_id": "25-01-018",
+      "page_number": 1,
+      "region_number": 2,
+      "relative_path": "page_001/region_02_red_box.png"
+    },
+    {
+      "image_id": "region_03_red_box.png",
+      "classification": "Detail",
+      "location": "Section A-A detail",
+      "level": "Unknown",
+      "orientation": "Section A-A",
+      "grid_references": [],
+      "section_callouts": [
+        "A-A"
+      ],
+      "element_type": "Wall Section Detail",
+      "element_callouts": [],
+      "key_components": [
+        "Double Sill",
+        "Lag Screws",
+        "Nailgun Nails",
+        "Timber Girt"
+      ],
+      "text_verbatim": "SECTION A-A\nSECTION A-A (ISO)\nDOUBLE SILL AS PER WALL SCHEDULE\nFIRST PLY FASTENED w/ 1/2\" dia. LAG SCREWS w/ MIN. 3 1/2\" EMBED. INTO TIMBER @ 24\" o.c. (STAGGERED)\nSECOND PLY FASTENED WITH 3 1/4\" NAILGUN NAILS @ 2\" O.C. (3 FOR 2x6, 4 FOR 2x8, ETC) SPACED AT 12\" O.C. ALONG SILL\nSTRAPPING AS PER WALL SCHEDULE\nEX. TIMBER GIRT\nC9x13.4",
+      "summary": "This detail shows Section A-A, focusing on the wall section. It includes a double sill as per the wall schedule, with the first ply fastened using 1/2-inch diameter lag screws embedded 3 1/2 inches into timber at 24 inches on center, staggered. The second ply is fastened with 3 1/4-inch nailgun nails at 2 inches on center, spaced at 12 inches along the sill. The section also includes strapping as per the wall schedule and an existing timber girt. The section is labeled C9x13.4.",
+      "project_id": "25-01-018",
+      "page_number": 1,
+      "region_number": 3,
+      "relative_path": "page_001/region_03_red_box.png"
+    },
+    {
+      "image_id": "region_04_red_box.png",
+      "classification": "Notes",
+      "location": null,
+      "level": "Unknown",
+      "orientation": null,
+      "grid_references": [],
+      "section_callouts": [],
+      "element_type": "General Notes",
+      "element_callouts": [],
+      "key_components": [],
+      "text_verbatim": "GENERAL NOTES:\n1. Seal & Signature are by the person that has reviewed and taken responsibility for design activities.\n2. Do not scale the drawings.\n3. Check and verify all dimensions and report any discrepancies, contradictions, or ambiguities to the architectural designer prior to issuance of contract.\n4. All work to be carried out in accordance with the Ontario Building Code, other applicable codes and standards, and any other authority having jurisdiction.",
+      "summary": "The general notes emphasize the importance of verification and compliance. They state that the seal and signature are by the responsible designer, drawings should not be scaled, and all dimensions must be checked and verified. Any discrepancies should be reported to the architectural designer before the contract is issued. All work must comply with the Ontario Building Code and other applicable standards.",
+      "project_id": "25-01-018",
+      "page_number": 1,
+      "region_number": 4,
+      "relative_path": "page_001/region_04_red_box.png"
+    }
+  ]
+}

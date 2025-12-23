@@ -1,0 +1,18 @@
+{
+  "image_id": "region_01_red_box.png",
+  "model": "florence-2-base-ft",
+  "tasks_run": [
+    "ocr",
+    "caption",
+    "dense_caption"
+  ],
+  "extraction": {
+    "caption": "pad edge detail.",
+    "dense_caption": "unanswerable",
+    "ocr_text": "\" COVER TO CONC.MIN. 1-8\" LAP @ SPLICES(TOP & SIDES)POURED CONC.SLOPE AWAYREINF. PER PLAN10'-2\"COVERCOMPACTED GRAN. \"A'TO CONCTO CONC.1-6\"6\" MIN.3MANURE PAD EDGE DETAILS3SCALE: 3/4\" = 1-0\""
+  },
+  "metadata": {
+    "source": "screenshot",
+    "ingestion_version": "v1"
+  }
+}
